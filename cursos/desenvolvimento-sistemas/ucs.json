@@ -1,0 +1,327 @@
+[
+  {
+    "id": "uc1",
+    "titulo": "UC1 - Elaborar projetos de sistemas",
+    "atividades": [
+      "Pesquisas",
+      "Estudos de casos",
+      "Criar diagramas e fluxogramas",
+      "Elaboração de textos e geração de tabelas"
+    ],
+    "ferramentas": [
+      { "nome": "Trello", "desc": "Organização de tarefas em cartões e colunas." },
+      { "nome": "Google Forms", "desc": "Criação de formulários e pesquisas online." },
+      { "nome": "Mindmeister", "desc": "Criação de mapas mentais para organizar ideias." },
+      { "nome": "Excel", "desc": "Planilhas para cálculos, tabelas e organização de dados." },
+      { "nome": "Office 365 / Teams", "desc": "Ferramentas de escritório e comunicação em equipe." },
+      { "nome": "Lucidchart", "desc": "Desenho de diagramas, fluxogramas e mapas de sistemas." }
+    ]
+  },
+  {
+    "id": "uc2",
+    "titulo": "UC2 - Elaborar documentação de sistemas",
+    "atividades": [
+      "Pesquisas",
+      "Estudos de casos",
+      "Criar diagramas e fluxogramas",
+      "Elaboração de textos e geração de tabelas",
+      "Fazer versionamento de software"
+    ],
+    "ferramentas": [
+      { "nome": "Git / GitHub", "desc": "Controle de versões de código e salvamento de projetos na nuvem." },
+      { "nome": "Canva", "desc": "Criação de designs gráficos e apresentações visuais." },
+      { "nome": "Excel", "desc": "Planilhas para cálculos, tabelas e organização de dados." },
+      { "nome": "Office 365 / Teams", "desc": "Ferramentas de escritório e comunicação em equipe." },
+      { "nome": "Lucidchart", "desc": "Desenho de diagramas, fluxogramas e mapas de sistemas." }
+    ]
+  },
+  {
+    "id": "uc3",
+    "titulo": "UC3 - Modelar e estruturar banco de dados",
+    "atividades": [
+      "Pesquisas",
+      "Estudos de casos",
+      "Criar diagramas e fluxogramas",
+      "Elaboração de textos e geração de tabelas",
+      "Fazer versionamento de software",
+      "Codificação em linguagem SQL"
+    ],
+    "linguagens": [
+      { "nome": "SQL", "desc": "Linguagem padrão universal utilizada para interagir com bancos de dados relacionais." }
+    ],
+    "ferramentas": [
+      { "nome": "Git / GitHub", "desc": "Controle de versões de código e salvamento de projetos na nuvem." },
+      { "nome": "MySQL Workbench / Wamp / Xamp", "desc": "Ferramenta para gerenciar bancos de dados MySQL e criar servidores locais." },
+      { "nome": "PostgreSQL / pgAdmin", "desc": "Banco de dados avançado e sua interface de administração." }
+    ]
+  },
+  {
+    "id": "uc4",
+    "titulo": "UC4 - Administrar e implantar servidores de banco de dados",
+    "atividades": [
+      "Pesquisas",
+      "Estudos de casos",
+      "Criar diagramas e fluxogramas",
+      "Elaboração de textos e geração de tabelas",
+      "Fazer versionamento de software",
+      "Codificação em linguagem SQL"
+    ],
+    "linguagens": [
+      { "nome": "SQL", "desc": "Linguagem padrão universal utilizada para interagir com bancos de dados relacionais." }
+    ],
+    "ferramentas": [
+      { "nome": "Git / GitHub", "desc": "Controle de versões de código e salvamento de projetos na nuvem." },
+      { "nome": "MySQL Workbench / Wamp / Xamp", "desc": "Ferramenta para gerenciar bancos de dados MySQL e criar servidores locais." },
+      { "nome": "PostgreSQL / pgAdmin", "desc": "Banco de dados avançado e sua interface de administração." },
+      { "nome": "VirtualBox", "desc": "Criação de \"computadores virtuais\" dentro do seu próprio PC." }
+    ]
+  },
+  {
+    "id": "uc5",
+    "titulo": "UC5 - Desenvolver algoritmos e linguagem orientada a objetos",
+    "atividades": [
+      "Pesquisas",
+      "Estudos de casos",
+      "Documentação de código",
+      "Desenvolver lógica de programação computacional",
+      "Fazer versionamento de software",
+      "Codificação em linguagem de programação"
+    ],
+    "linguagens": [
+      { "nome": "Portugol", "desc": "Pseudolinguagem que se aproxima da fala humana para facilitar o entendimento da lógica de programação." },
+      { "nome": "Javascript, C# ou Python", "desc": "Linguagens de programação de sistemas." }
+    ],
+    "ferramentas": [
+      { "nome": "Git / GitHub", "desc": "Controle de versões de código e salvamento de projetos na nuvem." },
+      { "nome": "VisualG", "desc": "Ferramenta para escrita e execução de algoritmos em português. Usado em ambiente de aprendizagem." },
+      { "nome": "Trello", "desc": "Organização de tarefas em cartões e colunas." },
+      { "nome": "Excel", "desc": "Planilhas para cálculos, tabelas e organização de dados." },
+      { "nome": "Visual Studio / VS Code", "desc": "Editores para escrever e editar códigos de software." },
+      { "nome": "Node.js", "desc": "Tecnologia para executar códigos Javascript no servidor (backend)." },
+      { "nome": "Insomnia", "desc": "Ferramenta para teste de comunicação entre diferentes partes de um sistema (APIs)." }
+    ]
+  },
+  {
+    "id": "uc6",
+    "titulo": "UC6 - Desenvolver interface de usuário e usabilidade de aplicação desktop",
+    "atividades": [
+      "Pesquisas",
+      "Estudos de casos",
+      "Documentação de código",
+      "Criação de interfaces",
+      "Fazer versionamento de software",
+      "Codificação em linguagem de programação"
+    ],
+    "linguagens": [
+      { "nome": "C#", "desc": "Linguagem de programação de sistemas." }
+    ],
+    "ferramentas": [
+      { "nome": "Git / GitHub", "desc": "Controle de versões de código e salvamento de projetos na nuvem." },
+      { "nome": "Trello", "desc": "Organização de tarefas em cartões e colunas." },
+      { "nome": "Excel", "desc": "Planilhas para cálculos, tabelas e organização de dados." },
+      { "nome": "Visual Studio", "desc": "IDE profissional para criação de software." },
+      { "nome": "Insomnia", "desc": "Ferramenta para teste de comunicação entre diferentes partes de um sistema (APIs)." },
+      { "nome": "Figma", "desc": "Ferramenta de design para criação de interfaces de usuário." }
+    ]
+  },
+  {
+    "id": "uc7",
+    "titulo": "UC7 - Programar aplicação desktop com integração em servidores de banco de dados",
+    "atividades": [
+      "Pesquisas",
+      "Estudos de casos",
+      "Documentação de código",
+      "Desenvolver lógica de programação computacional",
+      "Fazer versionamento de software",
+      "Codificação em linguagem de programação"
+    ],
+    "linguagens": [
+      { "nome": "C#", "desc": "Linguagem de programação de sistemas." },
+      { "nome": "SQL", "desc": "Linguagem padrão universal utilizada para interagir com bancos de dados relacionais." }
+    ],
+    "ferramentas": [
+      { "nome": "Git / GitHub", "desc": "Controle de versões de código e salvamento de projetos na nuvem." },
+      { "nome": "Trello", "desc": "Organização de tarefas em cartões e colunas." },
+      { "nome": "Excel", "desc": "Planilhas para cálculos, tabelas e organização de dados." },
+      { "nome": "Visual Studio", "desc": "IDE profissional para criação de software." },
+      { "nome": "Insomnia", "desc": "Ferramenta para teste de comunicação entre diferentes partes de um sistema (APIs)." }
+    ]
+  },
+  {
+    "id": "uc8",
+    "titulo": "UC8 - Executar testes, melhorias e versionamento de aplicativo desktop",
+    "atividades": [
+      "Pesquisas",
+      "Estudos de casos",
+      "Documentação de código",
+      "Desenvolver lógica de programação computacional",
+      "Fazer versionamento de software",
+      "Codificação em linguagem de programação"
+    ],
+    "linguagens": [
+      { "nome": "C#", "desc": "Linguagem de programação de sistemas." },
+      { "nome": "SQL", "desc": "Linguagem padrão universal utilizada para interagir com bancos de dados relacionais." }
+    ],
+    "ferramentas": [
+      { "nome": "Git / GitHub", "desc": "Controle de versões de código e salvamento de projetos na nuvem." },
+      { "nome": "Trello", "desc": "Organização de tarefas em cartões e colunas." },
+      { "nome": "Excel", "desc": "Planilhas para cálculos, tabelas e organização de dados." },
+      { "nome": "Visual Studio", "desc": "IDE profissional para criação de software." },
+      { "nome": "Insomnia", "desc": "Ferramenta para teste de comunicação entre diferentes partes de um sistema (APIs)." }
+    ]
+  },
+  {
+    "id": "uc9",
+    "titulo": "UC9 - Desenvolver interface de usuário e usabilidade de aplicação web",
+    "atividades": [
+      "Pesquisas",
+      "Estudos de casos",
+      "Documentação de código",
+      "Criação de interfaces",
+      "Fazer versionamento de software",
+      "Codificação em linguagem de marcação e estilos"
+    ],
+    "linguagens": [
+      { "nome": "HTML", "desc": "Linguagem de marcação para estruturação de páginas web." },
+      { "nome": "CSS", "desc": "Linguagem de estilo para design e layout de páginas web." },
+      { "nome": "Javascript", "desc": "Linguagem de programação para interatividade em páginas web." }
+    ],
+    "ferramentas": [
+      { "nome": "Git / GitHub", "desc": "Controle de versões de código e salvamento de projetos na nuvem." },
+      { "nome": "Trello", "desc": "Organização de tarefas em cartões e colunas." },
+      { "nome": "Excel", "desc": "Planilhas para cálculos, tabelas e organização de dados." },
+      { "nome": "Visual Studio Code", "desc": "IDE profissional para criação de software." },
+      { "nome": "Figma", "desc": "Ferramenta de design para criação de interfaces de usuário." }
+    ]
+  },
+  {
+    "id": "uc10",
+    "titulo": "UC10 - Programar aplicação web com integração em servidores de banco de dados",
+    "atividades": [
+      "Pesquisas",
+      "Estudos de casos",
+      "Documentação de código",
+      "Criação de interfaces",
+      "Fazer versionamento de software",
+      "Codificação em linguagem de programação, linguagem de marcação e estilos"
+    ],
+    "linguagens": [
+      { "nome": "HTML", "desc": "Linguagem de marcação para estruturação de páginas web." },
+      { "nome": "CSS", "desc": "Linguagem de estilo para design e layout de páginas web." },
+      { "nome": "Node.js ou PHP", "desc": "Linguagem de programação para back-end." },
+      { "nome": "SQL", "desc": "Linguagem padrão universal utilizada para interagir com bancos de dados relacionais." }
+    ],
+    "ferramentas": [
+      { "nome": "Git / GitHub", "desc": "Controle de versões de código e salvamento de projetos na nuvem." },
+      { "nome": "Trello", "desc": "Organização de tarefas em cartões e colunas." },
+      { "nome": "Excel", "desc": "Planilhas para cálculos, tabelas e organização de dados." },
+      { "nome": "Visual Studio Code", "desc": "IDE profissional para criação de software." },
+      { "nome": "Figma", "desc": "Ferramenta de design para criação de interfaces de usuário." }
+    ]
+  },
+  {
+    "id": "uc11",
+    "titulo": "UC11 - Executar testes, melhoria e versionamento de aplicativo web",
+    "atividades": [
+      "Pesquisas",
+      "Estudos de casos",
+      "Documentação de código",
+      "Criação de interfaces",
+      "Fazer versionamento de software",
+      "Codificação em linguagem de programação, linguagem de marcação e estilos"
+    ],
+    "linguagens": [
+      { "nome": "HTML", "desc": "Linguagem de marcação para estruturação de páginas web." },
+      { "nome": "CSS", "desc": "Linguagem de estilo para design e layout de páginas web." },
+      { "nome": "Javascript", "desc": "Linguagem de programação para interatividade em páginas web." }
+    ],
+    "ferramentas": [
+      { "nome": "Git / GitHub", "desc": "Controle de versões de código e salvamento de projetos na nuvem." },
+      { "nome": "Trello", "desc": "Organização de tarefas em cartões e colunas." },
+      { "nome": "Excel", "desc": "Planilhas para cálculos, tabelas e organização de dados." },
+      { "nome": "Visual Studio Code", "desc": "IDE profissional para criação de software." },
+      { "nome": "Figma", "desc": "Ferramenta de design para criação de interfaces de usuário." }
+    ]
+  },
+  {
+    "id": "uc12",
+    "titulo": "UC12 - Desenvolver elementos visuais, interface de usuário e usabilidade de aplicação mobile",
+    "atividades": [
+      "Pesquisas",
+      "Estudos de casos",
+      "Documentação de código",
+      "Criação de interfaces",
+      "Fazer versionamento de software",
+      "Codificação em linguagem de marcação e estilos"
+    ],
+    "linguagens": [
+      { "nome": "HTML", "desc": "Linguagem de marcação para estruturação de páginas web." },
+      { "nome": "CSS", "desc": "Linguagem de estilo para design e layout de páginas web." },
+      { "nome": "Javascript", "desc": "Linguagem de programação para interatividade em páginas web." },
+      { "nome": "React Native", "desc": "Framework para desenvolvimento de aplicativos móveis." }
+    ],
+    "ferramentas": [
+      { "nome": "Git / GitHub", "desc": "Controle de versões de código e salvamento de projetos na nuvem." },
+      { "nome": "Trello", "desc": "Organização de tarefas em cartões e colunas." },
+      { "nome": "Excel", "desc": "Planilhas para cálculos, tabelas e organização de dados." },
+      { "nome": "Visual Studio Code", "desc": "IDE profissional para criação de software." },
+      { "nome": "Figma", "desc": "Ferramenta de design para criação de interfaces de usuário." }
+    ]
+  },
+  {
+    "id": "uc13",
+    "titulo": "UC13 - Programar aplicativo mobile com integração de banco de dados embarcado e serviços em nuvem",
+    "atividades": [
+      "Pesquisas",
+      "Estudos de casos",
+      "Documentação de código",
+      "Criação de interfaces",
+      "Fazer versionamento de software",
+      "Codificação em linguagem de programação, linguagem de marcação e estilos"
+    ],
+    "linguagens": [
+      { "nome": "HTML", "desc": "Linguagem de marcação para estruturação de páginas web." },
+      { "nome": "CSS", "desc": "Linguagem de estilo para design e layout de páginas web." },
+      { "nome": "Javascript", "desc": "Linguagem de programação para interatividade em páginas web." },
+      { "nome": "React Native", "desc": "Framework para desenvolvimento de aplicativos móveis." }
+    ],
+    "ferramentas": [
+      { "nome": "Git / GitHub", "desc": "Controle de versões de código e salvamento de projetos na nuvem." },
+      { "nome": "Trello", "desc": "Organização de tarefas em cartões e colunas." },
+      { "nome": "Excel", "desc": "Planilhas para cálculos, tabelas e organização de dados." },
+      { "nome": "Visual Studio Code", "desc": "IDE profissional para criação de software." },
+      { "nome": "Figma", "desc": "Ferramenta de design para criação de interfaces de usuário." }
+    ]
+  },
+  {
+    "id": "uc14",
+    "titulo": "UC14 - Executar testes, melhorias e versionamento de aplicativo mobile",
+    "atividades": [
+      "Pesquisas",
+      "Estudos de casos",
+      "Documentação de código",
+      "Criação de interfaces",
+      "Fazer versionamento de software",
+      "Codificação em linguagem de programação, linguagem de marcação e estilos"
+    ],
+    "linguagens": [
+      { "nome": "HTML", "desc": "Linguagem de marcação para estruturação de páginas web." },
+      { "nome": "CSS", "desc": "Linguagem de estilo para design e layout de páginas web." },
+      { "nome": "Javascript", "desc": "Linguagem de programação para interatividade em páginas web." },
+      { "nome": "React Native", "desc": "Framework para desenvolvimento de aplicativos móveis." }
+    ],
+    "ferramentas": [
+      { "nome": "Git / GitHub", "desc": "Controle de versões de código e salvamento de projetos na nuvem." },
+      { "nome": "Trello", "desc": "Organização de tarefas em cartões e colunas." },
+      { "nome": "Excel", "desc": "Planilhas para cálculos, tabelas e organização de dados." },
+      { "nome": "Visual Studio Code", "desc": "IDE profissional para criação de software." },
+      { "nome": "Figma", "desc": "Ferramenta de design para criação de interfaces de usuário." }
+    ]
+  },
+  {
+    "id": "uc15",
+    "titulo": "UC15 - Projeto Integrador Técnico em Desenvolvimento de Sistemas",
+    "descricao": "Na UC15, os alunos desenvolvem um projeto integrador que abrange todos os conhecimentos adquiridos ao longo do curso. O projeto é conduzido em equipes multidisciplinares e visa a criação de um sistema completo, desde o planejamento até a implementação final.",
+    "obs": "Logo, serão usadas todas as linguagens e tecnologias vistas ao longo do curso."
+  }
+]

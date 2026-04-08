@@ -1,0 +1,237 @@
+[
+  {
+    "id": "uc1",
+    "titulo": "UC1 - Planejar e executar a instalação de redes locais de computadores",
+    "conhecimentos": [
+      "Eletricidade aplicada a redes",
+      "Arquiteturas de redes",
+      "Modelo OSI e TCP/IP",
+      "Teoria Geral de Redes",
+      "Máscaras de endereços IP",
+      "Comportamento dos dados em cabeamento"
+    ],
+    "habilidades": [
+      "Planejar redes conforme o ambiente",
+      "Interpretar requisitos técnicos",
+      "Testar e corrigir funcionamento",
+      "Postura profissional, sigilo, proatividade e trabalho em equipe"
+    ]
+  },
+  {
+    "id": "uc2",
+    "titulo": "UC2 - Planejar e executar a manutenção de redes locais de computadores",
+    "conhecimentos": [
+      "Diagnóstico de falhas",
+      "Ferramentas de testes de rede",
+      "Manutenção preventiva e corretiva"
+    ],
+    "habilidades": [
+      "Identificar falhas físicas e lógicas",
+      "Testar conectividade",
+      "Elaborar documentação técnica",
+      "Responsabilidade, organização e zelo pelos equipamentos"
+    ]
+  },
+  {
+    "id": "uc3",
+    "titulo": "UC3 - Planejar e executar a instalação, configuração e monitoramento de servidores",
+    "conhecimentos": [
+      "Windows Server e Linux Server",
+      "Serviços de rede",
+      "Monitoramento de servidores"
+    ],
+    "habilidades": [
+      "Instalar e configurar servidores",
+      "Monitorar desempenho",
+      "Aplicar atualizações",
+      "Sigilo, organização e postura profissional"
+    ]
+  },
+  {
+    "id": "uc4",
+    "titulo": "UC4 - Projeto Integrador Assistente de Operação de Redes",
+    "conhecimentos": [
+      "Integração das UCs 1 a 3"
+    ],
+    "habilidades": [
+      "Desenvolver projeto prático integrado",
+      "Aplicar soluções reais",
+      "Trabalho em equipe, autonomia e responsabilidade"
+    ]
+  },
+  {
+    "id": "uc5",
+    "titulo": "UC5 - Implementar protocolos de rede em roteadores e switches",
+    "conhecimentos": [
+      "Plataforma e protocolos Cisco",
+      "LAN e WAN",
+      "Modelo OSI e TCP/IP",
+      "IPv4 e IPv6",
+      "Segurança em roteadores e switches"
+    ],
+    "habilidades": [
+      "Configurar protocolos",
+      "Calcular sub-redes",
+      "Testar conectividade",
+      "Proatividade, sigilo e trabalho em equipe"
+    ]
+  },
+  {
+    "id": "uc6",
+    "titulo": "UC6 - Implementar roteamento e switching",
+    "conhecimentos": [
+      "Segmentação de redes",
+      "VLANs",
+      "Roteamento estático e dinâmico"
+    ],
+    "habilidades": [
+      "Configurar VLANs",
+      "Implementar roteamento",
+      "Testar segmentação de rede",
+      "Organização e responsabilidade técnica"
+    ]
+  },
+  {
+    "id": "uc7",
+    "titulo": "UC7 - Planejar e executar a manutenção de servidores",
+    "conhecimentos": [
+      "Backup",
+      "Atualizações",
+      "Monitoramento"
+    ],
+    "habilidades": [
+      "Diagnosticar falhas em servidores",
+      "Restaurar sistemas",
+      "Responsabilidade e organização"
+    ]
+  },
+  {
+    "id": "uc8",
+    "titulo": "UC8 - Implementar cabeamento estruturado e telefonia IP",
+    "conhecimentos": [
+      "Normas de cabeamento",
+      "Padrões T568A/T568B",
+      "Telefonia IP"
+    ],
+    "habilidades": [
+      "Montar cabos",
+      "Organizar racks",
+      "Testar cabeamento",
+      "Precisão técnica e zelo pelos equipamentos"
+    ]
+  },
+  {
+    "id": "uc9",
+    "titulo": "UC9 - Implementar política de administração de redes e serviços de disponibilidade",
+    "conhecimentos": [
+      "Política de administração de redes",
+      "Modelos de disponibilidade"
+    ],
+    "habilidades": [
+      "Elaborar política de rede",
+      "Implementar e divulgar políticas",
+      "Sigilo, responsabilidade e uso consciente de recursos"
+    ]
+  },
+  {
+    "id": "uc10",
+    "titulo": "UC10 - Projeto Integrador Assistente de Implantação e Administração de Infraestrutura",
+    "conhecimentos": [
+      "Integração das UCs técnicas de infraestrutura"
+    ],
+    "habilidades": [
+      "Desenvolver projeto prático completo",
+      "Aplicar soluções reais de infraestrutura",
+      "Autonomia, responsabilidade e trabalho em equipe"
+    ]
+  },
+  {
+    "id": "uc11",
+    "titulo": "UC11 - Planejar e implementar a segurança física e lógica em redes",
+    "conhecimentos": [
+      "Segurança física",
+      "Segurança lógica",
+      "Controle de acesso"
+    ],
+    "habilidades": [
+      "Implementar controles",
+      "Elaborar planos de segurança",
+      "Ética e sigilo profissional"
+    ]
+  },
+  {
+    "id": "uc12",
+    "titulo": "UC12 - Planejar e implementar a segurança em redes sem fio",
+    "conhecimentos": [
+      "Dispositivos wireless",
+      "Normas de frequência",
+      "Segurança WLAN",
+      "Antenas e SNR"
+    ],
+    "habilidades": [
+      "Configurar Access Point",
+      "Diagnosticar sinal",
+      "Elaborar documentação",
+      "Postura profissional e cordialidade"
+    ]
+  },
+  {
+    "id": "uc13",
+    "titulo": "UC13 - Planejar e implementar a criptografia de dados e certificados digitais",
+    "conhecimentos": [
+      "Criptografia simétrica e assimétrica",
+      "Assinaturas digitais",
+      "Autoridade certificadora",
+      "Emissão e revogação de certificados"
+    ],
+    "habilidades": [
+      "Implementar criptografia",
+      "Instalar certificados",
+      "Interpretar textos técnicos",
+      "Segurança da informação e sigilo"
+    ]
+  },
+  {
+    "id": "uc14",
+    "titulo": "UC14 - Planejar e implementar a segurança em servidores Windows e Linux",
+    "conhecimentos": [
+      "Segurança em Windows Server",
+      "Segurança em Linux",
+      "Políticas de acesso"
+    ],
+    "habilidades": [
+      "Configurar segurança em servidores",
+      "Aplicar boas práticas",
+      "Ética e zelo pela integridade dos dados"
+    ]
+  },
+  {
+    "id": "uc15",
+    "titulo": "UC15 - Implantar etapas de gerenciamento de projetos e governança de processos em TI",
+    "conhecimentos": [
+      "ITIL",
+      "COBIT",
+      "Green IT",
+      "Estratégias de TI",
+      "Ferramentas de gerenciamento de projetos"
+    ],
+    "habilidades": [
+      "Implementar governança",
+      "Utilizar métricas",
+      "Elaborar documentação técnica",
+      "Proatividade, colaboração e sigilo"
+    ]
+  },
+  {
+    "id": "uc16",
+    "titulo": "UC16 - Projeto Integrador Assistente de Segurança em Redes de Computadores",
+    "conhecimentos": [
+      "Integração das UCs 11 a 15"
+    ],
+    "habilidades": [
+      "Desenvolver projeto completo de segurança",
+      "Aplicar soluções reais",
+      "Responsabilidade, autonomia e trabalho em equipe"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  { "nome": "Trello", "desc": "Organização de tarefas em cartões e colunas.", "link": "https://trello.com/" },
+  { "nome": "Google Forms", "desc": "Criação de formulários e pesquisas online.", "link": "https://forms.google.com/" },
+  { "nome": "MindMeister", "desc": "Criação de mapas mentais para organizar ideias.", "link": "https://www.mindmeister.com/" },
+  { "nome": "Excel", "desc": "Planilhas para cálculos, tabelas e organização de dados.", "link": "https://www.microsoft.com/pt-br/microsoft-365/excel" },
+  { "nome": "Office 365 / Teams", "desc": "Ferramentas de escritório e comunicação em equipe.", "link": "https://www.microsoft.com/pt-br/microsoft-365" },
+  { "nome": "Lucidchart", "desc": "Diagramas, fluxogramas e mapas de sistemas.", "link": "https://www.lucidchart.com/" },
+  { "nome": "Git / GitHub", "desc": "Controle de versões e hospedagem de código.", "link": "https://github.com/" },
+  { "nome": "Canva", "desc": "Design gráfico e apresentações.", "link": "https://www.canva.com/pt_br/" },
+  { "nome": "MySQL Workbench", "desc": "Gerenciamento de bancos MySQL.", "link": "https://dev.mysql.com/downloads/workbench/" },
+  { "nome": "PostgreSQL / pgAdmin", "desc": "Banco de dados avançado e interface administrativa.", "link": "https://www.postgresql.org/download/" },
+  { "nome": "VirtualBox", "desc": "Criação de máquinas virtuais.", "link": "https://www.virtualbox.org/wiki/Downloads" },
+  { "nome": "VisualG", "desc": "Algoritmos em português para aprendizagem.", "link": "https://visualg3.com.br/" },
+  { "nome": "VS Code", "desc": "Editor de código moderno.", "link": "https://code.visualstudio.com/" },
+  { "nome": "Node.js", "desc": "Execução JavaScript no backend.", "link": "https://nodejs.org/pt-br" },
+  { "nome": "Insomnia", "desc": "Testes de APIs.", "link": "https://insomnia.rest/download" },
+  { "nome": "Visual Studio", "desc": "IDE profissional para desenvolvimento.", "link": "https://visualstudio.microsoft.com/pt-br/" },
+  { "nome": "Figma", "desc": "Design de interfaces e prototipagem.", "link": "https://figma.com/" }
+]

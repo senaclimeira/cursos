@@ -1,0 +1,18 @@
+[
+  { "uc": 1, "nome": "Planejar e executar a instalação de redes locais de computadores", "aulas": 28, "ch": "96h", "falta25": "24h", "qtdeDias": "6 dias" },
+  { "uc": 2, "nome": "Planejar e executar a manutenção de redes locais de computadores", "aulas": 28, "ch": "96h", "falta25": "24h", "qtdeDias": "6 dias" },
+  { "uc": 3, "nome": "Planejar e executar a instalação, a configuração e o monitoramento de sistemas operacionais de redes locais (servidores)", "aulas": 28, "ch": "96h", "falta25": "24h", "qtdeDias": "6 dias" },
+  { "uc": 4, "nome": "Projeto integrador assistente de operação de redes de computadores", "aulas": 6, "ch": "20h", "falta25": "05h", "qtdeDias": "1 dia" },
+  { "uc": 5, "nome": "Implementar protocolos de rede em roteadores e switches", "aulas": 28, "ch": "96h", "falta25": "24h", "qtdeDias": "6 dias" },
+  { "uc": 6, "nome": "Implementar roteamento e switching", "aulas": 28, "ch": "96h", "falta25": "24h", "qtdeDias": "6 dias" },
+  { "uc": 7, "nome": "Planejar e executar a manutenção de servidores", "aulas": 14, "ch": "48h", "falta25": "12h", "qtdeDias": "3 dias" },
+  { "uc": 8, "nome": "Implementar cabeamento estruturado e telefonia IP", "aulas": 21, "ch": "72h", "falta25": "18h", "qtdeDias": "5 dias" },
+  { "uc": 9, "nome": "Implementar política de administração de redes e serviços", "aulas": 18, "ch": "60h", "falta25": "15h", "qtdeDias": "4 dias" },
+  { "uc": 10, "nome": "Projeto Integrador Assistente de Implantação e Administração de Infraestrutura de Redes de Computadores", "aulas": 9, "ch": "30h", "falta25": "7,5h", "qtdeDias": "2 dias" },
+  { "uc": 11, "nome": "Planejar e implementar a segurança física e lógica em redes de computadores", "aulas": 21, "ch": "72h", "falta25": "18h", "qtdeDias": "5 dias" },
+  { "uc": 12, "nome": "Planejar e implementar a segurança em redes sem fio", "aulas": 11, "ch": "36h", "falta25": "09h", "qtdeDias": "2 dias" },
+  { "uc": 13, "nome": "Planejar e implementar a criptografia de dados e certificados digitais", "aulas": 13, "ch": "44h", "falta25": "11h", "qtdeDias": "3 dias" },
+  { "uc": 14, "nome": "Planejar e implementar a segurança em servidores Windows e Linux", "aulas": 21, "ch": "72h", "falta25": "18h", "qtdeDias": "5 dias" },
+  { "uc": 15, "nome": "Implantar etapas de gerenciamento de projetos e governança de processos em TI", "aulas": 11, "ch": "36h", "falta25": "09h", "qtdeDias": "2 dias" },
+  { "uc": 16, "nome": "Projeto Integrador Assistente de Segurança em Redes de Computadores", "aulas": 9, "ch": "30h", "falta25": "7,5h", "qtdeDias": "2 dias" }
+]

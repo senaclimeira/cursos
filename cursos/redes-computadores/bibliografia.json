@@ -1,0 +1,100 @@
+[
+  {
+    "titulo": "Redes de computadores: guia total",
+    "autores": "SOUSA, L. B.",
+    "editora": "Érica, 2014",
+    "tipo": "Básica",
+    "ucs": [1, 9]
+  },
+  {
+    "titulo": "Redes de computadores e internet",
+    "autores": "COMER, D. E.",
+    "editora": "Bookman, 2016",
+    "tipo": "Básica",
+    "ucs": [2]
+  },
+  {
+    "titulo": "Cabeamento estruturado: desvendando cada passo: do projeto à instalação",
+    "autores": "MARIN, P. S.",
+    "editora": "Érica, 2013",
+    "tipo": "Complementar",
+    "ucs": [1, 8]
+  },
+  {
+    "titulo": "Montagem de redes locais: prático e didático",
+    "autores": "HAYAMA, M. M.",
+    "editora": "Érica, 2011",
+    "tipo": "Complementar",
+    "ucs": [2]
+  },
+  {
+    "titulo": "Segurança em redes sem fio",
+    "autores": "RUFINO, N. M. de O.",
+    "editora": "Novatec, 2015",
+    "tipo": "Básica",
+    "ucs": [12]
+  },
+  {
+    "titulo": "Microsoft Windows Server 2016: fundamentos",
+    "autores": "THOMPSON, M. A.",
+    "editora": "Érika, 2017",
+    "tipo": "Básica",
+    "ucs": [3]
+  },
+  {
+    "titulo": "Linux para servidores: da instalação à virtualização",
+    "autores": "MARTINI, L. A.; MAIEVES, G. T.",
+    "editora": "Viena, 2013",
+    "tipo": "Complementar",
+    "ucs": [3, 14]
+  },
+  {
+    "titulo": "CCNA 6.0: guia completo de estudo",
+    "autores": "FILIPPETTI, M. A.",
+    "editora": "Alta Books, 2019",
+    "tipo": "Básica",
+    "ucs": [5, 6]
+  },
+  {
+    "titulo": "Laboratórios de tecnologias Cisco em infraestrutura de redes",
+    "autores": "BRITO, S. H. B.",
+    "editora": "Novatec, 2014",
+    "tipo": "Complementar",
+    "ucs": [5, 6]
+  },
+  {
+    "titulo": "Análise de tráfego em redes TCP/IP",
+    "autores": "FILHO, J. E. M.",
+    "editora": "Novatec, 2013",
+    "tipo": "Básica",
+    "ucs": [9]
+  },
+  {
+    "titulo": "Técnicas de invasão: aprenda as técnicas usadas por hackers em invasões reais",
+    "autores": "FRAGA, B.",
+    "editora": "Labrador, 2019",
+    "tipo": "Básica",
+    "ucs": [11]
+  },
+  {
+    "titulo": "Segurança de computadores e teste de invasão",
+    "autores": "BASTA, A.; BASTA, N.; BROWN, M.",
+    "editora": "Cengage Learning, 2014",
+    "tipo": "Complementar",
+    "ucs": [11, 12, 14]
+  },
+  {
+    "titulo": "Criptografia e segurança de redes: princípios e práticas",
+    "autores": "STALLINGS, W.",
+    "editora": "Pearson Universidades, 2014",
+    "tipo": "Básica",
+    "ucs": [13]
+  },
+  {
+    "titulo": "Implantando a governança de TI: da estratégia à gestão de processos e serviços",
+    "autores": "FERNANDES, A. A.",
+    "editora": "Brasport, 2014",
+    "tipo": "Básica",
+    "ucs": [15]
+  }
+]

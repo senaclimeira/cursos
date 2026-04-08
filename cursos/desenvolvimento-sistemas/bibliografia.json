@@ -1,0 +1,184 @@
+[
+  {
+    "titulo": "Análise e projeto de sistemas",
+    "autores": "DENNIS, A.; WIXON, B. H.; ROTH, R. M.",
+    "editora": "LTC, 2014",
+    "tipo": "Básica",
+    "ucs": [1, 2]
+  },
+  {
+    "titulo": "Sistemas de informação",
+    "autores": "BATISTA, E. de O.",
+    "editora": "Saraiva, 2017",
+    "tipo": "Complementar",
+    "ucs": [1, 2]
+  },
+  {
+    "titulo": "Uml: guia do usuário",
+    "autores": "BOOCH, G.; JACOBSON, I.; RUMBAUGH, J.",
+    "editora": "Campus, 2017",
+    "tipo": "Complementar",
+    "ucs": [1, 2]
+  },
+  {
+    "titulo": "Projeto e modelagem de banco de dados",
+    "autores": "NADEU, T.; JAGADISH, H. V.",
+    "editora": "Alta Books, 2014",
+    "tipo": "Mista (Básica/Comp.)",
+    "ucs": [3, 4]
+  },
+  {
+    "titulo": "Projeto de banco de dados: uma visão prática",
+    "autores": "MACHADO, F. N. R.; ABREU, M. P. de.",
+    "editora": "Érica: Saraiva, 2018",
+    "tipo": "Mista (Básica/Comp.)",
+    "ucs": [3, 4]
+  },
+  {
+    "titulo": "Introdução à linguagem SQL: abordagem prática",
+    "autores": "NIELD, T.",
+    "editora": "Novatec, 2019",
+    "tipo": "Complementar",
+    "ucs": [3, 4, 7]
+  },
+  {
+    "titulo": "Orientação a objetos em C#",
+    "autores": "ARAUJO, E. C.",
+    "editora": "Casa do Código, 2020",
+    "tipo": "Básica",
+    "ucs": [5]
+  },
+  {
+    "titulo": "Entendendo algoritmos: um guia ilustrado",
+    "autores": "BHARGAVA, A. Y.",
+    "editora": "Novatec, 2017",
+    "tipo": "Complementar",
+    "ucs": [5]
+  },
+  {
+    "titulo": "Análise orientada a objetos",
+    "autores": "CORREIA, C. H.; TAFNER, M. A.",
+    "editora": "Visual books, 2018",
+    "tipo": "Complementar",
+    "ucs": [5, 6]
+  },
+  {
+    "titulo": "C# e visual studio desenvolvimento desktop",
+    "autores": "ARAUJO, E. C.",
+    "editora": "Casa do Código, 2020",
+    "tipo": "Básica",
+    "ucs": [6, 7]
+  },
+  {
+    "titulo": "Programação em C# para iniciantes",
+    "autores": "DIMES, T.",
+    "editora": "Babelcube Books, 2016",
+    "tipo": "Complementar",
+    "ucs": [6, 7]
+  },
+  {
+    "titulo": "Arquitetura limpa",
+    "autores": "MARTIN, R. C.",
+    "editora": "Alta Books, 2019",
+    "tipo": "Básica",
+    "ucs": [8, 10, 11, 14]
+  },
+  {
+    "titulo": "Test-driven development (TDD) com .NET",
+    "autores": "ANICHE, M.",
+    "editora": "Casa do Código, 2013",
+    "tipo": "Complementar",
+    "ucs": [8]
+  },
+  {
+    "titulo": "Qualidade de software na prática",
+    "autores": "SAMPAIO, C.",
+    "editora": "Ciência Moderna, 2014",
+    "tipo": "Complementar",
+    "ucs": [8, 11, 14]
+  },
+  {
+    "titulo": "Front-End: curso completo de html, css e js",
+    "autores": "Gabriel, P. A.",
+    "editora": "Tech Stuff House, 2022",
+    "tipo": "Básica",
+    "ucs": [9]
+  },
+  {
+    "titulo": "Ergodesign e arquitetura de informação",
+    "autores": "AGNER, L.",
+    "editora": "Senac, 2018",
+    "tipo": "Complementar",
+    "ucs": [9]
+  },
+  {
+    "titulo": "Introdução e boas práticas em UX Design",
+    "autores": "TEIXEIRA, F.",
+    "editora": "Casa do Código, 2014",
+    "tipo": "Complementar",
+    "ucs": [9]
+  },
+  {
+    "titulo": "ASP.NET Core MVC e Entity Framework",
+    "autores": "ARAUJO, E. C.",
+    "editora": "Casa do Código, 2020",
+    "tipo": "Básica",
+    "ucs": [10]
+  },
+  {
+    "titulo": "Web Services REST com ASP .NET Web API",
+    "autores": "SIÉCOLA, P.",
+    "editora": "Casa do Código, 2021",
+    "tipo": "Complementar",
+    "ucs": [10]
+  },
+  {
+    "titulo": "Produtividade em C#",
+    "autores": "RALHA, C.",
+    "editora": "Casa do Código, 2021",
+    "tipo": "Básica",
+    "ucs": [11]
+  },
+  {
+    "titulo": "Design de aplicativos",
+    "autores": "Cardoso, L. C.",
+    "editora": "InterSaberes, 2022",
+    "tipo": "Básica",
+    "ucs": [12]
+  },
+  {
+    "titulo": "Ergonomia e usabilidade",
+    "autores": "CYBIS, W.; BETIOL, A. H.; FAUST, R.",
+    "editora": "Novatec, 2015",
+    "tipo": "Complementar",
+    "ucs": [12]
+  },
+  {
+    "titulo": "Internet das coisas para desenvolvedores",
+    "autores": "OGLIARI, S. R.",
+    "editora": "Novatec, 2019",
+    "tipo": "Complementar",
+    "ucs": [12, 13]
+  },
+  {
+    "titulo": "Xamarin Forms e MVVM",
+    "autores": "ARAUJO, E. C.",
+    "editora": "Casa do Código, 2021",
+    "tipo": "Básica",
+    "ucs": [13]
+  },
+  {
+    "titulo": "Modernização de aplicação no Microsoft Azure",
+    "autores": "MICROSOFT",
+    "editora": "Casa do Código, 2021",
+    "tipo": "Complementar",
+    "ucs": [13]
+  },
+  {
+    "titulo": "Testes de aplicações mobile",
+    "autores": "MOLINARI, L.",
+    "editora": "Senac, 2018",
+    "tipo": "Básica",
+    "ucs": [14]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  { "nome": "Figma", "desc": "Prototipagem de interfaces de usuário.", "link": "https://figma.com" },
+  { "nome": "HTML", "desc": "Linguagem de marcação para estruturação de páginas web (documentação oficial).", "link": "https://developer.mozilla.org/pt-BR/docs/Web/HTML" },
+  { "nome": "CSS", "desc": "Linguagem de estilos para definição visual de páginas web (documentação oficial).", "link": "https://developer.mozilla.org/pt-BR/docs/Web/CSS" },
+  { "nome": "Adobe Photoshop", "desc": "Software de edição e manipulação de imagens.", "link": "https://www.adobe.com/br/products/photoshop.html" },
+  { "nome": "Adobe Illustrator", "desc": "Software de criação e edição de gráficos vetoriais.", "link": "https://www.adobe.com/br/products/illustrator.html" },
+  { "nome": "Adobe Premiere Pro", "desc": "Software de edição profissional de vídeo.", "link": "https://www.adobe.com/br/products/premiere.html" },
+  { "nome": "Adobe After Effects", "desc": "Software de motion graphics, animação e efeitos visuais.", "link": "https://www.adobe.com/br/products/aftereffects.html" },
+  { "nome": "Adobe Express", "desc": "Ferramenta da Adobe para criação rápida de designs, posts, vídeos e páginas web.", "link": "https://www.adobe.com/express/" },
+  { "nome": "Canva", "desc": "Plataforma de design gráfico para criação de imagens, apresentações e conteúdos visuais.", "link": "https://www.canva.com/" },
+  { "nome": "Freepik", "desc": "Banco de recursos gráficos e vetoriais, como ícones, ilustrações e fotos gratuitas e pagas.", "link": "https://www.freepik.com/" },
+  { "nome": "Favicon.io", "desc": "Ferramenta para criar e gerar ícones de sites (favicon) em diferentes formatos e tamanhos.", "link": "https://favicon.io/" },
+  { "nome": "Pexels", "desc": "Banco de imagens e vídeos gratuitos, com alta qualidade, para uso pessoal e comercial.", "link": "https://www.pexels.com/" },
+  { "nome": "Pixabay", "desc": "Plataforma de imagens, vídeos e vetores gratuitos, livres de direitos autorais.", "link": "https://pixabay.com/" },
+  { "nome": "Copilot", "desc": "Assistente de codificação baseado em IA, integrado ao Visual Studio Code, para sugestão de códigos.", "link": "https://github.com/features/copilot" },
+  { "nome": "Construct", "desc": "Plataforma para desenvolvimento de jogos 2D sem necessidade de programação avançada.", "link": "https://www.construct.net" }
+]
