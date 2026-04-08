@@ -1,0 +1,345 @@
+[
+  {
+    "id": "uc1",
+    "titulo": "UC1 - Desenvolver layout",
+    "conhecimentos": [
+      "Elementos e fundamentos do design (forma, cor, equilíbrio, composição e hierarquia).",
+      "Técnicas visuais (contraste, simetria, profundidade e complexidade).",
+      "Tipografia, textura, padronagem e metodologia de design.",
+      "Imagem digital: vetorial e bitmap, modos de cor (RGB, CMYK) e resolução.",
+      "Softwares gráficos: ferramentas, camadas, edição, tratamento e exportação.",
+      "Criação de interfaces e aplicação de identidade visual."
+    ],
+    "habilidades": [
+      "Criar composições visuais, layouts e ilustrações vetoriais.",
+      "Editar e tratar imagens digitais.",
+      "Combinar cores, tipografias e elementos gráficos.",
+      "Adaptar layouts para diferentes plataformas.",
+      "Utilizar softwares gráficos e exportar arquivos adequadamente."
+    ],
+    "atitudes": [
+      "Trabalho em equipe e comunicação assertiva.",
+      "Responsabilidade com prazos e ética profissional.",
+      "Organização e zelo pelos equipamentos e dados."
+    ]
+  },
+  {
+    "id": "uc2",
+    "titulo": "UC2 - Criar projetos gráficos para marketing digital",
+    "conhecimentos": [
+      "Fundamentos de marketing e estratégias digitais.",
+      "Produtos do marketing digital: conteúdo, mídias sociais, e-mail marketing e publicidade on-line.",
+      "Midiatização e comunicação em redes sociais.",
+      "Design digital aplicado à criação de interfaces e conteúdos.",
+      "Softwares gráficos e ferramentas de monitoramento on-line."
+    ],
+    "habilidades": [
+      "Desenvolver layouts e composições visuais estratégicas.",
+      "Adaptar narrativas ao público-alvo.",
+      "Identificar necessidades do cliente e definir estratégias de marketing.",
+      "Analisar dados e resultados on-line.",
+      "Utilizar linguagem técnica na comunicação profissional."
+    ],
+    "atitudes": [
+      "Trabalho em equipe e postura colaborativa.",
+      "Respeito à propriedade intelectual e ética profissional.",
+      "Responsabilidade com prazos e sigilo de informações.",
+      "Organização e zelo pelos equipamentos."
+    ]
+  },
+  {
+    "id": "uc3",
+    "titulo": "UC3 - Planejar produtos para web",
+    "conhecimentos": [
+      "Evolução da web (1.0, 2.0 e 3.0) e tendências de mercado.",
+      "Briefing, contratos, orçamentos e aspectos de direito digital.",
+      "Arquitetura da informação, acessibilidade, navegabilidade e usabilidade.",
+      "Sites responsivos e estrutura semântica.",
+      "Etapas de produção: fluxograma, wireframe e prototipagem."
+    ],
+    "habilidades": [
+      "Interpretar briefing e identificar necessidades do cliente.",
+      "Aplicar princípios de arquitetura, acessibilidade e usabilidade.",
+      "Produzir fluxogramas, wireframes e documentação de projetos web.",
+      "Elaborar contratos e orçamentos.",
+      "Comunicar ideias com clareza e utilizar termos técnicos."
+    ],
+    "atitudes": [
+      "Trabalho colaborativo em equipe.",
+      "Respeito à propriedade intelectual e ética profissional.",
+      "Sigilo e responsabilidade no tratamento de informações.",
+      "Zelo pelo uso adequado de equipamentos."
+    ]
+  },
+  {
+    "id": "uc4",
+    "titulo": "UC4 - Desenvolver produtos para web",
+    "conhecimentos": [
+      "Lógica de programação: algoritmos, variáveis, operadores e estruturas condicionais.",
+      "Linguagens web: HTML5 e CSS3.",
+      "Interatividade com JavaScript e jQuery.",
+      "CMS: WordPress, Blogger ou similares.",
+      "Produção, testes e publicação de websites."
+    ],
+    "habilidades": [
+      "Estruturar e formatar páginas web (HTML e CSS).",
+      "Implementar interatividade em sites.",
+      "Criar blogs e gerenciar conteúdos multimídia.",
+      "Adaptar layouts considerando acessibilidade e público-alvo.",
+      "Publicar e testar websites."
+    ],
+    "atitudes": [
+      "Trabalho em equipe e flexibilidade profissional.",
+      "Respeito à propriedade intelectual e ética profissional.",
+      "Responsabilidade e sigilo no tratamento de informações.",
+      "Zelo pelo uso adequado de equipamentos."
+    ]
+  },
+  {
+    "id": "uc5",
+    "titulo": "UC5 - Editar vídeo para web",
+    "conhecimentos": [
+      "Linguagem audiovisual: enquadramentos, ângulos, movimentos de câmera e tipos de cortes.",
+      "Tipos de vídeo: documentário, institucional, promocional, social e cinematográfico.",
+      "Roteiro: conceito e estrutura.",
+      "Edição de vídeo: timeline, efeitos, transições, correção de cor e inserção de áudio.",
+      "Resolução, formatos de arquivo, codecs e exportação (render).",
+      "Composição gráfica e aplicação de trilhas sonoras e locuções."
+    ],
+    "habilidades": [
+      "Analisar roteiro e necessidades do cliente.",
+      "Editar vídeos conforme proposta e aplicar conceitos audiovisuais.",
+      "Inserir e sincronizar áudio ao vídeo.",
+      "Criar composições gráficas e aplicar tratamento de cor.",
+      "Operar software de edição e exportar vídeos corretamente."
+    ],
+    "atitudes": [
+      "Trabalho colaborativo e respeito à equipe.",
+      "Respeito à propriedade intelectual e ética profissional.",
+      "Responsabilidade no cumprimento de prazos e sigilo de informações.",
+      "Zelo pelo uso adequado de equipamentos."
+    ]
+  },
+  {
+    "id": "uc6",
+    "titulo": "UC6 - Projeto Integrador Produção e Design para Web",
+    "descricao": "Na UC6, os alunos desenvolvem um projeto integrador que abrange a linguagem front end com todos os conhecimentos adquiridos ao longo das UCs. O projeto é conduzido visando o planejamento, prototipagem, testes até a implementação final."
+  },
+  {
+    "id": "uc7",
+    "titulo": "UC7 - Criar motion graphics",
+    "conhecimentos": [
+      "Motion graphics: aplicações, cases e mercado.",
+      "Storyboard, princípios de animação e organização de tempo.",
+      "Elementos e fundamentos do design gráfico aplicados ao vídeo.",
+      "Técnicas visuais, cor, textura e composição animada.",
+      "Videográficos, simulação 3D e identidade visual.",
+      "Softwares de vetorização, edição de imagem e composição de vídeo.",
+      "Sonoplastia, formatos, codecs e exportação de vídeo (render)."
+    ],
+    "habilidades": [
+      "Aplicar storyboard e animar conforme roteiro.",
+      "Criar videográficos e composições animadas.",
+      "Inserir e sincronizar sons e efeitos na animação.",
+      "Operar softwares gráficos e de composição audiovisual.",
+      "Simular elementos 3D e exportar projetos finalizados.",
+      "Interpretar dados e aplicar conceitos de design na animação."
+    ],
+    "atitudes": [
+      "Trabalho colaborativo e postura profissional.",
+      "Respeito à propriedade intelectual.",
+      "Sigilo e responsabilidade no tratamento de informações.",
+      "Zelo pelo uso adequado de equipamentos."
+    ]
+  },
+  {
+    "id": "uc8",
+    "titulo": "UC8 - Criar ilustração digital 2D",
+    "conhecimentos": [
+      "Repertório de ilustração: artistas, movimentos e estilos.",
+      "Fundamentos do desenho: luz, sombra, perspectiva, proporção e composição.",
+      "Técnicas tradicionais: lápis, aquarela, acrílico, nanquim, carvão e gravura.",
+      "Ilustração e pintura digital em softwares gráficos.",
+      "Cor: aplicação, tratamento e criação de paletas.",
+      "Desenvolvimento de ilustração vetorial."
+    ],
+    "habilidades": [
+      "Aplicar princípios de desenho na criação de ilustrações.",
+      "Criar ilustrações digitais e vetoriais.",
+      "Desenvolver composições e paletas de cores.",
+      "Operar softwares de ilustração digital.",
+      "Identificar referências artísticas e necessidades do cliente.",
+      "Revisar e finalizar ilustrações."
+    ],
+    "atitudes": [
+      "Trabalho colaborativo e postura profissional.",
+      "Respeito à propriedade intelectual.",
+      "Sigilo e responsabilidade no tratamento de informações.",
+      "Zelo pelo uso adequado de equipamentos."
+    ]
+  },
+  {
+    "id": "uc9",
+    "titulo": "UC9 - Criar concept art para animação 2D",
+    "conhecimentos": [
+      "Etapas de produção de animação: pré-produção, layout, storyboard e animatic.",
+      "Pesquisa visual e painel semântico: referências de estilo, cores e animação.",
+      "Criação de personagens: ficha técnica, posing e expressões faciais.",
+      "Ilustração digital de cenários, objetos e personagens.",
+      "Cor: aspectos físicos e psicológicos aplicados à animação.",
+      "Linguagem audiovisual: enquadramentos, ângulos, movimentos de câmera e tipos de cortes.",
+      "Argumento e roteiro: desenvolvimento e estrutura."
+    ],
+    "habilidades": [
+      "Criar storyboard, layout e animatic.",
+      "Desenvolver personagens e ilustrações digitais para animação.",
+      "Criar painel semântico e paleta de cores.",
+      "Atribuir ritmo, continuidade e composição de cenas.",
+      "Operar software de ilustração digital e revisar acabamentos."
+    ],
+    "atitudes": [
+      "Trabalho colaborativo e postura profissional.",
+      "Respeito à propriedade intelectual.",
+      "Sigilo e responsabilidade no tratamento de informações.",
+      "Zelo pelo uso adequado de equipamentos."
+    ]
+  },
+  {
+    "id": "uc10",
+    "titulo": "UC10 - Criar animação digital 2D",
+    "conhecimentos": [
+      "Conceitos de animação: FPS, quadros e quadros-chave.",
+      "Doze princípios da animação: compressão, antecipação, encenação, continuidade, arco, exagero e apelo.",
+      "Tipos de animação: clássica, 2D e 3D.",
+      "Movimentos de câmera e métodos de animação: quadro a quadro e interpolação.",
+      "Software de animação vetorial: timeline, camadas, símbolos, cenas, máscaras, hierarquia, integração e exportação.",
+      "Building: preparação e organização de arquivos para animação.",
+      "Software de áudio: edição, composição, lipsync e sincronização com a animação.",
+      "Formatos de vídeo, codecs e exportação (vídeo, sequência de imagens e GIF)."
+    ],
+    "habilidades": [
+      "Animar câmera, cenários, objetos e personagens.",
+      "Aplicar e sincronizar áudio na animação.",
+      "Operar softwares de animação vetorial e edição de áudio.",
+      "Organizar arquivos e cenas, revisar acabamento e exportar animações.",
+      "Aplicar princípios e métodos da animação e comunicar visualmente conceitos criativos."
+    ],
+    "atitudes": [
+      "Trabalho colaborativo e postura profissional.",
+      "Respeito à propriedade intelectual.",
+      "Sigilo e responsabilidade no tratamento de informações.",
+      "Zelo pelo uso adequado de equipamentos."
+    ]
+  },
+  {
+    "id": "uc11",
+    "titulo": "UC11 - Projeto Integrador Criação e Produção de Animações",
+    "descricao": "Na UC11, os alunos realizam a criação de uma animação autoral que evidencie a criatividade e o uso das técnicas e todos os conhecimentos adquiridos ao longo das UCs, considerando a compreensão de uma lógica narrativa e que esteja de acordo com o mercado."
+  },
+  {
+    "id": "uc12",
+    "titulo": "UC12 - Desenvolver game design",
+    "conhecimentos": [
+      "Contexto histórico e conceitos de games: jogo x diversão.",
+      "Gêneros de jogos digitais: ação, aventura, plataforma, RPG, simulação, esportes, quebra-cabeça e outros.",
+      "Estilos de games: diversão, educação, simulação e publicidade.",
+      "Regras e estruturas formais: limites, obrigatoriedade, repetição, objetos, personagens e interface.",
+      "Sistemas de jogos eletrônicos e complexidade.",
+      "Narrativas digitais: resumo, roteiro e fluxos do gameplay.",
+      "Documento de game design: visão geral, regras, AI, controles e variações.",
+      "Lógica de programação aplicada a games."
+    ],
+    "habilidades": [
+      "Criar regras, narrativas e roteiros para games.",
+      "Elaborar documento de game design e fluxo do gameplay.",
+      "Identificar gêneros, estilos, estruturas formais e sistemas de games.",
+      "Aplicar raciocínio lógico na criação de jogos."
+    ],
+    "atitudes": [
+      "Trabalho colaborativo e postura ética.",
+      "Respeito à propriedade intelectual.",
+      "Sigilo e responsabilidade no tratamento de informações.",
+      "Zelo pelo uso adequado de equipamentos."
+    ]
+  },
+  {
+    "id": "uc13",
+    "titulo": "UC13 - Criar concept art para webgame 2D",
+    "conhecimentos": [
+      "Pesquisa visual e painel semântico: referências de estilo, cores e animação.",
+      "Linguagem audiovisual: enquadramentos, ângulos e movimentos de câmera.",
+      "Criação de personagens: ficha técnica e ilustrações.",
+      "Criação de objetos e itens de cena.",
+      "Criação de cenários: fases e ambientações.",
+      "Desenvolvimento de roteiro e storyboard.",
+      "Pintura digital e ilustração vetorial."
+    ],
+    "habilidades": [
+      "Criar personagens, objetos e cenários para webgames.",
+      "Elaborar painel semântico, ficha técnica e roteiro de projeto.",
+      "Operar softwares de ilustração vetorial e pintura digital.",
+      "Comunicar visualmente conceitos criativos e aplicar raciocínio lógico."
+    ],
+    "atitudes": [
+      "Trabalho colaborativo e postura ética.",
+      "Respeito à propriedade intelectual e aos limites profissionais.",
+      "Responsabilidade com prazos, sigilo e uso adequado de equipamentos."
+    ]
+  },
+  {
+    "id": "uc14",
+    "titulo": "UC14 - Criar interface para webgame 2D",
+    "conhecimentos": [
+      "Elementos da interface: pontuação, vidas, regras, itens e tempo.",
+      "Telas: formatos e resolução.",
+      "Desenho de ícones e símbolos.",
+      "Usabilidade e experiência do usuário.",
+      "Fundamentos do design gráfico: equilíbrio, hierarquia, composição e contrastes.",
+      "Técnicas visuais: profundidade, sutileza x ousadia, simetria x assimetria.",
+      "Cor, textura e padronagem.",
+      "Criação de interface: grid, paleta de cores, tipografia e diagramação."
+    ],
+    "habilidades": [
+      "Criar interfaces e grid para webgames.",
+      "Desenhar ícones e símbolos.",
+      "Elaborar wireframe e proposta de usabilidade.",
+      "Operar softwares de ilustração vetorial e tratamento de imagem.",
+      "Comunicar visualmente conceitos e aplicar raciocínio lógico."
+    ],
+    "atitudes": [
+      "Trabalho colaborativo e postura ética.",
+      "Respeito à propriedade intelectual e sigilo na informação.",
+      "Zelo pelo uso de equipamentos e limites profissionais."
+    ]
+  },
+  {
+    "id": "uc15",
+    "titulo": "UC15 - Produzir webgame 2D",
+    "conhecimentos": [
+      "Raciocínio lógico aplicado à produção de webgames.",
+      "Software de criação de jogos 2D: game engine e linguagem de marcação.",
+      "Ações e comportamentos interativos.",
+      "Cutscenes e animações para narrativa.",
+      "Sonoplastia: ruídos, efeitos, músicas e locuções.",
+      "Testes, correções e critérios de análise de experiência.",
+      "Exportação de webgames e aspectos técnicos."
+    ],
+    "habilidades": [
+      "Criar ações, comportamentos e animações para webgames.",
+      "Inserir áudio e efeitos sonoros.",
+      "Testar e aplicar critérios de análise de experiência.",
+      "Exportar webgames e operar software de criação 2D.",
+      "Aplicar raciocínio lógico e comunicar conceitos criativos."
+    ],
+    "atitudes": [
+      "Trabalho em equipe e postura ética.",
+      "Respeito à propriedade intelectual e sigilo de informações.",
+      "Cumprimento de prazos e zelo pelo uso de equipamentos."
+    ]
+  },
+  {
+    "id": "uc16",
+    "titulo": "UC16 - Projeto Integrador Produção e Design para Webgames",
+    "descricao": "Na UC16, os alunos desenvolvem um projeto de web game 2D, que se adeque às linguagens do mercado aplicando os conhecimentos adquiridos ao longo das UCs. Adequando os grandes clássicos dos jogos por meio de uma releitura que os insira no cotidiano e no meio atuais."
+  }
+]

@@ -1,0 +1,18 @@
+[
+  { "uc": 1, "nome": "Desenvolver layout", "aulas": 18, "ch": "72h", "falta25": "18h", "qtdeDias": "4 dias" },
+  { "uc": 2, "nome": "Criar projetos gráficos para marketing digital", "aulas": 9, "ch": "36h", "falta25": "9h", "qtdeDias": "2 dias" },
+  { "uc": 3, "nome": "Planejar produtos para web", "aulas": 9, "ch": "36h", "falta25": "9h", "qtdeDias": "2 dias" },
+  { "uc": 4, "nome": "Desenvolver produtos para web", "aulas": 27, "ch": "108h", "falta25": "27h", "qtdeDias": "6 dias" },
+  { "uc": 5, "nome": "Editar vídeo para web", "aulas": 9, "ch": "36h", "falta25": "9h", "qtdeDias": "2 dias" },
+  { "uc": 6, "nome": "Projeto integrador produção e design para web", "aulas": 6, "ch": "24h", "falta25": "6h", "qtdeDias": "1 dia" },
+  { "uc": 7, "nome": "Criar motion graphics", "aulas": 12, "ch": "48h", "falta25": "12h", "qtdeDias": "3 dias" },
+  { "uc": 8, "nome": "Criar ilustração digital 2D", "aulas": 9, "ch": "36h", "falta25": "9h", "qtdeDias": "2 dias" },
+  { "uc": 9, "nome": "Criar concept art para animação 2D", "aulas": 9, "ch": "36h", "falta25": "9h", "qtdeDias": "2 dias" },
+  { "uc": 10, "nome": "Criar animação digital 2D", "aulas": 27, "ch": "108h", "falta25": "27h", "qtdeDias": "6 dias" },
+  { "uc": 11, "nome": "Projeto integrador criação e produção de animações", "aulas": 6, "ch": "24h", "falta25": "6h", "qtdeDias": "1 dia" },
+  { "uc": 12, "nome": "Desenvolver game design", "aulas": 12, "ch": "48h", "falta25": "12h", "qtdeDias": "3 dias" },
+  { "uc": 13, "nome": "Criar concept art para webgame 2D", "aulas": 9, "ch": "36h", "falta25": "9h", "qtdeDias": "2 dias" },
+  { "uc": 14, "nome": "Criar interface para webgame 2D", "aulas": 9, "ch": "36h", "falta25": "9h", "qtdeDias": "2 dias" },
+  { "uc": 15, "nome": "Produzir webgame 2D", "aulas": 24, "ch": "96h", "falta25": "24h", "qtdeDias": "6 dias" },
+  { "uc": 16, "nome": "Projeto integrador produção e design para webgames", "aulas": 5, "ch": "20h", "falta25": "5h", "qtdeDias": "1 dia" }
+]

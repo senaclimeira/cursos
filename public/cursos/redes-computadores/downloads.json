@@ -1,0 +1,19 @@
+[
+  { "nome": "Cisco Packet Tracer", "desc": "Simulador de redes para configuração e testes de topologias Cisco.", "link": "https://www.netacad.com/courses/packet-tracer" },
+  { "nome": "Hyper-V", "desc": "Plataforma de virtualização da Microsoft para criação e gerenciamento de máquinas virtuais.", "link": "https://learn.microsoft.com/virtualization/hyper-v-on-windows/" },
+  { "nome": "VirtualBox", "desc": "Software de virtualização multiplataforma para execução de sistemas operacionais em máquinas virtuais.", "link": "https://www.virtualbox.org/" },
+  { "nome": "VMware", "desc": "Solução de virtualização para execução e gerenciamento de ambientes virtuais.", "link": "https://www.vmware.com/" },
+  { "nome": "Proxmox", "desc": "Plataforma de virtualização open source para gerenciamento de máquinas virtuais e containers.", "link": "https://www.proxmox.com/" },
+  { "nome": "Windows Server", "desc": "Sistema operacional da Microsoft voltado para servidores e gerenciamento de redes corporativas.", "link": "https://www.microsoft.com/windows-server" },
+  { "nome": "Windows 10/11", "desc": "Sistema operacional da Microsoft para estações de trabalho e ambientes corporativos.", "link": "https://www.microsoft.com/windows" },
+  { "nome": "Ubuntu Server", "desc": "Sistema operacional Linux voltado para servidores, baseado em Debian.", "link": "https://ubuntu.com/server" },
+  { "nome": "Debian", "desc": "Distribuição Linux estável e amplamente utilizada em servidores.", "link": "https://www.debian.org/" },
+  { "nome": "Fedora", "desc": "Distribuição Linux focada em inovação e tecnologias recentes.", "link": "https://getfedora.org/" },
+  { "nome": "CentOS", "desc": "Distribuição Linux voltada para servidores, baseada no Red Hat Enterprise Linux.", "link": "https://www.centos.org/" },
+  { "nome": "Mikrotik", "desc": "Sistema RouterOS para gerenciamento e configuração avançada de redes.", "link": "https://mikrotik.com/" },
+  { "nome": "pfSense", "desc": "Firewall e roteador open source baseado em FreeBSD.", "link": "https://www.pfsense.org/" },
+  { "nome": "TrueNAS", "desc": "Sistema operacional para armazenamento em rede (NAS).", "link": "https://www.truenas.com/" },
+  { "nome": "PuTTY", "desc": "Cliente SSH e Telnet para acesso remoto a servidores.", "link": "https://www.putty.org/" },
+  { "nome": "WinSCP", "desc": "Cliente SFTP e FTP para transferência segura de arquivos.", "link": "https://winscp.net/" },
+  { "nome": "Microsoft 365 / Teams", "desc": "Plataforma de produtividade e colaboração com ferramentas como Teams, Outlook e Office online.", "link": "https://www.microsoft.com/microsoft-365" }
+]
