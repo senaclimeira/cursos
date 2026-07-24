@@ -1,5 +1,87 @@
 const cursos = [
   {
+    id: 'design-grafico',
+    slug: 'design-grafico',
+    nome: 'Técnico em Design Gráfico',
+    descricao: 'Aprenda a criar projetos gráficos impressos e digitais, tratar imagens, diagramar publicações, desenvolver identidade visual, embalagens e interfaces para mídias digitais.',
+    icone: 'Palette',
+    cor: '#8b5cf6',
+    badges: [
+      {
+        "label": "Design Gráfico",
+        "variant": "primary"
+      },
+      {
+        "label": "Identidade Visual",
+        "variant": "success"
+      },
+      {
+        "label": "Produção Gráfica",
+        "variant": "warning"
+      },
+      {
+        "label": "Design Digital",
+        "variant": "danger"
+      },
+      {
+        "label": "Projeto Integrador",
+        "variant": "dark"
+      }
+    ],
+  },
+  {
+    id: 'manutencao-suporte',
+    slug: 'manutencao-suporte',
+    nome: 'Técnico em Manutenção e Suporte em Informática',
+    descricao: 'Aprenda a montar, instalar e manter computadores, configurar redes locais, servidores e prestar suporte técnico com foco em governança e atendimento ao cliente.',
+    icone: 'Settings',
+    cor: '#f97316',
+    badges: [
+      {
+        "label": "Suporte e Manutenção",
+        "variant": "primary"
+      },
+      {
+        "label": "Redes de Computadores",
+        "variant": "success"
+      },
+      {
+        "label": "Infraestrutura de TI",
+        "variant": "warning"
+      },
+      {
+        "label": "Projeto Integrador",
+        "variant": "dark"
+      }
+    ],
+  },
+  {
+    id: 'informatica',
+    slug: 'informatica',
+    nome: 'Técnico em Informática',
+    descricao: 'Aprenda a montar e manter computadores, configurar redes locais com servidores e desenvolver aplicativos para desktop e web.',
+    icone: 'Laptop',
+    cor: '#0ea5e9',
+    badges: [
+      {
+        "label": "Suporte e Manutenção",
+        "variant": "primary"
+      },
+      {
+        "label": "Redes de Computadores",
+        "variant": "success"
+      },
+      {
+        "label": "Desenvolvimento de Aplicativos",
+        "variant": "warning"
+      },
+      {
+        "label": "Projeto Integrador",
+        "variant": "dark"
+      }
+    ],
+  },
+  {
     id: 'desenvolvimento-sistemas',
     slug: 'desenvolvimento-sistemas',
     nome: 'Técnico em Desenvolvimento de Sistemas',

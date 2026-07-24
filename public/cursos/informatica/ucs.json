@@ -1,0 +1,367 @@
+[
+  {
+    "id": "uc1",
+    "modulo": 0,
+    "titulo": "UC1 - Planejar e executar a montagem de computadores",
+    "atividades": [
+      "Montagem de computadores com componentes reais",
+      "Testes de hardware e periféricos",
+      "Configuração de BIOS/Setup",
+      "Medições com multímetro"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Multímetro",
+        "desc": "Medição de tensão, corrente e teste de componentes eletrônicos."
+      },
+      {
+        "nome": "Kit de ferramentas (chaves, alicates)",
+        "desc": "Montagem e manutenção física de computadores."
+      },
+      {
+        "nome": "Pulseira antiestática ESD",
+        "desc": "Proteção contra descargas eletrostáticas durante a manipulação de componentes."
+      }
+    ]
+  },
+  {
+    "id": "uc2",
+    "modulo": 0,
+    "titulo": "UC2 - Planejar e executar a instalação de hardware e software para computadores",
+    "atividades": [
+      "Instalação e configuração de sistemas operacionais",
+      "Instalação de drivers, firmware e aplicativos",
+      "Configuração de redes SOHO e dispositivos móveis",
+      "Testes de conectividade"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Windows / Linux",
+        "desc": "Sistemas operacionais instalados e configurados conforme recomendação técnica."
+      },
+      {
+        "nome": "Antivírus / Utilitários de segurança",
+        "desc": "Proteção e manutenção do sistema operacional."
+      },
+      {
+        "nome": "Pacote Office",
+        "desc": "Conjunto de aplicativos de escritório para produtividade."
+      }
+    ]
+  },
+  {
+    "id": "uc3",
+    "modulo": 0,
+    "titulo": "UC3 - Planejar e executar a manutenção de computadores",
+    "atividades": [
+      "Diagnóstico de falhas em hardware e software",
+      "Backup e restore de dados",
+      "Atualização de sistema operacional e aplicativos",
+      "Elaboração de relatório de manutenção"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Ferramentas de diagnóstico de hardware",
+        "desc": "Software de detecção de erros e testes de componentes."
+      },
+      {
+        "nome": "Ferramentas de backup e restore",
+        "desc": "Recuperação de dados e imagem de sistemas."
+      }
+    ]
+  },
+  {
+    "id": "uc4",
+    "modulo": 3,
+    "titulo": "UC4 - Projeto Integrador: Assistente de Suporte e Manutenção de Computadores",
+    "atividades": [
+      "Projeto integrador: montagem, instalação e manutenção de computadores"
+    ]
+  },
+  {
+    "id": "uc5",
+    "modulo": 1,
+    "titulo": "UC5 - Planejar e executar a instalação de redes locais de computadores",
+    "atividades": [
+      "Planejamento e projeto de rede local",
+      "Crimpagem e cabeamento estruturado",
+      "Configuração de equipamentos de rede (switch, roteador)",
+      "Testes e diagnóstico de conectividade"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Switch / Roteador",
+        "desc": "Equipamentos de rede configurados para redes locais."
+      },
+      {
+        "nome": "Alicate de crimpagem / Testador de cabos",
+        "desc": "Crimpagem e teste de cabeamento UTP."
+      },
+      {
+        "nome": "Cisco Packet Tracer / GNS3",
+        "desc": "Simuladores de redes para projeto e teste de topologias."
+      }
+    ]
+  },
+  {
+    "id": "uc6",
+    "modulo": 1,
+    "titulo": "UC6 - Planejar e executar a manutenção de redes locais de computadores",
+    "atividades": [
+      "Diagnóstico de falhas em redes locais",
+      "Substituição de componentes de rede",
+      "Reparo de cabeamento",
+      "Monitoramento de tráfego e segurança"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Wireshark",
+        "desc": "Analisador de protocolos para monitoramento de tráfego de rede."
+      },
+      {
+        "nome": "Firewall / Antivírus de rede",
+        "desc": "Ferramentas de segurança para redes locais."
+      }
+    ]
+  },
+  {
+    "id": "uc7",
+    "modulo": 1,
+    "titulo": "UC7 - Planejar e executar a instalação, a configuração e o monitoramento de sistemas operacionais de redes locais (servidores)",
+    "atividades": [
+      "Instalação e configuração de servidor",
+      "Configuração de máquinas virtuais",
+      "Monitoramento de rede com software de segurança",
+      "Elaboração de relatórios de atividades"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Windows Server / Linux Server",
+        "desc": "Sistemas operacionais de servidor instalados e configurados."
+      },
+      {
+        "nome": "VirtualBox / VMware",
+        "desc": "Ferramentas de virtualização para configuração de máquinas virtuais."
+      }
+    ]
+  },
+  {
+    "id": "uc8",
+    "modulo": 3,
+    "titulo": "UC8 - Projeto Integrador: Assistente de Operação de Redes de Computadores",
+    "atividades": [
+      "Projeto integrador: instalação e configuração de rede local cliente/servidor"
+    ]
+  },
+  {
+    "id": "uc9",
+    "modulo": 2,
+    "titulo": "UC9 - Desenvolver Algoritmos",
+    "atividades": [
+      "Desenvolvimento de algoritmos e lógica de programação",
+      "Testes e validação de algoritmos",
+      "Representação em fluxogramas e pseudocódigo"
+    ],
+    "linguagens": [
+      {
+        "nome": "Algoritmos / Portugol",
+        "desc": "Linguagem algorítmica em português estruturado para aprendizagem de lógica de programação."
+      }
+    ],
+    "ferramentas": [
+      {
+        "nome": "VisualG / Flowgorithm",
+        "desc": "Ferramentas para desenvolvimento e teste de algoritmos em português."
+      },
+      {
+        "nome": "VS Code",
+        "desc": "Editor de código moderno e extensível."
+      }
+    ]
+  },
+  {
+    "id": "uc10",
+    "modulo": 2,
+    "titulo": "UC10 - Desenvolver banco de dados",
+    "atividades": [
+      "Modelagem de banco de dados (entidade-relacionamento)",
+      "Criação e manipulação com scripts SQL",
+      "Importação e exportação de dados",
+      "Rotinas de backup e restore de banco de dados"
+    ],
+    "linguagens": [
+      {
+        "nome": "SQL",
+        "desc": "Linguagem padrão para criação, manipulação e consulta de bancos de dados relacionais."
+      }
+    ],
+    "ferramentas": [
+      {
+        "nome": "MySQL Workbench / pgAdmin",
+        "desc": "Ferramentas gráficas para modelagem e administração de banco de dados."
+      },
+      {
+        "nome": "MySQL / PostgreSQL",
+        "desc": "Sistemas gerenciadores de banco de dados relacionais."
+      }
+    ]
+  },
+  {
+    "id": "uc11",
+    "modulo": 2,
+    "titulo": "UC11 - Executar teste e implantação de aplicativos computacionais",
+    "atividades": [
+      "Elaboração de plano de testes",
+      "Execução de testes funcionais e de desempenho",
+      "Documentação de resultados de testes",
+      "Implantação de aplicativo em ambiente de teste"
+    ],
+    "ferramentas": [
+      {
+        "nome": "TestLink / Mantis",
+        "desc": "Ferramentas de gestão de testes e controle de defeitos."
+      },
+      {
+        "nome": "Selenium / JUnit",
+        "desc": "Ferramentas de automação e execução de testes de software."
+      }
+    ]
+  },
+  {
+    "id": "uc12",
+    "modulo": 2,
+    "titulo": "UC12 - Executar os processos de codificação, manutenção e documentação de aplicativos computacionais para desktop",
+    "atividades": [
+      "Desenvolvimento de aplicativo desktop com integração a banco de dados",
+      "Compilação, depuração e versionamento de código",
+      "Elaboração de manual de utilização"
+    ],
+    "linguagens": [
+      {
+        "nome": "C# / Java",
+        "desc": "Linguagens orientadas a objetos utilizadas no desenvolvimento de aplicativos desktop."
+      }
+    ],
+    "ferramentas": [
+      {
+        "nome": "Visual Studio / VS Code",
+        "desc": "IDEs para desenvolvimento de aplicativos desktop."
+      },
+      {
+        "nome": "Git / GitHub",
+        "desc": "Controle de versão e hospedagem de código-fonte."
+      }
+    ]
+  },
+  {
+    "id": "uc13",
+    "modulo": 2,
+    "titulo": "UC13 - Executar os processos de codificação, manutenção e documentação de aplicativos computacionais para internet",
+    "atividades": [
+      "Desenvolvimento de aplicativo web com integração a banco de dados",
+      "Compilação, depuração e versionamento de código web",
+      "Elaboração de manual do projeto web"
+    ],
+    "linguagens": [
+      {
+        "nome": "HTML5",
+        "desc": "Linguagem de marcação para estruturação de páginas web."
+      },
+      {
+        "nome": "CSS3",
+        "desc": "Linguagem de estilo para apresentação visual de páginas web."
+      },
+      {
+        "nome": "JavaScript / PHP",
+        "desc": "Linguagens de programação para desenvolvimento de aplicações web dinâmicas."
+      }
+    ],
+    "ferramentas": [
+      {
+        "nome": "VS Code",
+        "desc": "Editor de código com suporte a HTML, CSS e JavaScript."
+      },
+      {
+        "nome": "XAMPP / Wamp",
+        "desc": "Emulador de servidor local para desenvolvimento web com PHP e MySQL."
+      },
+      {
+        "nome": "Git / GitHub",
+        "desc": "Controle de versão de software web."
+      }
+    ]
+  },
+  {
+    "id": "uc14",
+    "modulo": 2,
+    "titulo": "UC14 - Manipular e otimizar imagens vetoriais, bitmaps gráficos e elementos visuais de navegação para web",
+    "atividades": [
+      "Criação de wireframes e mapas de site",
+      "Edição e otimização de imagens para web",
+      "Desenvolvimento de leiaute responsivo"
+    ],
+    "linguagens": [
+      {
+        "nome": "HTML5 / CSS3",
+        "desc": "Utilizados na criação e otimização de leiautes e imagens para web."
+      }
+    ],
+    "ferramentas": [
+      {
+        "nome": "Adobe Photoshop / GIMP",
+        "desc": "Edição e retoque de imagens bitmap para web."
+      },
+      {
+        "nome": "Figma / Adobe XD",
+        "desc": "Design de interfaces e criação de wireframes e protótipos interativos."
+      },
+      {
+        "nome": "CorelDRAW / Inkscape",
+        "desc": "Criação e edição de imagens vetoriais."
+      }
+    ]
+  },
+  {
+    "id": "uc15",
+    "modulo": 2,
+    "titulo": "UC15 - Desenvolver e organizar elementos estruturais de sites",
+    "atividades": [
+      "Desenvolvimento de páginas web com HTML5 e CSS3",
+      "Customização de site com CMS (WordPress)",
+      "Publicação em servidores locais e remotos",
+      "Elaboração de manual de uso do projeto web"
+    ],
+    "linguagens": [
+      {
+        "nome": "HTML5",
+        "desc": "Linguagem de marcação e semântica do HTML5, padrões W3C."
+      },
+      {
+        "nome": "CSS3 / JavaScript",
+        "desc": "Folhas de estilo, responsividade e scripts para interatividade em sites."
+      }
+    ],
+    "ferramentas": [
+      {
+        "nome": "VS Code",
+        "desc": "Editor para desenvolvimento de HTML, CSS e JavaScript."
+      },
+      {
+        "nome": "WordPress (CMS)",
+        "desc": "Plataforma de gerenciamento de conteúdo para publicação de sites."
+      },
+      {
+        "nome": "Bootstrap / Tailwind",
+        "desc": "Frameworks CSS para construção de sites responsivos."
+      }
+    ]
+  },
+  {
+    "id": "uc16",
+    "modulo": 3,
+    "titulo": "UC16 - Projeto Integrador: Assistente de Desenvolvimento de Aplicativos Computacionais",
+    "atividades": [
+      "Projeto integrador: desenvolvimento de software comercial desktop e web"
+    ]
+  }
+]

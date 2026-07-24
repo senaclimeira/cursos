@@ -1,0 +1,178 @@
+[
+  {
+    "uc": 1,
+    "nome": "Planejar projetos gráficos impressos",
+    "aulas": 16,
+    "ch": "48h",
+    "falta25": "12h",
+    "qtdeDias": "3 dias"
+  },
+  {
+    "uc": 2,
+    "nome": "Compor e tratar imagens digitais",
+    "aulas": 16,
+    "ch": "48h",
+    "falta25": "12h",
+    "qtdeDias": "3 dias"
+  },
+  {
+    "uc": 3,
+    "nome": "Desenvolver ilustrações vetoriais",
+    "aulas": 16,
+    "ch": "48h",
+    "falta25": "12h",
+    "qtdeDias": "3 dias"
+  },
+  {
+    "uc": 4,
+    "nome": "Planejar produção gráfica",
+    "aulas": 12,
+    "ch": "36h",
+    "falta25": "9h",
+    "qtdeDias": "2 dias"
+  },
+  {
+    "uc": 5,
+    "nome": "Projeto Integrador: Assistente de Arte",
+    "aulas": 7,
+    "ch": "20h",
+    "falta25": "5h",
+    "qtdeDias": "1 dia"
+  },
+  {
+    "uc": 6,
+    "nome": "Diagramar livros impressos e e-books",
+    "aulas": 24,
+    "ch": "72h",
+    "falta25": "18h",
+    "qtdeDias": "5 dias"
+  },
+  {
+    "uc": 7,
+    "nome": "Diagramar revistas impressa e digital",
+    "aulas": 24,
+    "ch": "72h",
+    "falta25": "18h",
+    "qtdeDias": "5 dias"
+  },
+  {
+    "uc": 8,
+    "nome": "Produzir infográfico",
+    "aulas": 12,
+    "ch": "36h",
+    "falta25": "9h",
+    "qtdeDias": "2 dias"
+  },
+  {
+    "uc": 9,
+    "nome": "Projeto Integrador: Programação Visual de Design Editorial",
+    "aulas": 7,
+    "ch": "20h",
+    "falta25": "5h",
+    "qtdeDias": "1 dia"
+  },
+  {
+    "uc": 10,
+    "nome": "Criar identidade visual",
+    "aulas": 24,
+    "ch": "72h",
+    "falta25": "18h",
+    "qtdeDias": "5 dias"
+  },
+  {
+    "uc": 11,
+    "nome": "Desenvolver Manual de Identidade Visual",
+    "aulas": 20,
+    "ch": "60h",
+    "falta25": "15h",
+    "qtdeDias": "4 dias"
+  },
+  {
+    "uc": 12,
+    "nome": "Desenvolver projeto gráfico para expografia",
+    "aulas": 16,
+    "ch": "48h",
+    "falta25": "12h",
+    "qtdeDias": "3 dias"
+  },
+  {
+    "uc": 13,
+    "nome": "Projeto Integrador: Assistente de Design de Marcas e Identidade Visual",
+    "aulas": 7,
+    "ch": "20h",
+    "falta25": "5h",
+    "qtdeDias": "1 dia"
+  },
+  {
+    "uc": 14,
+    "nome": "Criar embalagens cartotécnicas",
+    "aulas": 24,
+    "ch": "72h",
+    "falta25": "18h",
+    "qtdeDias": "5 dias"
+  },
+  {
+    "uc": 15,
+    "nome": "Desenvolver materiais de ponto de venda",
+    "aulas": 20,
+    "ch": "60h",
+    "falta25": "15h",
+    "qtdeDias": "4 dias"
+  },
+  {
+    "uc": 16,
+    "nome": "Criar mockups impressos e digitais",
+    "aulas": 16,
+    "ch": "48h",
+    "falta25": "12h",
+    "qtdeDias": "3 dias"
+  },
+  {
+    "uc": 17,
+    "nome": "Projeto Integrador: Assistente de Design de Embalagens",
+    "aulas": 7,
+    "ch": "20h",
+    "falta25": "5h",
+    "qtdeDias": "1 dia"
+  },
+  {
+    "uc": 18,
+    "nome": "Planejar projetos gráficos digitais",
+    "aulas": 12,
+    "ch": "36h",
+    "falta25": "9h",
+    "qtdeDias": "2 dias"
+  },
+  {
+    "uc": 19,
+    "nome": "Desenvolver interface e guia de estilos gráficos para mídias digitais",
+    "aulas": 20,
+    "ch": "60h",
+    "falta25": "15h",
+    "qtdeDias": "4 dias"
+  },
+  {
+    "uc": 20,
+    "nome": "Desenvolver projeto de design em movimento",
+    "aulas": 16,
+    "ch": "48h",
+    "falta25": "12h",
+    "qtdeDias": "3 dias"
+  },
+  {
+    "uc": 21,
+    "nome": "Criar portfólio digital",
+    "aulas": 12,
+    "ch": "36h",
+    "falta25": "9h",
+    "qtdeDias": "2 dias"
+  },
+  {
+    "uc": 22,
+    "nome": "Projeto Integrador: Assistente de Design Gráfico para Interfaces Digitais",
+    "aulas": 7,
+    "ch": "20h",
+    "falta25": "5h",
+    "qtdeDias": "1 dia"
+  }
+]

@@ -1,0 +1,1886 @@
+Total pages: 49
+=== PAGE 1 ===
+Plano de Curso
+Habilitação Profissional
+Técnica em
+Design Gráfico
+Eixo tecnológico:
+Produção Cultural e Design
+Autorizado pela Resolução nº 08/2022 de 29/03/2022
+emitida pelo Conselho Regional do Senac São Paulo
+Documento vigente a partir de 01/08/2022
+
+=== PAGE 2 ===
+Informações do Curso no Senac São Paulo
+Área de Negócio: Design e Arquitetura
+Subárea: Design
+Ficha Técnica: 25244
+Formato de Oferta: presencial
+Tipo de PC: Regional alinhado ao MPS
+Número do Plano de Curso: 306
+Habilitação Profissional Técnica
+Curso: TÉCNICO EM DESIGN GRÁFICO
+Carga Horária: 1.000 horas
+Qualificação Profissional Técnica de Assistente de Arte
+Carga Horária: 200 horas
+Qualificação Profissional Técnica de Programação Visual de Design Editorial
+Carga Horária: 200 horas
+Qualificação Profissional Técnica de Assistente de Design de Marcas e
+Identidade Visual
+Carga Horária: 200 horas
+Qualificação Profissional Técnica de Assistente de Design de Embalagens
+Carga Horária: 200 horas
+Qualificação Profissional Técnica de Assistente de Design Gráfico para Interfaces
+Digitais
+Carga Horária: 200 horas
+SENAC • PO – Habilitação Profissional Técnica em XXXXXXXXXX 2
+
+=== PAGE 3 ===
+1 IDENTIFICAÇÃO DO CURSO
+Título do Curso: Técnico em Design Gráfico
+Eixo Tecnológico: Produção Cultural e Design
+Carga Horária: 1.000 horas
+Código CBO: 2624-10 (CBO 2002)
+2 REQUISITOS E FORMAS DE ACESSO
+Para matrícula na Habilitação Profissional Técnica, o(a) candidato(a) deve estar cursando, no
+mínimo, o 2º ano do Ensino Médio.
+Documentos:
+• RG e CPF ou outro documento de identificação que comprove a numeração destes
+registros (apresentação);
+• Certificado ou Histórico Escolar de conclusão do Ensino Médio ou outros documentos
+educacionais que comprovem a conclusão do Ensino Médio (entregar cópia simples); ou
+• Declaração de escola, comprovando estar cursando a escolaridade mínima exigida
+(entregar cópia simples).
+As inscrições e as matrículas devem ser efetuadas conforme cronograma estabelecido pela
+Unidade, atendidos os requisitos de acesso e nos termos regimentais.
+Para matrícula nas Qualificações Profissionais Técnicas, quando realizadas de forma
+independente da habilitação, o(a) candidato(a) deve ter no mínimo o Ensino Fundamental
+completo.
+Documentos:
+• RG e CPF ou outro documento de identificação que comprove a numeração destes
+registros (apresentação);
+• Certificado ou Histórico Escolar de conclusão do Ensino Fundamental ou outros
+documentos educacionais que comprovem a conclusão do Ensino Fundamental
+(entregar cópia simples).
+As inscrições e as matrículas devem ser efetuadas conforme cronograma estabelecido pela
+Unidade, atendidos os requisitos de acesso e nos termos regimentais.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 3
+
+=== PAGE 4 ===
+3 JUSTIFICATIVA E OBJETIVOS
+A Habilitação Profissional Técnica em Design Gráfico – Eixo Tecnológico Produção Cultural e
+Design, de acordo com o Catálogo Nacional de Cursos Técnicos aprovado pela Resolução
+CNE/CEB nº 02/2020, atende ao disposto na Lei de Diretrizes e Bases da Educação Nacional
+(LDB) – Lei Federal nº 9.394/1996, no Decreto Federal nº 5.154/2004, alterado pelo Decreto
+nº 8.268/2014; na Resolução CNE/CP nº 1/2021, no Regimento das Unidades Escolares Senac
+São Paulo e nas demais normas do sistema de ensino.
+Na perspectiva de atualizar o perfil profissional de conclusão, para que os egressos possam
+acompanhar as transformações do setor produtivo e da sociedade, o Plano de Curso da
+Habilitação Profissional Técnica em Comunicação Visual, aprovado pela Resolução CRS nº
+26/2017 de 12/12/2017, passa, nesta oportunidade, por revisão, ajustando-se às diretivas do
+Catálogo Nacional de Cursos Técnicos de Nível Médio, tendo seu nome alterado para
+Habilitação Profissional Técnica em Design Gráfico e mantendo-se alinhado às exigências
+específicas da ocupação, incorporando as inovações decorrentes dos avanços científicos e
+tecnológicos deste segmento, da experiência acumulada pela instituição e de novas
+tecnologias educacionais.
+Nos últimos anos a economia criativa vem se destacando como um setor dinâmico e que
+agrega valor às marcas e às empresas. O design gráfico está inserido neste setor como um
+importante prestador de serviços, nos meios impressos ou digitais.
+O “consumo continua sendo a principal área criativa em termos de trabalhadores
+formalmente empregados, respondendo por 43,8% dos vínculos formais em 2017.1”
+Tabela 1: Profissões e Remunerações - 2017
+Fonte: Firjan (2019)2
+1 Dados do relatório Firjan, Indústria Criativa: Mapeamento da Indústria Criativa no Brasil.
+2 FIRJAN. Indústria criativa: mapeamento da indústria criativa no Brasil. Rio de Janeiro: Sistema Firjan, 2019. P. 19-20.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 4
+
+=== PAGE 5 ===
+Esse profissional tem demonstrado força por meio de sua metodologia diferenciada que
+permite um alto grau de criatividade e inovação, agregando valor às empresas que contratam
+seus serviços. O design gráfico está presente em vários setores da economia, desde a
+indústria e serviços, até o atendimento a pequenos e médios empreendedores. Segundo
+dados da IBISWorld3, estima-se um crescimento global do mercado de design gráfico em
+5,1% em 2021, gerando valores de até US$ 41,8 bilhões.
+Diante desse cenário, ressalta-se a importância do design como estratégia competitiva, o que
+torna necessária a formação e a capacitação de pessoal nas mais diversas áreas do design
+gráfico, visto que estes profissionais demandam cada vez mais informações sobre os
+processos de comunicação visual e suas tecnologias.
+Assim, tem-se a perspectiva de um novo Técnico em Design Gráfico, com amplos
+conhecimentos sobre tecnologias e capacidade de produzir arquivos digitais para os
+principais processos utilizados nas mídias impressas e digitais. Um profissional capaz de
+articular a criação de projetos visuais impactantes, com a habilidade de produzi-los por meio
+de técnicas apropriadas e que respeitem as características do meio em que é reproduzido. A
+combinação design/produção e gráfica/digital impõe também uma formação pautada na
+capacidade de conferir uma nova sustentabilidade aos processos do design gráfico
+contemporâneo.
+Nesse contexto, o Senac São Paulo oferece o curso Técnico em Design Gráfico em sintonia
+com sua Proposta Pedagógica, respeitando valores estéticos, políticos e éticos, mantendo
+compromisso com a qualidade, o trabalho, a ciência, a tecnologia e as práticas sociais
+relacionadas com os princípios da cidadania responsável.
+A Instituição mantém este Plano de Curso em contante atualização, a fim de acompanhar as
+transformações tecnológicas e socioculturais do mundo do trabalho, especialmente da área
+do design e do campo do design gráfico, mediante contato permanente com especialistas da
+área e com o setor produtivo.
+Objetivo geral:
+• Formar profissionais com competências para atuar e intervir em seu campo de trabalho,
+com foco em resultados.
+Objetivos específicos:
+• Promover o desenvolvimento do aluno por meio de ações que articulem e mobilizem
+conhecimentos, habilidades, valores e atitudes de forma potencialmente criativa e que
+estimule o aprimoramento contínuo.
+3 IBIS Word. Disponível em: https://www.ibisworld.com/global/market-size/global-graphic-designers/. Acesso em: 17 dez. 2021.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 5
+
+=== PAGE 6 ===
+• Estimular, por meio de situações de aprendizagens, atitudes empreendedoras,
+sustentáveis e colaborativas nos alunos.
+• Articular as competências do perfil profissional com projetos integradores e outras
+atividades laborais que estimulem a visão crítica e a tomada de decisão para resolução
+de problemas.
+• Promover uma avaliação processual e formativa com base em indicadores das
+competências, que possibilitem a todos os envolvidos no processo educativo a
+verificação da aprendizagem.
+• Incentivar a pesquisa como princípio pedagógico e para consolidação do domínio
+técnico-científico, utilizando recursos didáticos e bibliográficos.
+4 PERFIL PROFISSIONAL DE CONCLUSÃO
+O Técnico em Design Gráfico é o profissional que atua na criação de projetos gráficos, tendo
+como principais atividades o desenvolvimento de catálogos de imagens e o tratamento de
+imagens digitais; criação de logotipos, bem como manual de identidade visual;
+desenvolvimento de layouts e diagramação de projetos editoriais de livros e revistas.
+Desenvolve, ainda, projetos de criação de embalagens cartotécnicas e materiais
+promocionais de ponto de venda. Todas as atividades incluem a manipulação de arquivos
+digitais apropriados para a impressão.
+Para o desenvolvimento de suas atividades, o Técnico em Design Gráfico pode atuar em
+equipes, interagindo com profissionais das áreas de design gráfico, publicidade e marketing,
+impressão, fotografia e multimídia, em estúdios de design gráfico, birôs de criação, agências
+de publicidade e propaganda, editoras e gráficas, departamento de comunicação e marketing
+de empresas em geral, prestando serviços como trabalhador autônomo ou com vínculo
+empregatício.
+O profissional habilitado pelo Senac tem como marcas formativas: domínio técnico-
+científico, visão crítica, atitude empreendedora, sustentável, colaborativa, atuando com foco
+em resultados. Essas marcas formativas reforçam o compromisso da instituição com a
+formação integral do ser humano, considerando aspectos relacionados ao mundo do
+trabalho e ao exercício da cidadania. Essa perspectiva propicia o comprometimento do aluno
+com a qualidade do trabalho, o desenvolvimento de uma visão ampla e consciente sobre sua
+atuação profissional e sobre sua capacidade de transformação da sociedade.
+A ocupação está situada no Eixo Tecnológico Produção Cultural e Design.
+A seguir estão as competências que compõem o perfil do Técnico em Design Gráfico:
+• Planejar projetos gráficos impressos.
+• Compor e tratar imagens digitais.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 6
+
+=== PAGE 7 ===
+• Desenvolver ilustrações vetoriais.
+• Planejar produção gráfica.
+• Diagramar livros impressos e e-books.
+• Diagramar revistas impressa e digital.
+• Produzir infográfico.
+• Criar identidade visual.
+• Desenvolver Manual de Identidade Visual.
+• Desenvolver projeto gráfico para expografia.
+• Criar embalagens cartotécnicas.
+• Desenvolver materiais de ponto de venda.
+• Criar mockups impressos e digitais.
+• Planejar projetos gráficos digitais.
+• Desenvolver interface e guia de estilos gráficos para mídias digitais.
+• Desenvolver projeto de design em movimento.
+• Criar portfólio digital.
+O curso de Habilitação Profissional Técnica em Design Gráfico do Senac possui as seguintes
+qualificações profissionais técnicas:
+Assistente de Arte
+O Assistente de Arte é o profissional que executa e finaliza projetos de design gráfico,
+considerando o tratamento de imagens digitais, a construção de arquivos vetoriais e os
+processos de impressão. Esse profissional pode atuar em estúdios de design gráfico, birôs de
+criação, agências de publicidade e propaganda, editoras e gráficas, de maneira autônoma ou
+por regime de Consolidação das Leis do Trabalho (CLT). Atua em equipes, interagindo com
+profissionais das áreas de design gráfico, publicidade e marketing, impressão, fotografia e
+multimídia.
+O profissional qualificado pelo Senac tem como marcas formativas: domínio técnico-
+científico, visão crítica, atitude empreendedora, sustentável, colaborativa, atuando com foco
+em resultados. Essas marcas formativas reforçam o compromisso da instituição com a
+formação integral do ser humano, considerando aspectos relacionados ao mundo do
+trabalho e ao exercício da cidadania. Essa perspectiva propicia o comprometimento do aluno
+com a qualidade do trabalho, o desenvolvimento de uma visão ampla e consciente sobre sua
+atuação profissional e sobre sua capacidade de transformação da sociedade.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 7
+
+=== PAGE 8 ===
+A ocupação está situada no Eixo Tecnológico Produção Cultural e Design.
+A seguir estão as competências que compõem o perfil do Assistente de Arte:
+• Planejar projetos gráficos impressos.
+• Compor e tratar imagens digitais.
+• Desenvolver ilustrações vetoriais.
+• Planejar produção gráfica.
+Programação Visual de Design Editorial
+O Programador Visual de Design Editorial é o profissional que planeja, desenvolve e finaliza
+projetos de design editorial de livros e revistas para impressão e distribuição digital,
+considerando elementos do design gráfico, tipografia, imagens digitais, editoração eletrônica
+e a produção gráfica, de maneira autônoma ou por regime de Consolidação das Leis do
+Trabalho (CLT). Esse profissional pode atuar em estúdios de design gráfico, editoras e
+gráficas. Atua em equipes, interagindo com profissionais das áreas de design gráfico,
+publicidade e marketing, impressão, fotografia e multimídia.
+O profissional qualificado pelo Senac tem como marcas formativas: domínio técnico-
+científico, visão crítica, atitude empreendedora, sustentável, colaborativa, atuando com foco
+em resultados. Essas marcas formativas reforçam o compromisso da instituição com a
+formação integral do ser humano, considerando aspectos relacionados ao mundo do
+trabalho e ao exercício da cidadania. Essa perspectiva propicia o comprometimento do aluno
+com a qualidade do trabalho, o desenvolvimento de uma visão ampla e consciente sobre sua
+atuação profissional e sobre sua capacidade de transformação da sociedade.
+A ocupação está situada no Eixo Tecnológico Produção Cultural e Design.
+A seguir estão as competências que compõem o perfil do Programador Visual de Design
+Editorial:
+• Diagramar livros impressos e e-books.
+• Diagramar revistas impressa e digital.
+• Produzir infográfico.
+Assistente de Design de Marcas e Identidade Visual
+O Assistente de Design de Marcas e Identidade Visual é o profissional que planeja e
+desenvolve logotipos e identidade visual de projetos institucionais de empresas,
+considerando briefing, tipografia e comunicação visual. Esse profissional pode atuar em
+estúdios de design gráfico, birôs de criação, agências de publicidade e propaganda,
+departamento de comunicação e marketing de empresas em geral de maneira autônoma ou
+por regime de Consolidação das Leis do Trabalho (CLT). Pode trabalhar em equipe,
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 8
+
+=== PAGE 9 ===
+interagindo com profissionais das áreas de design gráfico, publicidade e marketing, eventos,
+expografia, impressão, fotografia e multimídia
+O profissional qualificado pelo Senac tem como marcas formativas: domínio técnico-
+científico, visão crítica, atitude empreendedora, sustentável, colaborativa, atuando com foco
+em resultados. Essas marcas formativas reforçam o compromisso da instituição com a
+formação integral do ser humano, considerando aspectos relacionados ao mundo do
+trabalho e ao exercício da cidadania. Essa perspectiva propicia o comprometimento do aluno
+com a qualidade do trabalho, o desenvolvimento de uma visão ampla e consciente sobre sua
+atuação profissional e sobre sua capacidade de transformação da sociedade.
+A ocupação está situada no Eixo Tecnológico Produção Cultural e Design.
+A seguir estão as competências que compõem o perfil do Assistente de Design de Marcas e
+Identidade Visual
+• Criar identidade visual.
+• Desenvolver Manual de Identidade Visual.
+• Desenvolver projeto gráfico para expografia.
+Assistente de Design de Embalagens
+O Assistente de Design de Embalagens é o profissional que desenvolve e finaliza projetos de
+design gráfico para embalagens cartonadas e materiais de ponto de venda [PDV], conforme
+padrões técnicos. Esse profissional pode atuar em estúdios de design gráfico, birôs de
+criação, agências de publicidade e propaganda, departamento de comunicação e marketing
+de empresas em geral, de maneira autônoma ou por regime de Consolidação das Leis do
+Trabalho (CLT). Pode trabalhar em equipe, interagindo com profissionais das áreas de design
+de produto, publicidade e marketing, impressão, fotografia e multimídia.
+O profissional qualificado pelo Senac tem como marcas formativas: domínio técnico-
+científico, visão crítica, atitude empreendedora, sustentável, colaborativa, atuando com foco
+em resultados. Essas marcas formativas reforçam o compromisso da instituição com a
+formação integral do ser humano, considerando aspectos relacionados ao mundo do
+trabalho e ao exercício da cidadania. Essa perspectiva propicia o comprometimento do aluno
+com a qualidade do trabalho, além do desenvolvimento de uma visão ampla e consciente
+tanto da própria atuação profissional quanto da sua capacidade de transformação da
+sociedade.
+A ocupação está situada no Eixo Tecnológico Produção Cultural e Design.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 9
+
+=== PAGE 10 ===
+A seguir estão as competências que compõem o perfil do Assistente de Design de
+Embalagens:
+• Criar embalagens cartotécnicas.
+• Desenvolver materiais de ponto de venda.
+• Criar mockups impressos e digitais.
+Assistente de Design Gráfico para Interfaces Digitais
+O Assistente de Design Gráfico para Interfaces Digitais é o profissional que desenvolve e
+finaliza projetos de interfaces digitais com animações, guia de estilos e portfólio digital.
+Esse profissional pode atuar em estúdios de design, agências de publicidade e propaganda,
+departamento de comunicação e marketing de empresas em geral, de maneira autônoma ou
+por regime de Consolidação das Leis do Trabalho (CLT). Pode trabalhar em equipe,
+interagindo com profissionais das áreas de design de produto, publicidade e marketing,
+impressão, fotografia, multimídia e programação web.
+O profissional qualificado pelo Senac tem como marcas formativas: domínio técnico-
+científico, visão crítica, atitude empreendedora, sustentável, colaborativa, atuando com foco
+em resultados. Essas marcas formativas reforçam o compromisso da instituição com a
+formação integral do ser humano, considerando aspectos relacionados ao mundo do
+trabalho e ao exercício da cidadania. Essa perspectiva propicia o comprometimento do aluno
+com a qualidade do trabalho, além do desenvolvimento de uma visão ampla e consciente
+tanto da própria atuação profissional quanto da sua capacidade de transformação da
+sociedade.
+A ocupação está situada no Eixo Tecnológico Produção Cultural e Design.
+A seguir estão as competências que compõem o perfil do Assistente de Design Gráfico para
+Interfaces Digitais:
+• Planejar projetos gráficos digitais.
+• Desenvolver interface e guia de estilos gráficos para mídias digitais.
+• Desenvolver projeto de design em movimento.
+• Criar portfólio digital.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 10
+
+=== PAGE 11 ===
+5 ORGANIZAÇÃO CURRICULAR
+O Modelo Pedagógico Senac considera a competência o ponto central do currículo da
+Habilitação Profissional Técnica. A competência é, portanto, a própria unidade curricular.
+Carga
+Unidades curriculares horária
+r o e UC1: Planejar projetos gráficos impressos. 48 horas
+dt
+a r r A
+g e
+t n I o t e jo
+r P
+e
+d e t n e t s is
+s
+s a r o 0 h 2 U U C C 2 3 : : C D o e m se p n o v r o e lv e tr r a i t l a u r s t i r m a a çõ ge e n s s v e d t ig o i r t i a a i i s s . . 4 4 8 8 h h o o r r a a s s
+:5e
+A
+Cd UC4: Planejar produção gráfica. 36 horas
+U
+o t e jo r P :9
+C U
+r o d a r g
+e t
+e
+n
+d
+I
+o ã ç a m a r g
+o r P
+e d
+n
+la g i
+u
+s
+s
+e
+i
+D
+V
+la ir o t id
+E
+s a r o 0 h
+2
+U
+U
+U
+C
+C
+C
+6
+7
+8
+:
+:
+: P
+D
+D
+r
+i
+i
+a
+a
+o
+g
+g
+d
+r
+r
+u
+a
+a
+z
+m
+m
+ir
+a
+a
+in
+r
+r
+f
+l
+r
+i
+o
+e
+v
+g
+v
+r
+r
+o
+is
+á
+s
+t
+f
+a
+i
+i
+c
+m
+s
+o
+i
+p
+.
+m
+re
+p
+s
+r
+s
+e
+o
+s
+s
+s a
+e
+e
+e -
+d
+b
+ig
+o
+i
+o
+ta
+k
+l
+s
+.
+. 7
+7
+3
+2
+2
+6
+h
+h
+h
+o
+o
+o
+r
+r
+r
+a
+a
+a
+s
+s
+s
+s
+o t e jo r P :3 1 C U e d r o d a r g e t n I e d e t n e t s is s A e d n g i
+a
+s c e M r a e d a d it n e d I e la u s iV s a r o h 0 2
+U
+U U
+C
+C C
+1
+1 1
+0
+1 2
+:
+: :
+C
+D D
+r
+e e
+ia
+s s e e
+r
+n n
+id
+v v
+e
+o o
+n
+l l v v
+t
+e e
+id
+r r
+a
+M p
+d
+r
+e
+a o n j
+v
+e u
+i
+t
+s
+a o
+u
+l
+a
+g d
+l
+r
+.
+e á f Id ic e o n p ti a d r a a d e e x V p i o s g u r a a l f . i a.
+7
+6 4 0
+2
+8
+h
+h ho
+o
+o r
+r
+r a
+a
+a s
+s
+s
+D
+o t e jo r P :7 1 C U r o d a r g e t e n d I e d e t n e t s is s A e d n g is e D s n e g a la b m E s a r o h 0 2
+U
+U U
+C
+C C
+1
+1 1
+4
+5 6
+:
+: :
+C
+D C
+r
+r e
+i
+i
+a
+s a e
+r
+r n
+e
+m v
+m
+o o
+b
+c lv k
+a
+e u
+l
+r
+a
+p
+g
+m s
+e
+i a
+n
+m t
+s
+e p
+c
+r r
+a
+i e a
+r
+i s
+t
+s s
+o
+o d
+té
+s e
+c
+e p
+n
+o d
+ic
+n i
+a
+g t
+s
+i o t
+.
+a d is e . venda.
+7
+6 4
+2
+0 8
+h
+h h
+o
+o o
+r
+r r
+a
+a a
+s
+s s
+e
+t a UC18: Planejar projetos gráficos digitais. 36 horas
+n
+e
+r
+as
+o t e jo r P
+:2 2 C
+U
+r o d
+a r
+t
+g
+s is e s A d
+p
+o c if á r G
+n g is
+e D
+ia
+t ig iD s e
+c a f r
+e t n
+s a r o
+0
+h
+2
+U g
+U m
+r C
+C o
+á 1
+2
+f
+v
+i 9
+0 i
+c
+m
+:
+:
+o
+D
+D s
+e n e
+e p s
+s t
+a
+o
+e
+e
+r n
+n .
+a v
+v
+m o
+o
+l
+l
+í v
+v
+d e
+e
+ia r
+r
+s i
+p
+n d
+r
+t
+o
+i e g
+j
+r i
+e
+t f
+t
+a a
+o
+i c s e
+d
+.
+e
+e
+d
+g
+e
+u
+s
+ia
+ig
+d
+n
+e
+e
+e
+m
+s tilos 6
+4
+0
+8
+h
+h
+o
+o
+r
+r
+a
+a
+s
+s
+e t n e d I UC21: Criar portfólio digital. 36 horas
+I
+Carga Horária Total4 1.000 horas
+4 Soma das Unidades Curriculares, inclusive Projeto Integrador.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 11
+
+=== PAGE 12 ===
+• A UC5 é correquisito das UCs 1, 2, 3 e 4. Deve ser desenvolvida em concomitância com
+essas UCs.
+• A UC9 é correquisito das UCs 6, 7 e 8. Deve ser desenvolvida em concomitância com
+essas UCs.
+• A UC13 é correquisito das UCs 10,11 e 12. Deve ser desenvolvida em concomitância com
+essas UCs.
+• A UC17 é correquisito das UCs 14, 15 e 16. Deve ser desenvolvida em concomitância
+com essas UCs.
+• A UC22 é correquisito das UCs 18, 19,20 e 21. Deve ser desenvolvida em concomitância
+com essas UCs.
+5.1 Detalhamento das Unidades Curriculares:
+UC1: Planejar projetos gráficos impressos.
+CARGA HORÁRIA: 48 HORAS
+1. Desenvolve painel semântico considerando briefing de design.
+2. Compõe layouts de acordo com os fundamentos do design gráfico.
+3. Cria apresentação considerando as etapas do projeto.
+CONHECIMENTOS
+• Contexto e atuação profissional: papéis, atribuições e limites de atuação; interface com
+demais áreas e profissionais.
+• Metodologia do design gráfico: planejamento, execução, avaliação.
+• Movimentos principais do design: Art Nouveau, Bauhaus, Construtivismo, De Stijl e
+Design Contemporâneo.
+• Elementos do design gráfico: ponto, linha, forma, direção, dimensão, escala, movimento,
+textura.
+• Fundamentos do design gráfico: equilíbrio, tensão, nivelamento e aguçamento, atração
+e agrupamento, positivo e negativo, enquadramento e hierarquia, composição.
+• Cor: teoria cromática, aspectos físicos e psicológicos.
+• Tipografia: conceitos e aplicações.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 12
+
+=== PAGE 13 ===
+HABILIDADES
+• Analisar as etapas de trabalho e resultados.
+• Pesquisar referências, conceitos e tendências do design gráfico.
+• Combinar cores no desenvolvimento de projetos visuais.
+• Comunicar-se de maneira assertiva.
+• Identificar e selecionar tipografias.
+• Utilizar termos técnicos nas rotinas de trabalho.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade na busca por referências criativas.
+• Proatividade no desenvolvimento dos projetos.
+• Respeito aos direitos de propriedade intelectual.
+• Responsabilidade na utilização de recursos organizacionais.
+UC2: Compor e tratar imagens digitais
+CARGA HORÁRIA: 48 HORAS
+1. Edita imagens digitais conforme especificações técnicas do projeto.
+2. Compõe imagens digitais considerando as necessidades do projeto.
+3. Trata imagens digitais conforme as características do original fotográfico.
+CONHECIMENTOS
+• Software de imagens digitais: interface, principais ferramentas e configuração de
+arquivo.
+• Edição de imagem: técnicas de seleção, camadas, fusões, máscaras, filtros e objetos
+inteligentes.
+• Configuração de arquivos: formatos, resolução, modelos de cor.
+• Canais de cores: canais alpha, seleções e edições.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 13
+
+=== PAGE 14 ===
+• Tratamento e restauração de imagem: clonagem, ajustes de luz, tom, cor, saturação,
+brilho.
+• Formatos de arquivos e compactação de imagens: Bitmap, TIFF, JPG, PSD, PNG.
+HABILIDADES
+• Comunicar-se de maneira assertiva.
+• Selecionar formato, resolução, modelo de cor.
+• Identificar necessidade de tratamento e restauração de imagens.
+• Operar softwares de tratamento de imagem digital.
+• Utilizar termos técnicos nas rotinas de trabalho.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade no desenvolvimento dos projetos.
+• Respeito aos direitos de propriedade intelectual.
+• Responsabilidade na utilização de recursos organizacionais.
+UC3: Desenvolver ilustrações vetoriais
+CARGA HORÁRIA: 48 HORAS
+1. Edita imagens vetoriais conforme especificações técnicas do projeto.
+2. Cria arquivos vetoriais de acordo com as necessidades do projeto.
+3. Desenvolve material visual para projeto digital e impresso considerando o briefing.
+CONHECIMENTOS
+• Software de imagens vetoriais: interface, principais ferramentas e configuração de
+arquivo.
+• Vetores: ponto, linha, planos e eixos.
+• Trabalho com arquivos: camadas, subcamadas e pranchetas.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 14
+
+=== PAGE 15 ===
+• Objetos: formas geométricas, demarcadores e caminhos compostos.
+• Cores: aplicações, gradientes e combinações.
+• Edição de texto: estilos de parágrafo, caractere, vetores, colunas e máscaras.
+• Modos de cor: tons de cinza, RGB, CMYK.
+• Peças gráficas: cartão-postal, cartaz e folder.
+• Arquivos digitais para impressão: AI, PDF e EPS.
+HABILIDADES
+• Comunicar-se de maneira assertiva.
+• Criar peças gráficas.
+• Operar software de imagem vetorial.
+• Utilizar termos técnicos nas rotinas de trabalho.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade na busca por referências criativas.
+• Proatividade no desenvolvimento dos projetos.
+• Respeito aos direitos de propriedade intelectual.
+• Responsabilidade na utilização de recursos organizacionais.
+UC4: Planejar produção gráfica
+CARGA HORÁRIA: 36 HORAS
+1. Seleciona o sistema de impressão conforme projeto gráfico.
+2. Determina o acabamento gráfico de acordo com as características do projeto.
+3. Realiza orçamentos conforme especificações técnicas do projeto.
+4. Prepara arquivos digitais para impressão de acordo com as especificações técnicas.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 15
+
+=== PAGE 16 ===
+CONHECIMENTOS
+• Pré-impressão: escala de cores, resolução das imagens, marcas da arte final, provas,
+retícula, lineatura, CTP.
+• Fechamento de arquivos PDF.
+• Impressão: tecnologias, sistemas e processos de impressão; tintas e suportes.
+• Pós-impressão: principais acabamentos gráficos.
+• Orçamento gráfico: pesquisa, gestão e finalização.
+HABILIDADES
+• Analisar as etapas de trabalho e resultados.
+• Comunicar-se de maneira assertiva.
+• Fechar arquivos digitais.
+• Identificar inconformidades nas provas gráficas.
+• Identificar tipos de impressos.
+• Organizar dados e informações pertinentes para o projeto/orçamento.
+• Realizar cálculos referentes a orçamentos.
+• Utilizar termos técnicos nas rotinas de trabalho.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade no desenvolvimento dos projetos
+• Responsabilidade no cumprimento de prazos.
+• Sigilo no tratamento de dados e informações.
+• Responsabilidade na utilização de recursos organizacionais.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 16
+
+=== PAGE 17 ===
+UC6: Diagramar livros impressos e e-books
+CARGA HORÁRIA: 72 HORAS
+1. Desenvolve projeto do livro, considerando elementos do design editorial e público-alvo.
+2. Diagrama páginas de acordo com o projeto editorial.
+3. Desenvolve projeto para e-book conforme especificações técnicas.
+4. Finaliza arquivo digital, considerando especificações técnicas para impressão.
+5. Encaderna protótipo de acordo com o projeto editorial.
+CONHECIMENTOS
+• Livro: história, componentes, funções e tipos.
+• Projeto visual: formato, capa, contracapa, orelhas, conversão de projeto impresso para
+digital.
+• Páginas: mancha gráfica, margens, cabeçalho, rodapé, fólio, sumário e índice.
+• Tipografia: família, corpo, entrelinhamento, estilos de parágrafo e caractere.
+• Publicação digital: conceitos, formatos e mercado.
+• Formatos digitais: Epub fixo e refluível, PDF interativo.
+• Legislação: direitos autorais e ISBN.
+• Software de editoração eletrônica: interface, principais ferramentas e configuração de
+arquivo.
+• Editoração eletrônica: formato, sangria, múltiplas páginas, página-mestre, caixas de
+texto, imagens e vetores.
+• Encadernação: fundamentos e técnicas de encadernação manual.
+• Impressão e pós-impressão: principais sistemas para livros e acabamento.
+HABILIDADES
+• Analisar as etapas de trabalho e resultados.
+• Comunicar-se de maneira assertiva.
+• Diferenciar os processos de fechamento de arquivos digitais para impressão ou
+distribuição eletrônica.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 17
+
+=== PAGE 18 ===
+• Configurar software para a geração de arquivos para impressão e publicação digital.
+• Identificar os diferentes processos de encadernação para impressos.
+• Selecionar processos de impressão.
+• Fechar arquivos para impressão.
+• Utilizar termos técnicos nas rotinas de trabalho.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade no desenvolvimento dos projetos.
+• Respeito aos direitos de propriedade intelectual.
+• Responsabilidade na utilização de recursos organizacionais.
+• Responsabilidade no cumprimento de prazos.
+• Sigilo no tratamento de dados e informações.
+UC7: Diagramar revistas impressa e digital
+CARGA HORÁRIA: 72 HORAS
+1. Desenvolve projeto de revista, considerando elementos do design editorial.
+2. Diagrama páginas de acordo com o projeto editorial.
+3. Desenvolve projeto para revistas digitais interativas conforme especificações técnicas.
+4. Finaliza arquivo digital, considerando especificações técnicas para impressão
+CONHECIMENTOS
+• Revista: história, características, tipos e formatos impressos e digitais.
+• Projeto editorial: público-alvo, linha editorial e layout de capa e miolo, conversão de
+projeto impresso para digital.
+• Anatomia da publicação: partes, sumário, expediente, editorial, título, olho, box, linha-
+fina, fólio, legendas, seções.
+• Fluxo de trabalho: espelho das páginas, grid, diagramação modular.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 18
+
+=== PAGE 19 ===
+• Tipografia: família, corpo, entrelinhamento, estilos de parágrafo e caractere.
+• Legislação: direitos autorais.
+• Software de editoração eletrônica: interface, principais ferramentas e configuração de
+arquivo.
+• Editoração eletrônica: formato, sangria, múltiplas páginas, página-mestre, caixas de
+texto, imagens e vetores.
+• Impressão: principais sistemas e acabamentos.
+• Publicação digital: conceitos, formatos e mercado.
+• Formatos interativos: ePub fixo e PDF interativo.
+HABILIDADES
+• Analisar as etapas de trabalho e resultados.
+• Comunicar-se de maneira assertiva.
+• Configurar software para a geração de arquivos para impressão e publicação digital.
+• Criar linha editorial.
+• Criar protótipos (bonecos) para impressão.
+• Diferenciar os processos de fechamento de arquivos digitais para impressão ou
+distribuição eletrônica.
+• Selecionar processos de impressão.
+• Operar software de editoração eletrônica.
+• Utilizar termos técnicos nas rotinas de trabalho.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade no desenvolvimento dos projetos.
+• Respeito aos direitos de propriedade intelectual.
+• Responsabilidade na utilização de recursos organizacionais.
+• Responsabilidade no cumprimento de prazos.
+• Sigilo no tratamento de dados e informações.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 19
+
+=== PAGE 20 ===
+UC8: Produzir infográfico
+CARGA HORÁRIA: 36 HORAS
+1. Elabora roteiro considerando coleta de dados.
+2. Cria Infográfico conforme roteiro desenvolvido.
+3. Finaliza arquivo digital de acordo com as características do meio a ser publicado.
+CONHECIMENTOS
+• Infográfico: conceito, tipos e linguagens.
+• Conceitos de teoria da comunicação: emissor, mensagem, meio, receptor.
+• Informações: comunicação lógica com controle de ruído, linguagem verbal e não verbal.
+• Métodos: organização e síntese.
+• Representação visual: hierarquia, tipografia, ilustração e imagens.
+• Formatos de arquivos: Bitmap, TIFF, JPG, PNG.
+HABILIDADES
+• Comunicar-se de maneira assertiva.
+• Diagramar textos.
+• Interpretar textos.
+• Operar softwares de editoração eletrônica.
+• Operar softwares de imagem vetorial.
+• Organizar dados e informações pertinentes para o projeto.
+• Pesquisar informações.
+• Converter informações textuais em imagens.
+• Utilizar termos técnicos nas rotinas de trabalho.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade na busca por informações.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 20
+
+=== PAGE 21 ===
+• Proatividade no desenvolvimento dos projetos.
+• Responsabilidade na utilização de recursos organizacionais.
+• Responsabilidade no cumprimento de prazos.
+• Sigilo no tratamento de dados e informações.
+UC10: Criar identidade visual
+CARGA HORÁRIA: 72 HORAS
+1. Cria logotipo conforme briefing da marca.
+2. Desenvolve tipografia e lettering de acordo com conceito do logotipo.
+3. Desenvolve imagens vetoriais de acordo com a proposta de identidade da marca.
+CONHECIMENTOS
+• Marca: identidade, representação gráfica e posicionamento.
+• Semiótica: ícones, índices e símbolos.
+• Geometria: linhas, retas, paralelas, perpendiculares, tangentes, círculos, ângulos e
+perspectiva.
+• Etapas de criação: briefing, conceituação, rascunhos e decisão.
+• Construção de logotipos: malha construtiva, cor, proporção e tipografia.
+• Software de imagens vetoriais: interface, principais ferramentas e configuração de
+arquivo.
+• Formatos de arquivos digitais: EPS, JPEG, PNG, TIFF e PSD.
+HABILIDADES
+• Analisar as etapas de trabalho e resultados.
+• Comunicar-se de maneira assertiva.
+• Criar logotipo.
+• Elaborar memorial descritivo.
+• Interpretar briefing.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 21
+
+=== PAGE 22 ===
+• Operar softwares de imagem vetorial.
+• Selecionar extensão de arquivo.
+• Utilizar termos técnicos nas rotinas de trabalho.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade no desenvolvimento dos projetos.
+• Responsabilidade no cumprimento de prazos.
+• Sigilo no tratamento de dados e informações.
+UC11: Desenvolver Manual de Identidade Visual
+CARGA HORÁRIA: 60 HORAS
+1. Cria regras de aplicação do logotipo, considerando a identidade visual.
+2. Desenvolve materiais gráficos e digitais de acordo com as regras do manual de
+identidade visual.
+3. Desenvolve sinalização gráfica para ambientes de acordo com as regras do manual de
+identidade visual.
+4. Cria comunicação visual para produtos e família de produtos considerando o briefing do
+cliente.
+CONHECIMENTOS
+• Manual de identidade visual: características, funcionalidade e formatos.
+• Especificações: assinaturas, malha construtiva, modulações, redução máxima, área de
+segurança, positivo e negativo.
+• Tipografia: família, corpo, entrelinhamento, estilos de parágrafo e caractere.
+• Cores: CMYK, RGB, Pantone.
+• Aplicações: papelaria, brindes, embalagens, rótulos e meios digitais.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 22
+
+=== PAGE 23 ===
+HABILIDADES
+• Analisar as etapas de trabalho e resultados.
+• Comunicar-se de maneira assertiva.
+• Diagramar manual de identidade visual.
+• Operar softwares de imagem vetorial.
+• Organizar informações.
+• Utilizar termos técnicos nas rotinas de trabalho.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade no desenvolvimento dos projetos.
+• Responsabilidade no cumprimento de prazos.
+• Sigilo no tratamento de dados e informações.
+UC12: Desenvolver projeto gráfico para expografia
+CARGA HORÁRIA: 48 HORAS
+1. Desenvolve a identidade visual do evento de acordo com o conceito da expografia.
+2. Cria apresentação considerando as etapas do projeto.
+3. Planeja materiais impressos conforme as indicações técnicas do evento.
+CONHECIMENTOS
+• Expografia: conceito.
+• Eventos: tipos e formatos.
+• Produção gráfica: materiais, adesivagem, suportes.
+• Sistemas de impressão: plotagem, gigantografia, impressão digital.
+• Produção cultural: curadoria, seleção.
+• Tipografia: família, corpo, entrelinhamento, estilos de parágrafo e caractere.
+• Cores: CMYK, RGB, Pantone.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 23
+
+=== PAGE 24 ===
+HABILIDADES
+• Aplicar logotipo.
+• Interpretar manual de identidade visual.
+• Selecionar processos de impressão.
+• Criar materiais gráficos.
+• Operar software de imagem vetorial.
+• Utilizar termos técnicos nas rotinas de trabalho.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade no desenvolvimento dos projetos.
+• Responsabilidade no cumprimento de prazos.
+• Sigilo no tratamento de dados e informações.
+UC14: Criar embalagens cartotécnicas
+CARGA HORÁRIA: 72 HORAS
+1. Planifica embalagens cartotécnicas conforme normas técnicas.
+2. Cria layout conforme briefing do projeto.
+3. Cria imagens digitais conforme as especificações das embalagens.
+4. Fecha arquivo digital considerando especificações técnicas para impressão.
+CONHECIMENTOS
+• Embalagem: história, funções, tipos e materiais.
+• Planificação de embalagens cartotécnicas.
+• Composição visual para embalagens.
+• Legislação e normas técnicas: segurança e higiene, questões econômicas e comerciais,
+rotulação.
+• Produção gráfica: sistemas de impressão e acabamento.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 24
+
+=== PAGE 25 ===
+HABILIDADES
+• Analisar as etapas de trabalho e resultados.
+• Aplicar normas técnicas no projeto de embalagem.
+• Desenhar facas especiais.
+• Fechar arquivos para impressão gráfica.
+• Interpretar briefing.
+• Operar softwares de imagem vetorial.
+• Pesquisar normas técnicas para embalagem.
+• Utilizar termos técnicos nas rotinas de trabalho.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade no desenvolvimento dos projetos.
+• Responsabilidade no cumprimento de prazos.
+• Sigilo no tratamento de dados e informações.
+UC15: Desenvolver materiais de ponto de venda
+CARGA HORÁRIA: 60 HORAS
+1. Planifica materiais de ponto de venda conforme estratégia de divulgação.
+2. Cria layout de materiais de ponto de venda de acordo com o briefing do cliente.
+3. Fecha arquivo digital considerando especificações técnicas para impressão.
+CONHECIMENTOS
+• Merchandising: conceitos e aplicações.
+• Materiais de PDV: função em relação à embalagem, tipos de materiais, aplicações.
+• Planificação de materiais: estrutura e construção da faca.
+• Composição visual: texto, identidade visual, ilustração e imagem.
+• Produção gráfica: sistemas de impressão e acabamento.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 25
+
+=== PAGE 26 ===
+HABILIDADES
+• Analisar as etapas de trabalho e resultados.
+• Criar material de PDV.
+• Fechar arquivos para impressão de materiais de PDV.
+• Manipular imagens digitais.
+• Operar softwares de imagem vetorial.
+• Utilizar termos técnicos nas rotinas de trabalho.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade no desenvolvimento dos projetos.
+• Responsabilidade no cumprimento de prazos.
+• Sigilo no tratamento de dados e informações.
+UC16: Criar mockups impressos e digitais
+CARGA HORÁRIA: 48 HORAS
+1. Desenvolve protótipo impresso da embalagem conforme projeto gráfico.
+2. Executa o mockup digital 3D, considerando as especificações técnicas e layout da
+embalagem.
+CONHECIMENTOS
+• Visualização 3D: elementos, faces e layout.
+• Mockup: desenho e construção de protótipo.
+• Software de criação de objetos tridimensionais: interface, principais ferramentas e
+configuração de arquivo.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 26
+
+=== PAGE 27 ===
+HABILIDADES
+• Construir protótipo impresso.
+• Analisar objetos digitais tridimensionais.
+• Configurar arquivos.
+• Operar software de objetos tridimensionais.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade no desenvolvimento dos projetos.
+• Responsabilidade no cumprimento de prazos.
+• Sigilo no tratamento de dados e informações.
+UC18: Planejar projetos gráficos digitais
+CARGA HORÁRIA: 36 HORAS
+1. Elabora o briefing do projeto com base nas necessidades do cliente.
+2. Desenvolve a estrutura do projeto considerando as especificações técnicas da interface
+digital.
+3. Cria apresentação considerando as etapas do projeto.
+CONHECIMENTOS
+• Conceitos de design digital - UI (Interface, Cores, Tipografias, Ícones, Menus, Design
+Responsivo, Grids, Botões, etc.).
+• Acessibilidade, usabilidade e navegabilidade.
+• Etapas do projeto: arquitetura da informação, wireframe e protótipo.
+• Gestão de projetos: problematização e briefing.
+• Metodologia: Design Thinking.
+• Produtos digitais: sites, aplicativos, e-mail mkt, redes sociais, interfaces interativas.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 27
+
+=== PAGE 28 ===
+HABILIDADES
+• Identificar o problema do cliente a partir do briefing.
+• Identificar as diferenças entre UI e UX.
+• Pesquisar a linguagem gráfica do cliente.
+• Reconhecer os conceitos de acessibilidade, navegabilidade e usabilidade para
+desenvolver interfaces.
+• Produzir sketches.
+• Identificar as etapas do projeto digital.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade no desenvolvimento dos projetos.
+• Responsabilidade no cumprimento de prazos.
+• Sigilo no tratamento de dados e informações.
+UC19: Desenvolver interface e guia de estilos gráficos
+para mídias digitais.
+CARGA HORÁRIA: 60 HORAS
+1. Desenvolve interface gráfica para site responsivo e produtos para mídias digitais
+considerando identidade da marca.
+2. Desenvolve guia de estilos gráficos considerando projeto de interface.
+3. Planeja interface gráfica de acordo com os fundamentos do design e a identidade da
+marca.
+CONHECIMENTOS
+• Software de imagens digitais: interface, principais ferramentas e configuração de
+arquivo.
+• Software de imagens vetoriais: interface, principais ferramentas e configuração de
+arquivo.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 28
+
+=== PAGE 29 ===
+• Guia de estilos: campos de formulário, estados de botão (normal, hover e active), paleta
+de cores, família tipográfica, iconografia.
+• Elementos do design gráfico: ponto, linha, forma, direção, dimensão, escala, movimento,
+textura.
+• Fundamentos do design gráfico em suporte e plataformas digitais: equilíbrio, tensão,
+nivelamento e aguçamento, atração e agrupamento, positivo e negativo,
+enquadramento e hierarquia, composição.
+• Cores: aspectos físicos e psicológicos.
+• Tipografia: conceitos e aplicações para o digital.
+HABILIDADES
+• Criar guia de estilos.
+• Criar sketches.
+• Diagramar interfaces.
+• Aplicar elementos do design.
+• Configurar arquivos.
+• Reconhecer formatos digitais.
+• Exportar para web.
+• Produzir imagens.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade no desenvolvimento dos projetos.
+• Responsabilidade no cumprimento de prazos.
+• Sigilo no tratamento de dados e informações.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 29
+
+=== PAGE 30 ===
+UC20: Desenvolver projeto de design em movimento
+CARGA HORÁRIA: 48 HORAS
+1. Planeja animação de acordo com o briefing.
+2. Desenvolve elementos gráficos para animação considerando os fundamentos do design.
+3. Finaliza animação de acordo com as especificações técnicas do projeto.
+CONHECIMENTOS
+• Motion graphics: conceito de design em movimento.
+• Software de composição de vídeo: interface, principais ferramentas e configuração de
+arquivo.
+• Resolução e aspecto de vídeo: pixel, tamanhos e formatos.
+• Animação de elementos: princípios da animação, timeline, key frames, camadas e
+efeitos, ferramenta de texto, hierarquia de elementos.
+• Renderização de animação e seus formatos: AVI, MPEG, MOV, TARGA.
+• Integração entre arquivos e softwares gráficos e audiovisuais.
+HABILIDADES
+• Operar softwares de criação de gráficos em movimento.
+• Configurar arquivo.
+• Selecionar formato de tela.
+• Configurar timeline.
+• Compor elementos visuais.
+• Renderizar animação.
+• Selecionar cores harmônicas para animação.
+• Interpretar briefing.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade no desenvolvimento dos projetos.
+• Responsabilidade no cumprimento de prazos.
+• Sigilo no tratamento de dados e informações.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 30
+
+=== PAGE 31 ===
+UC21: Criar portfólio digital
+CARGA HORÁRIA: 36 HORAS
+1. Desenvolve narrativa/storytelling para apresentação de trabalhos profissionais de
+acordo com os projetos desenvolvidos.
+2. Publica portfólio em sites profissionais gratuitos considerando as especificações técnicas.
+CONHECIMENTOS
+• Storytelling: conceito.
+• Portfólio: conceito e formatos.
+• Curadoria e edição de projetos.
+• Serviços de hospedagem e contratação de domínio.
+• Tipos de plataformas: perfil, segmento, sites e redes sociais.
+HABILIDADES
+• Diagramar conteúdo.
+• Exportar arquivos.
+• Selecionar trabalhos.
+• Pesquisar trabalhos, agências, gráficas e estúdios.
+• Identificar ferramentas on-line para publicação de portfólio.
+• Apresentar projetos.
+ATITUDES/VALORES
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Proatividade no desenvolvimento dos projetos.
+• Responsabilidade no cumprimento de prazos.
+• Sigilo no tratamento de dados e informações.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 31
+
+=== PAGE 32 ===
+UC5: Projeto Integrador de Assistente de Arte
+CARGA HORÁRIA: 20 HORAS
+UC9: Projeto Integrador de Programação Visual de
+Design Editorial
+CARGA HORÁRIA: 20 HORAS
+UC13: Projeto Integrador de Assistente de Design de
+Marcas e Identidade Visual
+CARGA HORÁRIA: 20 HORAS
+UC17: Projeto Integrador de Assistente de Design de
+Embalagens
+CARGA HORÁRIA: 20 HORAS
+UC22: Projeto Integrador de Assistente de Design
+Gráfico para Interfaces Digitais
+CARGA HORÁRIA: 20 HORAS
+O Projeto Integrador é uma Unidade Curricular de Natureza Diferenciada, baseada na
+metodologia de ação-reflexão-ação, que se constitui na proposição de situações desafiadoras
+a serem cumpridas pelo aluno.
+O planejamento e execução do Projeto Integrador propiciam a articulação das competências
+previstas no perfil profissional de conclusão do curso, pois apresentam ao aluno situações
+que estimulam o seu desenvolvimento profissional ao ter que decidir, opinar e debater com
+o grupo a resolução de problemas a partir do tema gerador.
+Durante a realização do Projeto, portanto, o aluno pode demonstrar sua atuação profissional
+pautada pelas marcas formativas do Senac, uma vez que permite o trabalho em equipe e o
+exercício da ética, da responsabilidade social e da atitude empreendedora.
+As principais características do Projeto Integrador são:
+• Articulação das competências do curso, com foco no desenvolvimento do perfil
+profissional de conclusão.
+• Criação de estratégias para a solução de um problema ou de uma fonte geradora de
+problemas relacionada à prática profissional.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 32
+
+=== PAGE 33 ===
+• Desenvolvimento de atividades em grupos realizadas pelos alunos, de maneira
+autônoma e responsável.
+• Geração de novas aprendizagens ao longo do processo.
+• Planejamento integrado entre todos os docentes do curso.
+• Compromisso dos docentes com o desenvolvimento do Projeto no decorrer das
+Unidades Curriculares, sob a articulação do docente responsável pela unidade curricular
+Projeto Integrador, que tem papel de mediador e facilitador do processo.
+• Espaço privilegiado para imprimir as Marcas Formativas Senac:
+▪ Domínio técnico-científico.
+▪ Atitude empreendedora.
+▪ Visão crítica.
+▪ Atitude sustentável.
+▪ Atitude colaborativa.
+A partir do tema gerador, o Projeto Integrador prevê três etapas para sua execução:
+1ª Problematização: corresponde ao ponto de partida do projeto. Na definição do tema
+gerador, deve-se ter em vista uma situação plausível, identificada no campo de atuação
+profissional e que perpasse as competências do perfil de conclusão do curso. Neste
+momento, é feito o detalhamento do tema gerador e o levantamento das questões que vão
+nortear a pesquisa e o desenvolvimento do projeto. As questões devem mobilizar ações que
+articulem as competências do curso para a resolução do problema. Vale destacar que, caso
+o curso contemple mais de uma Unidade Curricular - Projeto Integrador, o tema gerador
+articula todas as competências relacionadas a essa UC-PI.
+2ª Desenvolvimento: para o desenvolvimento do Projeto Integrador, é necessário que os
+alunos organizem e estruturem um plano de trabalho. Esse é o momento em que são
+elaboradas as estratégias para atingir os objetivos e dar respostas às questões formuladas na
+etapa de problematização. O plano de trabalho deve ser realizado conjuntamente pelos
+alunos e prever situações que extrapolem o espaço da sala aula, estimulando a pesquisa em
+bibliotecas, a visita aos ambientes reais de trabalho, a contribuição de outros docentes e
+profissionais, além de outras ações para a busca da resolução do problema.
+3ª Síntese: momento de organização e avaliação das atividades desenvolvidas e dos
+resultados obtidos. Nesta etapa, os alunos podem rever suas convicções iniciais à luz das
+novas aprendizagens, expressar ideias com mais fundamentação teórica e prática, além de
+gerar produtos de maior complexidade. Ressalta-se que a proposta de solução deve trazer
+aspectos inovadores, tanto no próprio produto quanto na forma de apresentação.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 33
+
+=== PAGE 34 ===
+UC5: Projeto Integrador de Assistente de Arte
+Proposta 1: A interação da arte com o design gráfico
+O design gráfico tem suas origens estabelecidas na Revolução Industrial e, como fonte de
+inspiração, os movimentos culturais e artísticos de sua época. Compreender a evolução do
+design gráfico e suas escolas é fundamental para a compreensão do papel do designer no
+mundo contemporâneo, suas práticas e seu mercado. Diante disso, os alunos são instigados
+a pesquisar e desenvolver projetos gráficos que atendam a espaços culturais e artísticos que
+tenham como objetivo fomentar a interface entre arte e design por meio de estratégias como
+abordagem maker, experimentações, debates, dentre outras.
+Proposta 2: Software: limitador ou libertador?
+O Designer Gráfico utiliza constantemente softwares específicos para a execução dos
+projetos gráficos. Embora sejam importantes para o desenvolvimento dos projetos, podem
+se tornar limitadores da criatividade, já que muitos profissionais pulam a etapa de ideação,
+indo direto para a execução. Com base nesse contexto, os alunos são desafiados a refletir
+sobre o papel dos softwares na elaboração dos projetos, encontrando alternativas manuais
+para a execução dos trabalhos. Pesquisas, brainstorming, abordagem maker e atividades
+artísticas manuais são algumas estratégias que podem auxiliar os alunos a desenvolverem
+projetos inovadores.
+Proposta 3: Desafios tecnológicos do sistema de impressão
+A produção gráfica é um universo amplo e de alto custo. Ao elaborar um projeto, o Designer
+Gráfico deve levar em consideração as tecnologias gráficas disponíveis e o valor que dispõe
+para investir. Diante desse contexto, os alunos são desafiados a elaborar projetos gráficos
+que possam ser impressos por eles mesmos, com base no desenvolvimento de técnicas
+manuais de impressão. Pesquisas, leituras, trabalho com projetos e abordagem maker são
+algumas estratégias que podem auxiliar os alunos a desenvolverem esse tema gerador.
+UC9: Projeto Integrador de Programação Visual de Design Editorial
+Proposta 1: O design editorial brasileiro e suas perspectivas
+O design editorial de livros e revistas apresenta uma variedade de produções e estilos que
+demandam conhecimento de tendências artísticas e gráficas. Este tema gerador desafia os
+alunos a criarem projetos que considerem, de um lado, o público-alvo, e de outro, as
+tendências do design editorial na utilização de novas tecnologias de produção. Sendo assim,
+os alunos são estimulados à pesquisa e à experimentação gráfica para a criação de projetos
+relevantes sintonizados com as tendências mais atuais do mercado. Seus projetos editoriais
+são um incentivo para ingressarem no mercado de trabalho com portfólios atualizados.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 34
+
+=== PAGE 35 ===
+Proposta 2: O desafio das publicações impressas e digitais.
+O mercado editorial enfrenta novos desafios constantemente quando se depara com as
+mudanças que as mídias digitais têm trazido aos leitores. Em um mundo cada vez mais
+conectado às tecnologias da informação e redes colaborativas, o designer editorial necessita
+desenvolver projetos que transitem entre as linguagens digitais e impressas para que as
+publicações se tornem relevantes. Nesse contexto, os alunos são desafiados a criarem
+projetos híbridos que respondam às necessidades do mercado editorial contemporâneo.
+Pesquisas, brainstorming, abordagem maker e atividades artísticas manuais são algumas
+estratégias que podem auxiliar os alunos a desenvolverem projetos inovadores.
+UC13: Projeto Integrador de Assistente de Design de Marcas e Identidade Visual
+Proposta 1: Design ativismo: o papel do design gráfico em ações sociais
+O trabalho do designer vai além do simples fazer técnico para o atendimento de um projeto.
+Muitos dirigem o olhar para ações efetivas e colaborativas como proposição de engajamento
+em projetos sociais. O design ativismo, movimento que utiliza os recursos criativos para lutar
+por causas em que acredita, contribuindo para o desenvolvimento da sociedade, é uma
+dessas vertentes que auxiliam nas discussões do trabalho do designer gráfico. Como reflexão,
+o grupo tem o desafio de desenvolver projetos que articulem a sociedade, o mercado e as
+organizações não governamentais em projetos que visam à melhoria das condições de vida
+dos cidadãos. Sendo assim, os alunos são estimulados à pesquisa e à experimentação,
+alinhadas com as causas sociais de suas comunidades.
+Proposta 2: Ser ou não ser
+Identidade é o conjunto de características que tornam um ser único. Essas características
+podem ser expressas de diversas maneiras: por meio de pensamentos, ações e
+comportamentos. Assim, os alunos são incitados a refletirem sobre sobre seu repertório
+técnico, habilidades, suas atitudes e valores, de modo que possam se apropriar de sua
+identidade profissional, com o objetivo de desenvolverem projetos que demonstrem ao
+mercado suas competências, bem como aspectos diferenciais como profissionais da área de
+design. Atividade individual, elaboração de portfólio e roda de conversa são algumas
+estratégias que podem auxiliar os alunos a desenvolverem a sua própria identidade
+profissional.
+Proposta 3: Expografia
+A expografia é uma importante ferramenta de comunicação de arte e cultura que estabelece
+um diálogo entre o acervo (material ou imaterial) e o visitante. Diante desse contexto, os
+alunos são desafiados a explorar oportunidades de eventos na unidade escolar ou parceiros
+externos, como centros culturais, clubes, museus, etc., seja na sua área, seja em outras, como
+laboratório para este tema gerador. Experimentações, elaboração de portfólio, murais,
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 35
+
+=== PAGE 36 ===
+mood boards e debates são algumas estratégias que podem auxiliar os alunos a
+desenvolverem este tema.
+UC17: Projeto Integrador de Assistente de Design de Embalagens
+Proposta 1: O design de embalagens sustentáveis
+Quando se discute sustentabilidade, o tema não se restringe apenas à reciclagem de
+materiais, mas também aos materiais utilizados na fabricação das embalagens, seu reuso e a
+incorporação de novas tecnologias de produção. Os elementos gráficos das embalagens
+cartotécnicas precisam dialogar com estas questões, o que é um desafio para o designer.
+Neste cenário, o desafio do aluno é desenvolver projetos de embalagens que tenham esta
+preocupação e atendam às demandas do mercado. Pesquisas, brainstorming, abordagem
+maker e atividades artísticas manuais são algumas estratégias que podem auxiliar os alunos
+a desenvolverem projetos inovadores.
+Proposta 2: Quando o redesign da embalagem é necessário
+As embalagens cartotécnicas são desenvolvidas para que os produtos sejam acondicionados
+de maneira eficiente e atendam aos requisitos tecnológicos e sanitários. Muitas embalagens
+sofrem, constantemente, um processo de redesign para se adequarem às novas linguagens
+visuais e se sobressaírem nas gôndolas, considerando uma estratégia de promoção de
+vendas. Com base nesse contexto, é levado ao grupo o desafio de propor o redesign de
+embalagens que apresentem layouts inadequados, valendo-se de linguagens visuais
+modernas. Pesquisas, brainstorming, abordagem maker e atividades artísticas manuais são
+algumas estratégias que podem auxiliar os alunos a desenvolverem projetos inovadores.
+UC22: Projeto Integrador de Assistente de Design Gráfico para Interfaces Digitais
+Proposta 1: Presença digital
+Atualmente e cada vez mais, as agências e empresas possuem um modelo híbrido de negócio
+e atendimento ao cliente que transita entre o off-line e digital.
+O técnico em design gráfico, nesse sentido, tem como responsabilidade conhecer as mídias
+disponíveis no mercado para atender ao briefing do cliente. Assim, este tema tem como
+objetivo estimular os alunos a elaborarem um projeto gráfico completo para interfaces
+digitais para uma empresa do primeiro ou do terceiro setor, passando pelas etapas de
+planejamento gráfico, interface, estilos e animação. Simulações, experimentações, pesquisa
+e atividades em grupo são ótimas estratégias para auxiliar os alunos a desenvolverem seus
+projetos.
+Proposta 2: O papel do design digital em ações sociais
+O trabalho do designer vai além do fazer técnico para o atendimento de um projeto. Muitos
+dirigem o olhar para ações efetivas e colaborativas como proposição de engajamento em
+projetos sociais. O design ativismo, movimento que utiliza os recursos criativos para lutar por
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 36
+
+=== PAGE 37 ===
+causas em que acredita, contribuindo para o desenvolvimento da sociedade, é uma dessas
+vertentes que auxiliam nas discussões do trabalho do designer gráfico. Como reflexão, o
+grupo tem o desafio de desenvolver projetos que articulem a sociedade, o mercado e as
+organizações não governamentais em projetos digitais que visam à melhoria das condições
+de vida dos cidadãos. Sendo assim, os alunos são estimulados à pesquisa e à experimentação,
+alinhadas com as causas sociais de suas comunidades.
+Para avaliação da unidade curricular Projeto Integrador são propostos os seguintes
+indicadores, cuja função é evidenciar o alcance dos objetivos da unidade curricular:
+• Cumpre as atividades previstas no plano de ação, conforme desafio identificado no tema
+gerador.
+• Apresenta resultados ou soluções de acordo com as problemáticas do tema
+gerador e objetivos do PI.
+6. ORIENTAÇÕES METODOLÓGICAS
+As orientações metodológicas deste curso, em consonância com a Proposta Pedagógica do
+Senac, pautam-se pelo princípio da aprendizagem com autonomia e pela metodologia de
+desenvolvimento de competências, estas entendidas como ação/fazer profissional
+observável, potencialmente criativo(a), que articula conhecimentos, habilidades e
+atitudes/valores, bem como permite desenvolvimento contínuo.
+As competências que compõem a organização curricular do curso foram definidas com base
+no perfil profissional de conclusão, considerando a área de atuação e os processos de
+trabalho deste profissional. Para o desenvolvimento das competências, foi configurado um
+percurso metodológico que privilegia a prática pedagógica contextualizada, colocando o
+aluno diante de situações de aprendizagem que possibilitam o exercício contínuo da
+mobilização e articulação dos saberes necessários para a ação e solução de questões
+inerentes à natureza da ocupação.
+A mobilização e a articulação dos elementos da competência requerem a proposição de
+situações desafiadoras de aprendizagem, que apresentem níveis crescentes de
+complexidade e se relacionem tanto com a realidade do aluno quanto com o contexto da
+ocupação.
+As atividades relacionadas ao planejamento de carreira dos alunos devem ocorrer no
+contexto do desenvolvimento da marca formativa Atitude Empreendedora. Recomenda-se
+que o tema seja abordado no início das primeiras unidades curriculares do curso e revisitado
+no decorrer de toda a formação. A partir da reflexão sobre si mesmo e sobre a própria
+trajetória profissional, os alunos podem: reconhecer as diferentes possibilidades de atuação
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 37
+
+=== PAGE 38 ===
+profissional, considerando também a perspectiva empreendedora; elaborar estratégias para
+identificar oportunidades; e aprimorar cada vez mais suas competências. O docente pode
+abordar com os alunos o planejamento de carreira a partir dos seguintes tópicos: i) ponto de
+partida: momento de vida do aluno, suas possibilidades de inserção no mercado, fontes de
+recrutamento e seleção, elaboração de currículo, remuneração oferecida pelo mercado,
+competências que possui e seu histórico profissional; ii) objetivos: o que o aluno pretende
+em relação à sua carreira no curto, no médio e no longo prazo, e; iii) estratégias: o que o
+aluno deve fazer para alcançar seus objetivos. Esse plano de ação tem como foco a iniciativa,
+a criatividade, a inovação, a autonomia e o dinamismo, na perspectiva de que os alunos
+possam criar soluções e buscar formas diferentes de atuar em seu segmento.
+No que concerne às orientações metodológicas para a Unidade Curricular Projeto Integrador
+(UCPI), recomenda-se que o docente apresente aos alunos o tema gerador nas primeiras
+semanas do curso, possibilitando a eles modificar e/ou substituir a proposta inicial de acordo
+com a contribuição da turma. Para a execução da UCPI o docente deve atentar para as fases
+que a compõem: a) problematização (detalhamento do tema gerador); b) desenvolvimento
+(elaboração das estratégias para atingir os objetivos e dar respostas às questões formuladas
+na etapa de problematização) e; c) síntese (organização e avaliação das atividades
+desenvolvidas e dos resultados obtidos).
+Ressalta-se que o tema gerador deve se basear em problemas da realidade da ocupação,
+propiciando desafios significativos que estimulem a pesquisa a partir de diferentes temas e
+ações relacionadas ao setor produtivo ao qual o curso está vinculado. Nesse sentido, a
+proposta deve contribuir para o desenvolvimento de projetos consistentes, que ultrapassem
+a mera sistematização das informações trabalhadas durante as demais unidades curriculares.
+No tocante à avaliação dos resultados, o docente deve retomar a reflexão sobre a articulação
+das competências do perfil profissional e o desenvolvimento das Marcas Formativas,
+correlacionando-os ao fazer profissional.
+A apresentação dos resultados do Projeto Integrador pode assumir diferentes formatos e
+proporcionar momentos de socialização para seu compartilhamento. Esse momento de
+apresentação deve ser considerado como mais uma atividade que compõe o processo de
+aprendizagem. Como a avaliação é contínua e se dá ao longo do curso, caso a apresentação
+não atenda aos objetivos iniciais de seu planejamento, não há obrigatoriamente a
+necessidade de refazê-la, pois o foco da avaliação deve olhar para os objetivos alcançados
+pelo projeto e não pela apresentação em si. Essa necessidade deve ser analisada caso a caso
+e é fundamental que o docente proponha que os alunos reflitam sobre todo o processo de
+aprendizagem com intuito de identificar as possíveis razões que levaram ao resultado obtido
+e o que é possível aprender com este processo.
+O docente deve, ainda, incentivar o compartilhamento dos resultados do Projeto Integrador
+com toda a comunidade escolar, zelando para que, sempre que possível, essa ação de
+compartilhamento estabeleça uma aproximação ao contexto profissional.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 38
+
+=== PAGE 39 ===
+7. CRITÉRIOS DE APROVEITAMENTO DE
+CONHECIMENTOS E DE EXPERIÊNCIAS ANTERIORES
+De acordo com a legislação educacional em vigor, é possível aproveitar conhecimentos e
+experiências anteriores dos alunos, desde que diretamente relacionados com o Perfil
+Profissional de Conclusão do presente curso.
+O aproveitamento de competências anteriormente adquiridas pelo aluno por meio da
+educação formal, informal ou do trabalho, para fins de prosseguimento de estudos, será
+realizado em acordo com as diretrizes legais e orientações organizacionais vigentes.
+8. CRITÉRIOS E PROCEDIMENTOS DE AVALIAÇÃO DA
+APRENDIZAGEM
+De forma coerente com os princípios pedagógicos da Instituição, a avaliação tem como
+propósitos:
+• Avaliar o desenvolvimento das competências no processo formativo.
+• Ser diagnóstica e formativa.
+• Permear e orientar todo o processo educativo.
+• Verificar a aprendizagem do aluno, sinalizando o quão perto ou longe está do
+desenvolvimento das competências que compõem o perfil profissional de conclusão
+(foco na aprendizagem).
+• Permitir que o aluno assuma papel ativo em seu processo de aprendizagem, devendo,
+portanto, prever momentos para autoavaliação e de feedback em que docente e aluno
+possam juntos realizar correções de rumo ou adoção de novas estratégias que permitam
+melhorar o desempenho do aluno no curso.
+8.1 Formas de expressão dos resultados da avaliação
+Toda avaliação deve ser acompanhada e registrada ao longo do processo de ensino-
+aprendizagem. As menções adotadas no Modelo Pedagógico Senac reforçam o
+comprometimento com o desenvolvimento da competência e buscam minimizar o grau de
+subjetividade do processo avaliativo.
+De acordo com a etapa de avaliação, foram estabelecidas formas de registro específicas a
+serem adotadas no decorrer do processo de aprendizagem:
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 39
+
+=== PAGE 40 ===
+8.1.1 Menção por unidade curricular
+Ao final de cada unidade curricular, devem ser atribuídas menções que evidenciam o
+desenvolvimento ou não da competência. As menções possíveis para cada unidade curricular
+são:
+• Desenvolvida – D
+• Não desenvolvida – ND
+8.1.2 Registros parciais com foco nos indicadores de competência
+Para acompanhar o processo de desenvolvimento das competências também são realizados
+registros relativos aos indicadores, que evidenciam o desenvolvimento da competência. As
+formas de registro relativas aos resultados possíveis para cada indicador são:
+Durante o processo
+• Atendido - A
+• Parcialmente atendido - PA
+• Não atendido - NA
+Ao final da unidade curricular
+• Atendido - A
+• Não atendido - NA
+8.1.3 Menção para aprovação no curso
+Para aprovação no curso, o aluno precisa atingir D (desenvolvida) em todas as unidades
+curriculares (Competências e Unidades Curriculares de Natureza Diferenciada).
+Além da menção D (desenvolvida), o aluno deve ter frequência mínima de 75% em cada
+unidade curricular, conforme legislação vigente, com exceção do Projeto Integrador que terá
+como critério para aprovação apenas a Menção D (desenvolvida). Os resultados possíveis no
+curso são:
+• Aprovado - AP
+• Reprovado - RP
+8. 2 Recuperação
+A recuperação será imediata à constatação das dificuldades do aluno, por meio de solução
+de situações-problema, realização de estudos dirigidos e outras estratégias de aprendizagem
+que contribuam para o desenvolvimento da competência. Na modalidade de oferta
+presencial, é possível a adoção de recursos de educação a distância.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 40
+
+=== PAGE 41 ===
+9. ESTÁGIO PROFISSIONAL SUPERVISIONADO
+O Estágio tem por finalidade propiciar condições para a integração dos alunos no mercado
+de trabalho. É um “ato educativo escolar supervisionado, desenvolvido no ambiente de
+trabalho, que visa à preparação para o trabalho produtivo de educandos” (Lei n° 11.788/08).
+Conforme previsto em legislação vigente, o Estágio pode integrar ou não a estrutura
+curricular dos cursos. É obrigatório quando a legislação que regulamenta a atividade
+profissional assim o determinar.
+Nos cursos em que não for obrigatório, pode ser facultada aos alunos a sua realização, de
+acordo com a demanda do mercado de trabalho. Desenvolvido como atividade opcional, a
+carga horária do estágio é apostilada ao histórico escolar do aluno.
+No presente curso, o Estágio não é obrigatório.
+10. INSTALAÇÕES, EQUIPAMENTOS E RECURSOS
+DIDÁTICOS
+A rede de Unidades Escolares do Senac São Paulo tem a infraestrutura necessária para a
+realização dos cursos propostos, contando com dependências para acolhimento dos alunos,
+salas de aula devidamente mobiliadas com cadeiras móveis e armário para organização dos
+materiais, sala de atendimento, salas para Direção, Secretaria, Equipe Técnica e Docentes,
+laboratórios de informática, bibliotecas com o acervo contendo os títulos da bibliografia
+básica indicada no correspondente Plano de Curso, computadores conectados à Internet,
+data show e outros equipamentos.
+10.1 Instalações e equipamentos específicos:
+• Laboratório de informática com os softwares instalados: pacote Office, pacote Adobe e
+CorelDraw
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 41
+
+=== PAGE 42 ===
+11. PERFIL DO PESSOAL DOCENTE
+O desenvolvimento da oferta ora proposta requer docentes com o seguinte perfil
+profissional:
+Unidades
+Perfil do Pessoal Docente
+Curriculares
+Docentes com experiência profissional em criação e desenvolvimento de
+UC1 projetos gráficos e formação superior em Design Gráfico, Artes Visuais,
+Produção Gráfica, Publicidade e Propaganda ou áreas afins.
+Docentes com experiência profissional em criação e desenvolvimento de
+projetos gráficos, computação gráfica e tratamento de imagens e formação
+UC2
+superior em Design Gráfico, Artes Visuais, Produção Gráfica, Publicidade e
+Propaganda, Computação ou áreas afins.
+Docentes com experiência profissional em criação e desenvolvimento de
+projetos gráficos, ilustrações vetoriais e computação gráfica e formação
+UC3
+superior em Design Gráfico, Artes Visuais, Produção Gráfica, Publicidade e
+Propaganda, Computação ou áreas afins.
+Docentes com experiência profissional em criação e desenvolvimento de
+UC4 projetos gráficos e formação superior em Design Gráfico, Artes Visuais,
+Produção Gráfica, Publicidade e Propaganda ou áreas afins.
+Docentes com experiência profissional em criação e desenvolvimento de
+projetos gráficos, computação gráfica e tratamento de imagens e formação
+UC5
+superior em Design Gráfico, Artes Visuais, Produção Gráfica, Publicidade e
+Propaganda, Computação ou áreas afins.
+Docentes com experiência profissional em criação e desenvolvimento de
+UC6
+projetos gráficos editoriais e formação superior em Design Gráfico, Design
+Editorial, Artes Visuais, Produção Gráfica, Publicidade e Propaganda,
+UC7
+Computação ou áreas afins.
+Docentes com experiência profissional em criação e desenvolvimento de
+projetos gráficos e formação superior em Design Gráfico, Design Editorial,
+UC8
+Design Digital, Artes Visuais, Produção Gráfica, Publicidade e Propaganda,
+Computação ou áreas afins.
+Docentes com experiência profissional em criação e desenvolvimento de
+projetos gráficos editoriais e formação superior em Design Gráfico, Design
+UC9
+Editorial, Artes Visuais, Produção Gráfica, Publicidade e Propaganda,
+Computação ou áreas afins.
+Docentes com experiência profissional em criação e desenvolvimento de
+UC10
+projetos de identidade visual e formação superior em Design Gráfico, Artes
+Visuais, Produção Gráfica, Publicidade e Propaganda, Computação ou áreas
+UC11
+afins.
+UC12 Docentes com experiência profissional em criação e desenvolvimento de
+projetos gráficos e formação superior em Design Gráfico, Artes Visuais,
+UC13 Produção Gráfica, Publicidade e Propaganda, Computação ou áreas afins.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 42
+
+=== PAGE 43 ===
+UC14
+Docentes com experiência profissional em criação e desenvolvimento de
+UC15 projetos gráficos de embalagens e materiais promocionais e formação
+superior em Design Gráfico, Design de Embalagem, Design de Produto, Artes
+UC16 Visuais, Produção Gráfica, Publicidade e Propaganda, Computação ou áreas
+afins.
+UC17
+Docentes com experiência profissional em criação e desenvolvimento de
+UC18
+projetos gráficos para interfaces digitais e formação superior em Design
+Gráfico, Multimídia, Design Digital, Artes Visuais, Publicidade e Propaganda,
+UC19
+Web Design, Computação Gráfica ou áreas afins.
+Docentes com experiência profissional em criação e desenvolvimento de
+projetos gráficos para interfaces digitais e em edição e efeitos de vídeo e
+UC20 formação superior em Design Gráfico, Multimídia, Design Digital, Artes
+Visuais, Publicidade e Propaganda, Web Design, Audiovisual, Computação
+Gráfica ou áreas afins.
+Docentes com experiência profissional em criação e desenvolvimento de
+UC21
+projetos gráficos para interfaces digitais e formação superior em Design
+Gráfico, Multimídia, Design Digital, Artes Visuais, Publicidade e Propaganda,
+UC22
+Web Design, Computação Gráfica ou áreas afins.
+12. BIBLIOGRAFIA
+UC1: Planejar projetos gráficos impressos
+Bibliografia Básica
+• AMBROSE, G.; HARRIS, P. Layout [série design básico] etc. Porto Alegre: Bookman, 2012.
+E-book.
+Bibliografia Complementar
+• BASTOS, D.; FARINA, M.; PEREZ. Psicodinâmica das cores em comunicação. São Paulo:
+Blucher, 2011.
+• WOLF, P. J. Desenho gráfico: um dicionário visual de termos para um design global. São
+Paulo: Blucher, 2010.
+UC2: Compor e tratar imagens digitais
+Bibliografia Básica
+• ANDRADE, M. S. de. Adobe Photoshop. São Paulo: Senac, 2020.
+Bibliografia Complementar
+• FATORELLI, A. Fotografia contemporânea: entre o cinema, o vídeo e as novas mídias. São
+Paulo: Senac, 2020. E-book.
+• PERUYERA, M. Diagramação e layout. Curitiba: InterSaberes, 2018. E-book.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 43
+
+=== PAGE 44 ===
+UC3: Desenvolver ilustrações vetoriais
+Bibliografia Básica
+• ANDRADE, M. S. de. Adobe Illustrator. São Paulo: Senac, 2019.
+Bibliografia Complementar
+• PERUYERA, M. Diagramação e layout. Curitiba: InterSaberes, 2018. E-book.
+• ZEEGEN, L. Fundamentos de ilustração. Porto Alegre: Bookman, 2009.
+UC4: Planejar produção gráfica
+Bibliografia Básica
+• GATTER, M. Produção gráfica para designers. São Paulo: Ateliê Editorial, 2016.
+Bibliografia Complementar
+• GLÜER, L. M. Produção gráfica. Porto Alegre: Sagah, 2019. E-book.
+• RIBEIRO, A. Conceitos fundamentais de planejamento e produção gráfica. Curitiba:
+InterSaberes, 2020. E-book.
+UC6: Diagramar livros impressos e e-books
+Bibliografia Básica
+• BRINGHURST, R. Elementos do estilo tipográfico. Versão 4.0. São Paulo: Ubu, 2021.
+Bibliografia Complementar
+• ANDRADE, M. S. de. Adobe InDesign. São Paulo: Senac, 2019. E-book.
+• FLATSCHART, F. Livro digital etc. Rio de Janeiro: Brasport, 2014. E-book.
+UC7: Diagramar revistas impressa e digital
+Bibliografia Básica
+• LUPTON, E. Pensar com tipos. São Paulo: Olhares, 2021.
+Bibliografia Complementar
+• AMBROSE, G.; HARRIS, P. Layout [série design básico] etc. Porto Alegre: Bookman, 2012.
+E-book.
+• PERUYERA, M. Diagramação e layout. Curitiba: InterSaberes, 2018. E-book.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 44
+
+=== PAGE 45 ===
+UC8: Produzir Infográfico
+Bibliografia Básica
+• FERREIRA, L. T. Infografia. São Paulo: InterSaberes, 2021. E-book.
+Bibliografia Complementar
+• MORAES, A. Infografia: história e projeto. São Paulo: Bluscher, 2013.
+• ZEEGEN, L. Fundamentos da Ilustração. Porto Alegre: Bookman, 2009. E-book.
+UC10: Criar Identidade Visual
+Bibliografia Básica
+• DANTAS, E. B. Branding e comunicação: a comunicação e sua importância para a
+construção de marcas. São Paulo: Senac, 2019.
+Bibliografia Complementar
+• CAMEIRA, S. R. Branding + design: a estratégia na criação de identidades de marca. São
+Paulo: Senac, 2016. E-book.
+• WHEELER, A. Design de identidade da marca: guia essencial para toda a equipe de gestão
+de marcas. Porto Alegre: Bookman. 2019. E-book.
+UC11: Desenvolver Manual de Identidade Visual
+Bibliografia Básica
+• MUNHOZ, D. M. Manual de identidade visual: guia para construção de manuais. São
+Paulo: 2AB, 2013.
+Bibliografia Complementar
+• CHAMMA, N.; PASTORELO, P. D. Marcas & sinalização: práticas em design corporativo.
+São Paulo: Senac, 2019. E-book.
+• WHEELER, A. Design de identidade da marca: guia essencial para toda a equipe de gestão
+de marcas. Porto Alegre: Bookman, 2019. E-book.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 45
+
+=== PAGE 46 ===
+UC12: Desenvolver Projeto Gráfico para Expografia
+Bibliografia Básica
+• MUNARI, B. Design e comunicação visual. São Paulo: Martins Fontes, 2020.
+Bibliografia Complementar
+• AMBROSE, G.; HARRIS, P. Fundamentos de design criativo. Porto Alegre: Bookman, 2012.
+E-book.
+• NOBLE, I. Pesquisa visual: introdução às metodologias de pesquisa em design gráfico.
+Porto Alegre: Bookman, 2013. E-book.
+UC14: Criar embalagens cartotécnicas.
+Bibliografia Básica
+• RONCARELLI, S.; ELLICOTT, C. Design de embalagem: 100 fundamentos de projeto e
+aplicação. São Paulo: Blucher, 2010.
+Bibliografia Complementar
+• MEISTRINER, F. Gestão estratégica de embalagem. São Paulo: Pearson, 2007. E-book.
+• SILVA, A. Design de embalagens e PDV. Curitiba: InterSaberes, 2021. E-book.
+UC15: Desenvolver materiais de ponto de venda
+Bibliografia Básica
+• SILVA, A. Design de embalagens e PDV. Curitiba: InterSaberes, 2021. E-book.
+Bibliografia Complementar
+• GATTER, M. Produção gráfica para designers. São Paulo: Ateliê Editorial, 2016.
+• MEISTRINER, F. Gestão estratégica de embalagem. São Paulo: Pearson, 2007. E-book.
+UC16: Criar mockups impressos e digitais
+Bibliografia Básica
+• RONCARELLI, S.; ELLICOTT, C. Design de embalagem: 100 fundamentos de projeto e
+aplicação. São Paulo: Blucher, 2010.
+Bibliografia Complementar
+• GATTER, M. Produção gráfica para designers. São Paulo: Ateliê Editorial, 2016.
+• MEISTRINER, F. Gestão estratégica de embalagem. São Paulo: Pearson, 2007. E-book.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 46
+
+=== PAGE 47 ===
+UC18: Planejar projetos gráficos digitais.
+Bibliografia Básica
+• GUERRA, F.; TERCE, M. L. Design digital: conceitos e aplicações para websites, animações,
+vídeo e webgames. São Paulo: Senac, 2019. E-book.
+Bibliografia Complementar
+• BELMIRO, J. Usabilidade e interface homem-máquina. São Paulo: Pearson, 2017. E-book.
+• PHILLIPS, P. L. Briefing a gestão do projeto de design. São Paulo: Blucher, 2015. E-book.
+UC19: Desenvolver interface e guia de estilos gráficos para mídias
+digitais.
+Bibliografia Básica
+• GUERRA, F.; TERCE, M. L. Design digital: conceitos e aplicações para websites, animações,
+vídeo e webgames. São Paulo: Senac, 2019. E-book.
+Bibliografia Complementar
+• AMBROSE, G.; HARRIS, P. Fundamentos de design criativo. Porto Alegre: Bookman, 2012.
+E-book.
+• KALBACH, J. Design de navegação web: otimizando a experiência do usuário. Porto
+Alegre: Bookman, 2009.
+UC20: Desenvolver projeto de design em movimento
+Bibliografia Básica
+• GUERRA, F.; TERCE, M. L. Design digital: conceitos e aplicações para websites, animações,
+vídeo e webgames. São Paulo: Senac, 2019. E-book.
+Bibliografia Complementar
+• AMBROSE, G.; HARRIS, P. Fundamentos de design criativo. Porto Alegre: Bookman, 2012.
+E-book.
+• JESUS, A. M. V.; CÉ, O. A. Produção audiovisual. Porto Alegre: Sagah, 2019. E-book.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 47
+
+=== PAGE 48 ===
+UC21: Criar portfólio digital
+Bibliografia Básica
+• CLAZIE, I. Portfólio digital de design: um guia prático para apresentar seus trabalhos
+online. São Paulo: Blucher, 2011. E-book.
+Bibliografia Complementar
+• AMBROSE, G.; HARRIS, P. Fundamentos de design criativo. Porto Alegre: Bookman, 2012.
+E-book.
+• GUERRA, F.; TERCE, M. L. Design digital: conceitos e aplicações para websites, animações,
+vídeo e webgames. São Paulo: Senac, 2019. E-book.
+13. CERTIFICAÇÃO
+Àquele que concluir com aprovação a Qualificação Profissional Técnica de Assistente de Arte
+composta pelas unidades curriculares 1, 2, 3, 4 e 5 é conferido o certificado de Assistente de
+Arte, com validade nacional.
+Àquele que concluir com aprovação a Qualificação Profissional Técnica de Programação
+Visual de Design Editorial composta pelas unidades curriculares 6, 7, 8 e 9 é conferido o
+certificado de Programador Visual de Design Editorial, com validade nacional.
+Àquele que concluir com aprovação a Qualificação Profissional Técnicade Assistente de
+Design de Marcas e Identidade Visual composta pelas unidades curriculares 10, 11, 12 e 13 é
+conferido o certificado de Assistente de Design de Marcas e Identidade Visual, com validade
+nacional.
+Àquele que concluir com aprovação a Qualificação Profissional Técnica de Assistente de
+Design de Embalagens composta pelas unidades curriculares 14, 15, 16 e 17 é conferido o
+certificado de Assistente de Design de Embalagens, com validade nacional.
+Àquele que concluir com aprovação a Qualificação Profissional Técnica de Assistente de
+Design Gráfico para Interfaces Digitais composta pelas unidades curriculares 18, 19, 20, 21 e
+22 é conferido o certificado de Assistente de Design Gráfico para Interfaces Digitais, com
+validade nacional.
+Àquele que concluir com aprovação todas as unidades curriculares que compõem a
+organização curricular desta Habilitação Profissional Técnica e comprovar a conclusão do
+Ensino Médio, é conferido o diploma de Técnico em Design Gráfico, com validade nacional.
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 48
+
+=== PAGE 49 ===
+SENAC • PC – Habilitação Profissional Técnico em Design Gráfico 49
+

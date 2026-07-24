@@ -148,6 +148,79 @@ public/
 
 ---
 
+## Fluxo de Importação de Cursos via Excel
+
+Novo curso é adicionado ao portal em duas etapas: gerar/preencher a planilha e importá-la.
+
+### Scripts disponíveis
+
+| Script | Comando | Descrição |
+|--------|---------|-----------|
+| `scripts/gerar-template.js` | `npm run template` | Gera `template-curso.xlsx` em branco com dados de exemplo |
+| `scripts/gerar-informatica.js` | `node scripts/gerar-informatica.js` | Gera `template-curso.xlsx` pré-preenchido com o curso Técnico em Informática (PC nº 297) |
+| `scripts/importar-curso.js` | `npm run importar -- <planilha.xlsx>` | Lê a planilha e gera todos os arquivos do curso |
+
+### Estrutura da planilha Excel (11 abas)
+
+| Aba | Colunas | Descrição |
+|-----|---------|-----------|
+| `Curso` | `slug, nome, descricao, icone, cor` | Metadados do curso (1 linha) |
+| `Badges` | `label, variant` | Badges exibidos no card da Home |
+| `UCs` | `id, titulo` | Lista de Unidades Curriculares |
+| `UC_Atividades` | `uc_id, atividade` | Atividades por UC (chave estrangeira `uc_id`) |
+| `UC_Linguagens` | `uc_id, nome, desc` | Linguagens/tecnologias por UC |
+| `UC_Ferramentas` | `uc_id, nome, desc` | Ferramentas por UC |
+| `Faltas` | `uc, nome, aulas, ch, falta25, qtdeDias` | Tabela de faltas por UC |
+| `Avaliacao` | `tipo, conteudo` | Critérios de avaliação em Markdown |
+| `Informacoes` | `tipo, conteudo` | Informações gerais em Markdown |
+| `Bibliografia` | `titulo, autores, editora, tipo, ucs` | Referências bibliográficas |
+| `Downloads` | `nome, desc, link` | Softwares/ferramentas para download |
+
+**Tipos de linha para Avaliacao/Informacoes:** `h1`, `h2`, `h3`, `negrito`, `item`, `texto`
+
+**Variants para Badges:** `primary`, `success`, `warning`, `danger`, `dark`
+
+### O que o importar-curso.js gera
+
+Dado um `slug`, gera os seguintes arquivos:
+
+```
+public/cursos/{slug}/
+├── ucs.json          # Array de UCs com atividades, linguagens e ferramentas
+├── faltas.json       # Array de faltas por UC
+├── avaliacao.md      # Markdown gerado das linhas da aba Avaliacao
+├── informacoes.md    # Markdown gerado das linhas da aba Informacoes
+├── bibliografia.json # Array de referências bibliográficas
+└── downloads.json    # Array de softwares para download
+```
+
+Também insere automaticamente o curso em `src/data/cursos.js` se o `slug` ainda não existir.
+
+### Exemplo de uso
+
+```bash
+# 1. Gerar planilha em branco
+npm run template
+
+# 2. Preencher a planilha e importar
+npm run importar -- template-curso.xlsx
+
+# Ou com caminho completo
+npm run importar -- /caminho/para/planilha.xlsx
+```
+
+### Compatibilidade ES Module + xlsx (CommonJS)
+
+O projeto usa `"type": "module"`. Os scripts usam `createRequire` para importar o `xlsx`:
+
+```js
+import { createRequire } from 'module'
+const require = createRequire(import.meta.url)
+const XLSX = require('xlsx')
+```
+
+---
+
 ## Comandos Úteis
 
 ```bash
@@ -155,6 +228,8 @@ npm run dev       # Desenvolvimento local
 npm run build     # Build para produção
 npm run deploy    # Build + deploy para GitHub Pages
 npm run lint      # Verificação ESLint
+npm run template  # Gera template-curso.xlsx em branco
+npm run importar -- <planilha.xlsx>  # Importa curso da planilha
 ```
 
 ---

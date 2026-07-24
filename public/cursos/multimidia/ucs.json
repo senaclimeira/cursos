@@ -1,6 +1,7 @@
 [
   {
     "id": "uc1",
+    "modulo": 0,
     "titulo": "UC1 - Desenvolver layout",
     "conhecimentos": [
       "Elementos e fundamentos do design (forma, cor, equilíbrio, composição e hierarquia).",
@@ -25,6 +26,7 @@
   },
   {
     "id": "uc2",
+    "modulo": 0,
     "titulo": "UC2 - Criar projetos gráficos para marketing digital",
     "conhecimentos": [
       "Fundamentos de marketing e estratégias digitais.",
@@ -49,6 +51,7 @@
   },
   {
     "id": "uc3",
+    "modulo": 0,
     "titulo": "UC3 - Planejar produtos para web",
     "conhecimentos": [
       "Evolução da web (1.0, 2.0 e 3.0) e tendências de mercado.",
@@ -73,6 +76,7 @@
   },
   {
     "id": "uc4",
+    "modulo": 0,
     "titulo": "UC4 - Desenvolver produtos para web",
     "conhecimentos": [
       "Lógica de programação: algoritmos, variáveis, operadores e estruturas condicionais.",
@@ -97,6 +101,7 @@
   },
   {
     "id": "uc5",
+    "modulo": 0,
     "titulo": "UC5 - Editar vídeo para web",
     "conhecimentos": [
       "Linguagem audiovisual: enquadramentos, ângulos, movimentos de câmera e tipos de cortes.",
@@ -122,11 +127,13 @@
   },
   {
     "id": "uc6",
+    "modulo": 0,
     "titulo": "UC6 - Projeto Integrador Produção e Design para Web",
     "descricao": "Na UC6, os alunos desenvolvem um projeto integrador que abrange a linguagem front end com todos os conhecimentos adquiridos ao longo das UCs. O projeto é conduzido visando o planejamento, prototipagem, testes até a implementação final."
   },
   {
     "id": "uc7",
+    "modulo": 1,
     "titulo": "UC7 - Criar motion graphics",
     "conhecimentos": [
       "Motion graphics: aplicações, cases e mercado.",
@@ -154,6 +161,7 @@
   },
   {
     "id": "uc8",
+    "modulo": 1,
     "titulo": "UC8 - Criar ilustração digital 2D",
     "conhecimentos": [
       "Repertório de ilustração: artistas, movimentos e estilos.",
@@ -180,6 +188,7 @@
   },
   {
     "id": "uc9",
+    "modulo": 1,
     "titulo": "UC9 - Criar concept art para animação 2D",
     "conhecimentos": [
       "Etapas de produção de animação: pré-produção, layout, storyboard e animatic.",
@@ -206,6 +215,7 @@
   },
   {
     "id": "uc10",
+    "modulo": 1,
     "titulo": "UC10 - Criar animação digital 2D",
     "conhecimentos": [
       "Conceitos de animação: FPS, quadros e quadros-chave.",
@@ -233,11 +243,13 @@
   },
   {
     "id": "uc11",
+    "modulo": 1,
     "titulo": "UC11 - Projeto Integrador Criação e Produção de Animações",
     "descricao": "Na UC11, os alunos realizam a criação de uma animação autoral que evidencie a criatividade e o uso das técnicas e todos os conhecimentos adquiridos ao longo das UCs, considerando a compreensão de uma lógica narrativa e que esteja de acordo com o mercado."
   },
   {
     "id": "uc12",
+    "modulo": 2,
     "titulo": "UC12 - Desenvolver game design",
     "conhecimentos": [
       "Contexto histórico e conceitos de games: jogo x diversão.",
@@ -264,6 +276,7 @@
   },
   {
     "id": "uc13",
+    "modulo": 2,
     "titulo": "UC13 - Criar concept art para webgame 2D",
     "conhecimentos": [
       "Pesquisa visual e painel semântico: referências de estilo, cores e animação.",
@@ -288,6 +301,7 @@
   },
   {
     "id": "uc14",
+    "modulo": 2,
     "titulo": "UC14 - Criar interface para webgame 2D",
     "conhecimentos": [
       "Elementos da interface: pontuação, vidas, regras, itens e tempo.",
@@ -314,6 +328,7 @@
   },
   {
     "id": "uc15",
+    "modulo": 2,
     "titulo": "UC15 - Produzir webgame 2D",
     "conhecimentos": [
       "Raciocínio lógico aplicado à produção de webgames.",
@@ -339,6 +354,7 @@
   },
   {
     "id": "uc16",
+    "modulo": 2,
     "titulo": "UC16 - Projeto Integrador Produção e Design para Webgames",
     "descricao": "Na UC16, os alunos desenvolvem um projeto de web game 2D, que se adeque às linguagens do mercado aplicando os conhecimentos adquiridos ao longo das UCs. Adequando os grandes clássicos dos jogos por meio de uma releitura que os insira no cotidiano e no meio atuais."
   }

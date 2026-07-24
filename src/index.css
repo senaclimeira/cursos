@@ -645,35 +645,6 @@ body {
     overflow: hidden;
 }
 
-.accordion-item:nth-child(1),
-.accordion-item:nth-child(2),
-.accordion-item:nth-child(3),
-.accordion-item:nth-child(4),
-.accordion-item:nth-child(5) {
-    border-left: 6px solid var(--primary);
-}
-
-.accordion-item:nth-child(6),
-.accordion-item:nth-child(7),
-.accordion-item:nth-child(8) {
-    border-left: 6px solid #10b981;
-}
-
-.accordion-item:nth-child(9),
-.accordion-item:nth-child(10),
-.accordion-item:nth-child(11) {
-    border-left: 6px solid #f59e0b;
-}
-
-.accordion-item:nth-child(12),
-.accordion-item:nth-child(13),
-.accordion-item:nth-child(14) {
-    border-left: 6px solid #ef4444;
-}
-
-.accordion-item:nth-child(15) {
-    border-left: 6px solid #000;
-}
 
 .legenda-primary { background-color: var(--primary); font-weight: 600; }
 .legenda-success  { background-color: #10b981; font-weight: 600; }

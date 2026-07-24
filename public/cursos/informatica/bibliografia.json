@@ -1,0 +1,297 @@
+[
+  {
+    "titulo": "Manutenção de microcomputadores na prática",
+    "autores": "SCHORSCH, M.; LACERDA, I. M.",
+    "editora": "Senac São Paulo, 2016",
+    "tipo": "Básica",
+    "ucs": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "titulo": "Montagem e manutenção de computadores, PCs",
+    "autores": "PAIXÃO, R. R.",
+    "editora": "Érica, 2014",
+    "tipo": "Complementar",
+    "ucs": [
+      1,
+      2
+    ]
+  },
+  {
+    "titulo": "Hardware na Prática",
+    "autores": "VASCONCELOS, L.",
+    "editora": "Ciência Moderna, 2017",
+    "tipo": "Complementar",
+    "ucs": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "titulo": "Rede de computadores: um guia para instalação e reparação",
+    "autores": "LACERDA, I. M. F; OLIVEIRA, J. de B.",
+    "editora": "Senac Nacional, 2013",
+    "tipo": "Complementar",
+    "ucs": [
+      3
+    ]
+  },
+  {
+    "titulo": "Redes de computadores: guia total",
+    "autores": "SOUSA, L. B.",
+    "editora": "Érica, 2014",
+    "tipo": "Básica",
+    "ucs": [
+      5
+    ]
+  },
+  {
+    "titulo": "Redes de computadores e internet",
+    "autores": "COMER, D. E.",
+    "editora": "Bookman, 2016",
+    "tipo": "Mista (Básica/Comp.)",
+    "ucs": [
+      5,
+      6
+    ]
+  },
+  {
+    "titulo": "Cabeamento estruturado: desvendando cada passo: do projeto à instalação",
+    "autores": "MARIN, P. S.",
+    "editora": "Érica, 2013",
+    "tipo": "Complementar",
+    "ucs": [
+      5
+    ]
+  },
+  {
+    "titulo": "Montagem de redes locais: prático e didático",
+    "autores": "HAYAMA, M. M.",
+    "editora": "Érica, 2011",
+    "tipo": "Complementar",
+    "ucs": [
+      6
+    ]
+  },
+  {
+    "titulo": "Segurança em redes sem fio",
+    "autores": "RUFINO, N. M. de O.",
+    "editora": "Novatec, 2015",
+    "tipo": "Complementar",
+    "ucs": [
+      6
+    ]
+  },
+  {
+    "titulo": "Microsoft Windows Server 2016: fundamentos",
+    "autores": "THOMPSON, M. A.",
+    "editora": "Érika, 2017",
+    "tipo": "Básica",
+    "ucs": [
+      7
+    ]
+  },
+  {
+    "titulo": "Solucionando Problemas de Comunicação em Redes Lan e Wan",
+    "autores": "FEY, A. F.; GAUER, R. R.",
+    "editora": "Clube dos Autores, 2016",
+    "tipo": "Complementar",
+    "ucs": [
+      7
+    ]
+  },
+  {
+    "titulo": "Linux para servidores: instalação à virtualização",
+    "autores": "MARTINI, L. A; MAIEVES, G. T.",
+    "editora": "Viena, 2013",
+    "tipo": "Complementar",
+    "ucs": [
+      7
+    ]
+  },
+  {
+    "titulo": "Aprenda lógica de programação e algoritmos",
+    "autores": "OLIVEIRA, C. O.; LÜHMANN, A. C de O.",
+    "editora": "Ciência Moderna, 2016",
+    "tipo": "Básica",
+    "ucs": [
+      9
+    ]
+  },
+  {
+    "titulo": "Princípios de análise e projetos de sistemas com UML",
+    "autores": "BEZERRA, E.",
+    "editora": "Elsevier, 2015",
+    "tipo": "Complementar",
+    "ucs": [
+      9
+    ]
+  },
+  {
+    "titulo": "Sistemas Orientados a Objetos: Teoria e Prática com UML e Java",
+    "autores": "RANGEL, P.; JUNIOR, J. G. de C.",
+    "editora": "Brasport, 2022",
+    "tipo": "Complementar",
+    "ucs": [
+      9
+    ]
+  },
+  {
+    "titulo": "Banco de dados: Teoria e Desenvolvimento",
+    "autores": "ALVES, W. P.",
+    "editora": "Érica, 2020",
+    "tipo": "Básica",
+    "ucs": [
+      10
+    ]
+  },
+  {
+    "titulo": "Sistemas de banco de dados",
+    "autores": "ELMASRI, R.; NAVATHE, S. B.",
+    "editora": "Pearson, 2019",
+    "tipo": "Complementar",
+    "ucs": [
+      10,
+      11
+    ]
+  },
+  {
+    "titulo": "Sistema de banco de dados",
+    "autores": "KORTH, H. F.; SILBERSCHATZ, A.; SUDARSHAN, S.",
+    "editora": "Campus, 2012",
+    "tipo": "Complementar",
+    "ucs": [
+      10
+    ]
+  },
+  {
+    "titulo": "Qualidade de Software na Prática",
+    "autores": "SAMPAIO, C.",
+    "editora": "Ciência Moderna, 2020",
+    "tipo": "Básica",
+    "ucs": [
+      11
+    ]
+  },
+  {
+    "titulo": "Documentação em Projetos de Teste de Software",
+    "autores": "RIOS, E.",
+    "editora": "Clube dos Autores, 2020",
+    "tipo": "Complementar",
+    "ucs": [
+      11
+    ]
+  },
+  {
+    "titulo": "Use a cabeça! Aprenda a programar",
+    "autores": "FREEMAN, E.",
+    "editora": "Alta Books, 2019",
+    "tipo": "Básica",
+    "ucs": [
+      12
+    ]
+  },
+  {
+    "titulo": "C#: como programar",
+    "autores": "DEITEL, H M.",
+    "editora": "Pearson, 2003",
+    "tipo": "Complementar",
+    "ucs": [
+      12
+    ]
+  },
+  {
+    "titulo": "Java para iniciantes: crie, compile e execute programas Java rapidamente",
+    "autores": "SCHILDT, H.",
+    "editora": "Bookman, 2015",
+    "tipo": "Complementar",
+    "ucs": [
+      12
+    ]
+  },
+  {
+    "titulo": "Fundamentos de HTML5 e CSS3",
+    "autores": "SILVA, M. S.",
+    "editora": "Novatec, 2015",
+    "tipo": "Básica",
+    "ucs": [
+      13
+    ]
+  },
+  {
+    "titulo": "Html5 e Css3: guia prático e visual",
+    "autores": "CASTRO, E.; HYSLOP, B.",
+    "editora": "Altabooks, 2013",
+    "tipo": "Complementar",
+    "ucs": [
+      13
+    ]
+  },
+  {
+    "titulo": "Desenvolvimento de software II: introdução ao desenvolvimento web com HTML, CSS, JS e PHP",
+    "autores": "MILETTO, E. M.; BERTAGNOLLI, S. de C.",
+    "editora": "Bookman, 2014",
+    "tipo": "Complementar",
+    "ucs": [
+      13
+    ]
+  },
+  {
+    "titulo": "Adobe Photoshop CC",
+    "autores": "ANDRADE, M. S. de.",
+    "editora": "Senac São Paulo, 2018",
+    "tipo": "Básica",
+    "ucs": [
+      14
+    ]
+  },
+  {
+    "titulo": "Princípios da web design maravilhoso",
+    "autores": "BEAIRD, J.",
+    "editora": "Alta Books, 2012",
+    "tipo": "Complementar",
+    "ucs": [
+      14
+    ]
+  },
+  {
+    "titulo": "Web design responsivo",
+    "autores": "SILVA, M. S.",
+    "editora": "Novatec, 2014",
+    "tipo": "Complementar",
+    "ucs": [
+      14
+    ]
+  },
+  {
+    "titulo": "Estruturas de dados e algoritmos em JavaScript",
+    "autores": "GRONER, L.",
+    "editora": "Novatec, 2017",
+    "tipo": "Básica",
+    "ucs": [
+      15
+    ]
+  },
+  {
+    "titulo": "CSS3: o manual que faltava",
+    "autores": "MCFARLAND, D. S.",
+    "editora": "Altabooks, 2015",
+    "tipo": "Complementar",
+    "ucs": [
+      15
+    ]
+  },
+  {
+    "titulo": "HTML5: a linguagem de marcação que revolucionou a web",
+    "autores": "SILVA, M. S.",
+    "editora": "Novatec, 2014",
+    "tipo": "Complementar",
+    "ucs": [
+      15
+    ]
+  }
+]

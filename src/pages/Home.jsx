@@ -1,8 +1,8 @@
 import { Link } from 'react-router-dom';
-import { Code2, Network, Gamepad2, Palette, ArrowRight } from 'lucide-react';
+import { Code2, Network, Gamepad2, Palette, Settings, Laptop, ArrowRight } from 'lucide-react';
 import cursos from '../data/cursos';
 
-const iconMap = { Code2, Network, Gamepad2, Palette, Code: Code2 };
+const iconMap = { Code2, Network, Gamepad2, Palette, Settings, Laptop, Code: Code2 };
 
 const Home = () => {
   return (

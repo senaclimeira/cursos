@@ -1,6 +1,7 @@
 [
   {
     "id": "uc1",
+    "modulo": 0,
     "titulo": "UC1 - Planejar e executar a instalação de redes locais de computadores",
     "conhecimentos": [
       "Eletricidade aplicada a redes",
@@ -19,6 +20,7 @@
   },
   {
     "id": "uc2",
+    "modulo": 0,
     "titulo": "UC2 - Planejar e executar a manutenção de redes locais de computadores",
     "conhecimentos": [
       "Diagnóstico de falhas",
@@ -34,6 +36,7 @@
   },
   {
     "id": "uc3",
+    "modulo": 0,
     "titulo": "UC3 - Planejar e executar a instalação, configuração e monitoramento de servidores",
     "conhecimentos": [
       "Windows Server e Linux Server",
@@ -49,6 +52,7 @@
   },
   {
     "id": "uc4",
+    "modulo": 4,
     "titulo": "UC4 - Projeto Integrador Assistente de Operação de Redes",
     "conhecimentos": [
       "Integração das UCs 1 a 3"
@@ -61,6 +65,7 @@
   },
   {
     "id": "uc5",
+    "modulo": 1,
     "titulo": "UC5 - Implementar protocolos de rede em roteadores e switches",
     "conhecimentos": [
       "Plataforma e protocolos Cisco",
@@ -78,6 +83,7 @@
   },
   {
     "id": "uc6",
+    "modulo": 1,
     "titulo": "UC6 - Implementar roteamento e switching",
     "conhecimentos": [
       "Segmentação de redes",
@@ -93,6 +99,7 @@
   },
   {
     "id": "uc7",
+    "modulo": 1,
     "titulo": "UC7 - Planejar e executar a manutenção de servidores",
     "conhecimentos": [
       "Backup",
@@ -107,6 +114,7 @@
   },
   {
     "id": "uc8",
+    "modulo": 1,
     "titulo": "UC8 - Implementar cabeamento estruturado e telefonia IP",
     "conhecimentos": [
       "Normas de cabeamento",
@@ -122,6 +130,7 @@
   },
   {
     "id": "uc9",
+    "modulo": 1,
     "titulo": "UC9 - Implementar política de administração de redes e serviços de disponibilidade",
     "conhecimentos": [
       "Política de administração de redes",
@@ -135,6 +144,7 @@
   },
   {
     "id": "uc10",
+    "modulo": 4,
     "titulo": "UC10 - Projeto Integrador Assistente de Implantação e Administração de Infraestrutura",
     "conhecimentos": [
       "Integração das UCs técnicas de infraestrutura"
@@ -147,6 +157,7 @@
   },
   {
     "id": "uc11",
+    "modulo": 2,
     "titulo": "UC11 - Planejar e implementar a segurança física e lógica em redes",
     "conhecimentos": [
       "Segurança física",
@@ -161,6 +172,7 @@
   },
   {
     "id": "uc12",
+    "modulo": 2,
     "titulo": "UC12 - Planejar e implementar a segurança em redes sem fio",
     "conhecimentos": [
       "Dispositivos wireless",
@@ -177,6 +189,7 @@
   },
   {
     "id": "uc13",
+    "modulo": 2,
     "titulo": "UC13 - Planejar e implementar a criptografia de dados e certificados digitais",
     "conhecimentos": [
       "Criptografia simétrica e assimétrica",
@@ -193,6 +206,7 @@
   },
   {
     "id": "uc14",
+    "modulo": 2,
     "titulo": "UC14 - Planejar e implementar a segurança em servidores Windows e Linux",
     "conhecimentos": [
       "Segurança em Windows Server",
@@ -207,6 +221,7 @@
   },
   {
     "id": "uc15",
+    "modulo": 2,
     "titulo": "UC15 - Implantar etapas de gerenciamento de projetos e governança de processos em TI",
     "conhecimentos": [
       "ITIL",
@@ -224,6 +239,7 @@
   },
   {
     "id": "uc16",
+    "modulo": 4,
     "titulo": "UC16 - Projeto Integrador Assistente de Segurança em Redes de Computadores",
     "conhecimentos": [
       "Integração das UCs 11 a 15"

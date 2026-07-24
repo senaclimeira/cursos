@@ -13,8 +13,16 @@ const ItemList = ({ items }) => (
   </>
 );
 
-const AccordionSection = ({ id, titulo, atividades, linguagens, ferramentas, conhecimentos, habilidades, atitudes, descricao, obs }) => (
-  <div className="accordion-item">
+const variantColors = {
+  primary: null, // será substituído pela cor do curso
+  success: '#10b981',
+  warning: '#f59e0b',
+  danger: '#ef4444',
+  dark: '#212529',
+}
+
+const AccordionSection = ({ id, titulo, atividades, linguagens, ferramentas, conhecimentos, habilidades, atitudes, descricao, obs, cor }) => (
+  <div className="accordion-item" style={{ borderLeft: `6px solid ${cor}` }}>
     <h2 className="accordion-header">
       <button
         className="accordion-button collapsed"
@@ -93,6 +101,14 @@ const Ucs = () => {
   const [error, setError] = useState(null)
   const curso = cursos.find(c => c.slug === cursoSlug)
 
+  const getBadgeColor = (modulo) => {
+    if (!curso?.badges || modulo === undefined) return curso?.cor ?? '#6366f1'
+    const badge = curso.badges[modulo]
+    if (!badge) return curso?.cor ?? '#6366f1'
+    if (badge.variant === 'primary') return curso?.cor ?? '#6366f1'
+    return variantColors[badge.variant] ?? curso?.cor ?? '#6366f1'
+  }
+
   useEffect(() => {
     setLoading(true)
     fetch(`${import.meta.env.BASE_URL}cursos/${cursoSlug}/ucs.json`)
@@ -134,7 +150,7 @@ const Ucs = () => {
             {!loading && !error && (
               <div className="accordion custom-accordion" id="accordionUcs">
                 {ucs.map(uc => (
-                  <AccordionSection key={uc.id} {...uc} />
+                  <AccordionSection key={uc.id} {...uc} cor={getBadgeColor(uc.modulo)} />
                 ))}
               </div>
             )}

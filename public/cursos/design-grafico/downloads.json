@@ -1,0 +1,72 @@
+[
+  {
+    "nome": "Adobe Creative Cloud (trial)",
+    "desc": "Suite com Photoshop, Illustrator, InDesign, After Effects, Acrobat e mais — plano individual ou estudantil.",
+    "link": "https://www.adobe.com/br/creativecloud/plans.html"
+  },
+  {
+    "nome": "CorelDRAW (trial)",
+    "desc": "Software de design vetorial e gráfico com ferramentas avançadas para impressão e web.",
+    "link": "https://www.coreldraw.com/br/product/coreldraw/"
+  },
+  {
+    "nome": "Figma",
+    "desc": "Ferramenta gratuita online para design de interfaces, wireframes, prototipagem e colaboração em tempo real.",
+    "link": "https://www.figma.com/"
+  },
+  {
+    "nome": "GIMP",
+    "desc": "Editor de imagens bitmap gratuito e open source — alternativa ao Adobe Photoshop.",
+    "link": "https://www.gimp.org/downloads/"
+  },
+  {
+    "nome": "Inkscape",
+    "desc": "Editor de gráficos vetoriais gratuito e open source — alternativa ao Adobe Illustrator.",
+    "link": "https://inkscape.org/pt-br/releases/"
+  },
+  {
+    "nome": "Blender",
+    "desc": "Software gratuito de modelagem, animação e renderização 3D para criação de mockups digitais.",
+    "link": "https://www.blender.org/download/"
+  },
+  {
+    "nome": "Canva",
+    "desc": "Ferramenta online de design gráfico com templates prontos para redes sociais, apresentações e materiais.",
+    "link": "https://www.canva.com/"
+  },
+  {
+    "nome": "Behance",
+    "desc": "Plataforma profissional da Adobe para publicação e divulgação de portfólio de design.",
+    "link": "https://www.behance.net/"
+  },
+  {
+    "nome": "Google Fonts",
+    "desc": "Biblioteca gratuita de fontes tipográficas para uso em projetos gráficos e web.",
+    "link": "https://fonts.google.com/"
+  },
+  {
+    "nome": "Coolors",
+    "desc": "Gerador de paletas de cores harmônicas para uso em projetos de design gráfico.",
+    "link": "https://coolors.co/"
+  },
+  {
+    "nome": "Scribus",
+    "desc": "Software gratuito de editoração eletrônica — alternativa ao Adobe InDesign.",
+    "link": "https://www.scribus.net/downloads/"
+  },
+  {
+    "nome": "DaVinci Resolve",
+    "desc": "Software gratuito de edição de vídeo e composição visual — alternativa ao Adobe Premiere/After Effects.",
+    "link": "https://www.blackmagicdesign.com/br/products/davinciresolve"
+  },
+  {
+    "nome": "LibreOffice",
+    "desc": "Suite de escritório gratuita para edição de documentos, planilhas e apresentações.",
+    "link": "https://www.libreoffice.org/download/download-libreoffice/"
+  },
+  {
+    "nome": "Wix / WordPress",
+    "desc": "Plataformas para criação de sites e publicação de portfólio digital profissional.",
+    "link": "https://www.wix.com/"
+  }
+]

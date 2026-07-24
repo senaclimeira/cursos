@@ -1,0 +1,323 @@
+[
+  {
+    "titulo": "Layout [série design básico]",
+    "autores": "AMBROSE, G.; HARRIS, P.",
+    "editora": "Bookman, 2012. E-book",
+    "tipo": "Básica",
+    "ucs": [
+      1,
+      7
+    ]
+  },
+  {
+    "titulo": "Psicodinâmica das cores em comunicação",
+    "autores": "BASTOS, D.; FARINA, M.; PEREZ.",
+    "editora": "Blucher, 2011",
+    "tipo": "Complementar",
+    "ucs": [
+      1
+    ]
+  },
+  {
+    "titulo": "Desenho gráfico: um dicionário visual de termos para um design global",
+    "autores": "WOLF, P. J.",
+    "editora": "Blucher, 2010",
+    "tipo": "Complementar",
+    "ucs": [
+      1
+    ]
+  },
+  {
+    "titulo": "Adobe Photoshop",
+    "autores": "ANDRADE, M. S. de.",
+    "editora": "Senac, 2020",
+    "tipo": "Básica",
+    "ucs": [
+      2
+    ]
+  },
+  {
+    "titulo": "Fotografia contemporânea: entre o cinema, o vídeo e as novas mídias",
+    "autores": "FATORELLI, A.",
+    "editora": "Senac, 2020. E-book",
+    "tipo": "Complementar",
+    "ucs": [
+      2
+    ]
+  },
+  {
+    "titulo": "Diagramação e layout",
+    "autores": "PERUYERA, M.",
+    "editora": "InterSaberes, 2018. E-book",
+    "tipo": "Complementar",
+    "ucs": [
+      2,
+      3,
+      7
+    ]
+  },
+  {
+    "titulo": "Adobe Illustrator",
+    "autores": "ANDRADE, M. S. de.",
+    "editora": "Senac, 2019",
+    "tipo": "Básica",
+    "ucs": [
+      3
+    ]
+  },
+  {
+    "titulo": "Fundamentos de ilustração",
+    "autores": "ZEEGEN, L.",
+    "editora": "Bookman, 2009",
+    "tipo": "Complementar",
+    "ucs": [
+      3,
+      8
+    ]
+  },
+  {
+    "titulo": "Produção gráfica para designers",
+    "autores": "GATTER, M.",
+    "editora": "Ateliê Editorial, 2016",
+    "tipo": "Básica",
+    "ucs": [
+      4,
+      15,
+      16
+    ]
+  },
+  {
+    "titulo": "Produção gráfica",
+    "autores": "GLÜER, L. M.",
+    "editora": "Sagah, 2019. E-book",
+    "tipo": "Complementar",
+    "ucs": [
+      4
+    ]
+  },
+  {
+    "titulo": "Conceitos fundamentais de planejamento e produção gráfica",
+    "autores": "RIBEIRO, A.",
+    "editora": "InterSaberes, 2020. E-book",
+    "tipo": "Complementar",
+    "ucs": [
+      4
+    ]
+  },
+  {
+    "titulo": "Elementos do estilo tipográfico. Versão 4.0",
+    "autores": "BRINGHURST, R.",
+    "editora": "Ubu, 2021",
+    "tipo": "Básica",
+    "ucs": [
+      6
+    ]
+  },
+  {
+    "titulo": "Adobe InDesign",
+    "autores": "ANDRADE, M. S. de.",
+    "editora": "Senac, 2019. E-book",
+    "tipo": "Complementar",
+    "ucs": [
+      6
+    ]
+  },
+  {
+    "titulo": "Livro digital etc.",
+    "autores": "FLATSCHART, F.",
+    "editora": "Brasport, 2014. E-book",
+    "tipo": "Complementar",
+    "ucs": [
+      6
+    ]
+  },
+  {
+    "titulo": "Pensar com tipos",
+    "autores": "LUPTON, E.",
+    "editora": "Olhares, 2021",
+    "tipo": "Básica",
+    "ucs": [
+      7
+    ]
+  },
+  {
+    "titulo": "Infografia",
+    "autores": "FERREIRA, L. T.",
+    "editora": "InterSaberes, 2021. E-book",
+    "tipo": "Básica",
+    "ucs": [
+      8
+    ]
+  },
+  {
+    "titulo": "Infografia: história e projeto",
+    "autores": "MORAES, A.",
+    "editora": "Bluscher, 2013",
+    "tipo": "Complementar",
+    "ucs": [
+      8
+    ]
+  },
+  {
+    "titulo": "Branding e comunicação: a comunicação e sua importância para a construção de marcas",
+    "autores": "DANTAS, E. B.",
+    "editora": "Senac, 2019",
+    "tipo": "Básica",
+    "ucs": [
+      10
+    ]
+  },
+  {
+    "titulo": "Branding + design: a estratégia na criação de identidades de marca",
+    "autores": "CAMEIRA, S. R.",
+    "editora": "Senac, 2016. E-book",
+    "tipo": "Complementar",
+    "ucs": [
+      10
+    ]
+  },
+  {
+    "titulo": "Design de identidade da marca: guia essencial para toda a equipe de gestão de marcas",
+    "autores": "WHEELER, A.",
+    "editora": "Bookman, 2019. E-book",
+    "tipo": "Complementar",
+    "ucs": [
+      10,
+      11
+    ]
+  },
+  {
+    "titulo": "Manual de identidade visual: guia para construção de manuais",
+    "autores": "MUNHOZ, D. M.",
+    "editora": "2AB, 2013",
+    "tipo": "Básica",
+    "ucs": [
+      11
+    ]
+  },
+  {
+    "titulo": "Marcas & sinalização: práticas em design corporativo",
+    "autores": "CHAMMA, N.; PASTORELO, P. D.",
+    "editora": "Senac, 2019. E-book",
+    "tipo": "Complementar",
+    "ucs": [
+      11
+    ]
+  },
+  {
+    "titulo": "Design e comunicação visual",
+    "autores": "MUNARI, B.",
+    "editora": "Martins Fontes, 2020",
+    "tipo": "Básica",
+    "ucs": [
+      12
+    ]
+  },
+  {
+    "titulo": "Fundamentos de design criativo",
+    "autores": "AMBROSE, G.; HARRIS, P.",
+    "editora": "Bookman, 2012. E-book",
+    "tipo": "Complementar",
+    "ucs": [
+      12,
+      19,
+      20,
+      21
+    ]
+  },
+  {
+    "titulo": "Pesquisa visual: introdução às metodologias de pesquisa em design gráfico",
+    "autores": "NOBLE, I.",
+    "editora": "Bookman, 2013. E-book",
+    "tipo": "Complementar",
+    "ucs": [
+      12
+    ]
+  },
+  {
+    "titulo": "Design de embalagem: 100 fundamentos de projeto e aplicação",
+    "autores": "RONCARELLI, S.; ELLICOTT, C.",
+    "editora": "Blucher, 2010",
+    "tipo": "Básica",
+    "ucs": [
+      14,
+      16
+    ]
+  },
+  {
+    "titulo": "Gestão estratégica de embalagem",
+    "autores": "MEISTRINER, F.",
+    "editora": "Pearson, 2007. E-book",
+    "tipo": "Complementar",
+    "ucs": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "titulo": "Design de embalagens e PDV",
+    "autores": "SILVA, A.",
+    "editora": "InterSaberes, 2021. E-book",
+    "tipo": "Básica",
+    "ucs": [
+      15
+    ]
+  },
+  {
+    "titulo": "Design digital: conceitos e aplicações para websites, animações, vídeo e webgames",
+    "autores": "GUERRA, F.; TERCE, M. L.",
+    "editora": "Senac, 2019. E-book",
+    "tipo": "Básica",
+    "ucs": [
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "titulo": "Usabilidade e interface homem-máquina",
+    "autores": "BELMIRO, J.",
+    "editora": "Pearson, 2017. E-book",
+    "tipo": "Complementar",
+    "ucs": [
+      18
+    ]
+  },
+  {
+    "titulo": "Briefing a gestão do projeto de design",
+    "autores": "PHILLIPS, P. L.",
+    "editora": "Blucher, 2015. E-book",
+    "tipo": "Complementar",
+    "ucs": [
+      18
+    ]
+  },
+  {
+    "titulo": "Design de navegação web: otimizando a experiência do usuário",
+    "autores": "KALBACH, J.",
+    "editora": "Bookman, 2009",
+    "tipo": "Complementar",
+    "ucs": [
+      19
+    ]
+  },
+  {
+    "titulo": "Produção audiovisual",
+    "autores": "JESUS, A. M. V.; CÉ, O. A.",
+    "editora": "Sagah, 2019. E-book",
+    "tipo": "Complementar",
+    "ucs": [
+      20
+    ]
+  },
+  {
+    "titulo": "Portfólio digital de design: um guia prático para apresentar seus trabalhos online",
+    "autores": "CLAZIE, I.",
+    "editora": "Blucher, 2011. E-book",
+    "tipo": "Básica",
+    "ucs": [
+      21
+    ]
+  }
+]

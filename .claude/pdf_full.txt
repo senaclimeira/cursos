@@ -1,0 +1,1641 @@
+=== PAGE 6 ===
+Trabalha em equipe, estabelece relações interpessoais construtivas e compreende o
+contexto em que está inserido, demonstrando capacidade propositiva e criativa.
+Atua em organizações públicas e privadas de qualquer segmento, tais como da área do
+comércio, de serviços, da indústria, de consultoria, de ensino e pesquisa, por meio da
+prestação de serviços autônomos, temporários ou contrato efetivo.
+O profissional habilitado pelo Senac tem como marcas formativas: domínio técnico-
+científico, visão crítica, atitude empreendedora, sustentável e colaborativa, com foco em
+resultados. Essas marcas reforçam o compromisso da instituição com a formação integral do
+ser humano, considerando aspectos relacionados ao mundo do trabalho e ao exercício da
+cidadania. Essa perspectiva propicia o comprometimento do aluno com a qualidade do
+trabalho, o desenvolvimento de uma visão ampla e consciente sobre sua atuação profissional
+e sobre sua capacidade de transformação da sociedade.
+A ocupação está situada no Eixo Tecnológico Informação e Comunicação.
+A seguir estão as competências que compõem o perfil do Técnico em Manutenção e Suporte
+em Informática:
+• Planejar e executar a montagem de computadores.
+• Planejar e executar a instalação de hardware e software para computadores.
+• Planejar e executar a manutenção de computadores.
+• Planejar e executar a instalação de redes locais de computadores.
+• Planejar e executar a manutenção de redes locais de computadores.
+• Planejar e executar a instalação, a configuração e o monitoramento de sistemas
+operacionais de redes locais – servidores.
+• Implementar cabeamento estruturado e telefonia IP.
+• Planejar e executar a instalação de redes sem fio.
+• Planejar e executar a manutenção de notebooks e manutenção preventiva de
+impressoras.
+• Monitorar sistemas, aplicativos e equipamentos.
+• Realizar a gestão dos projetos e governança de processos em operações de suporte
+• Atender clientes em serviços de manutenção e suporte de informática.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 6
+
+=== PAGE 7 ===
+O curso de Habilitação Profissional Técnica em Manutenção e Suporte em Informática do
+Senac possui as seguintes qualificações profissionais técnicas:
+Assistente de Suporte e Manutenção de Computadores
+O Assistente de Suporte e Manutenção de Computadores é o profissional responsável pelos
+serviços de manutenção em computadores, instalação e configuração de periféricos,
+também realiza a especificação de componentes e elabora o inventário de hardware e
+software, atuando em laboratórios técnicos e no atendimento e suporte ao usuário.
+O profissional qualificado pelo Senac tem como marcas formativas: domínio técnico-
+científico, visão crítica, atitude empreendedora, sustentável, colaborativa, atuando com foco
+em resultados. Essas marcas formativas reforçam o compromisso da instituição com a
+formação integral do ser humano, considerando aspectos relacionados ao mundo do
+trabalho e ao exercício da cidadania. Essa perspectiva propicia o comprometimento do aluno
+com a qualidade do trabalho, o desenvolvimento de uma visão ampla e consciente sobre sua
+atuação profissional e sobre sua capacidade de transformação da sociedade.
+A ocupação está situada no Eixo Tecnológico Informação e Comunicação.
+A seguir estão as competências que compõem o perfil do Assistente de Suporte e
+Manutenção de Computadores:
+• Planejar e executar a montagem de computadores.
+• Planejar e executar a instalação de hardware e software para computadores.
+• Planejar e executar a manutenção de computadores.
+Assistente de Operação de Redes de Computadores.
+O Assistente de Operação de Redes de Computadores é o profissional responsável pela
+elaboração, implementação, suporte e configuração de redes locais de computadores, além
+de realizar o cabeamento estruturado e a configuração de equipamentos de redes em
+empresas de diversos segmentos e porte.
+O profissional qualificado pelo Senac tem como marcas formativas: domínio técnico-
+científico, visão crítica, atitude empreendedora, sustentável, colaborativa, atuando com foco
+em resultados. Essas marcas formativas reforçam o compromisso da instituição com a
+formação integral do ser humano, considerando aspectos relacionados ao mundo do
+trabalho e ao exercício da cidadania. Essa perspectiva propicia o comprometimento do aluno
+com a qualidade do trabalho, o desenvolvimento de uma visão ampla e consciente sobre sua
+atuação profissional e sobre sua capacidade de transformação da sociedade.
+A ocupação está situada no Eixo Tecnológico Informação e Comunicação.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 7
+
+=== PAGE 8 ===
+A seguir estão as competências que compõem o perfil do Assistente de Operação de Redes
+de Computadores:
+• Planejar e executar a instalação de redes locais de computadores.
+• Planejar e executar a manutenção de redes locais de computadores.
+• Planejar e executar a instalação, configuração e o monitoramento de sistemas
+operacionais de redes locais - servidores.
+5. ORGANIZAÇÃO CURRICULAR
+O Modelo Pedagógico Senac considera a competência o ponto central do currículo da
+Habilitação Profissional Técnica. A competência é, portanto, a própria unidade curricular.
+Unidades curriculares Carga horária
+o t
+e :4 jo C r U P
+r
+o d a r g e t n I e t n e t s is
+e
+s A
+d
+e t r o p u S
+e
+d o
+ã ç n e t u n a M a t u p
+s e
+m
+r
+o o d s a r o 0 h 2
+U
+U pa
+C
+C r
+1
+2 a
+:
+: c
+P
+P o
+l
+l
+a
+a m
+n
+n p
+e
+e u
+j
+j
+a
+a t
+r
+r a d
+e
+e o
+e
+e r
+x
+x e
+e
+e s
+c
+c .
+u
+u
+t
+t
+a
+a
+r
+r
+a
+a
+m
+ins
+o
+t
+n
+a
+t
+la
+a
+ç
+g
+ã
+e
+o
+m
+d
+d
+e
+e
+h
+c
+a
+o
+r
+m
+dw
+p
+a
+u
+r
+t
+e
+a d
+e
+o
+s
+r
+o
+e
+f
+s
+t
+.
+w are
+8
+9
+4
+6 h
+ho
+o
+r
+r
+a
+a
+s
+s
+C UC3: Planejar e executar a manutenção de computadores. 72 horas
+e
+s e s
+UC5: Planejar e executar a instalação de redes locais de
+96 horas
+o t e jo
+C
+r
+U
+P
+8 :
+r o d a r g
+e t n I
+e d e t n e
+t s is s A
+d
+e R e d o
+ã ç a r e p
+e
+r o d a t u p
+m o C e
+s a r o
+0
+h
+2
+c
+U c
+U m
+o
+o C
+C o
+m
+m 6
+7 n
+:
+:
+p
+p
+i t
+u
+u P
+o P
+t
+t l
+r l
+a
+a
+a
+a a
+n
+d
+d
+n m
+e
+o
+o
+e e
+j
+r
+r
+j
+a
+a
+e
+e
+n
+r
+r
+s
+s
+t
+.
+.
+o
+e
+e
+e
+d e
+x
+e x
+e
+e
+c
+c s
+u
+i u s
+t
+t t
+a
+a e
+r
+r m
+a
+a a s
+m
+in
+a
+o s
+n
+p t
+u
+a e l
+t
+r a
+e
+a ç
+n
+c ã i
+ç
+o o
+ã
+, n
+o
+a a i
+d
+s
+e
+co d
+r
+n e
+e
+f
+d
+ig r
+e
+u e
+s
+d r a e
+lo
+ç s ã
+c a
+o l
+i
+o
+s
+c e a
+d
+i o
+e
+s
+9
+9
+6
+6
+h
+h
+o
+o
+r
+r
+a
+a
+s
+s
+Od
+(servidores).
+o
+c m
+UC9: Implementar cabeamento estruturado e telefonia IP. 72 horas
+ine
+c
+é T e t UC10: Planejar e executar a instalação de redes sem fio. 60 horas
+r
+r
+o
+o
+d
+a
+p
+u
+S
+a
+c s
+UC11: Planejar e executar a manutenção de notebooks e
+48 horas
+r g e t n I o t e jo e o ã ç n e t u n it á m r o f n I a r o 6 h 3 m U U C C a 1 1 n 2 3 u : : t e R M n e o ç a n ã li o i z t a o p r r r a a e r v g s e e i n s s t t t e ã iv m o a a d d s o e , s a i m p p r l p o ic r j a e e t t s i o s v o s o r s e a e s g . o e v q e u r i n p a a n m ç e a n d t e o s. 8 3 4 6 h h o o r r a as s
+r Pa
+M
+processos em operações de suporte
+1 5 : m UC14: Atender clientes em serviços de manutenção e suporte
+Ce 84 horas
+U de informática.
+Carga Horária Total5 1.000 horas
+Para oferta da Aprendizagem Técnica neste curso, a carga horária mínima a ser considerada para a
+Prática Profissional é de 400 horas.
+5 Soma das Unidades Curriculares, inclusive Projeto Integrador.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 8
+
+=== PAGE 9 ===
+• A UC4 é correquisito das UCs 1, 2 e 3. Deve ser desenvolvida em concomitância com
+essas UCs.
+• A UC8 é correquisito das UCs 5, 6 e 7. Deve ser desenvolvida em concomitância com
+essas UCs.
+• A UC15 é correquisito das UCs 9, 10, 11, 12, 13 e 14. Deve ser desenvolvida em
+concomitância com essas UCs.
+5.1 Detalhamento das Unidades Curriculares:
+UC1: Planejar e executar a montagem de computadores.
+CARGA HORÁRIA: 84 HORAS
+1. Descreve as funcionalidades e aplicações da arquitetura de computadores, de acordo
+com as orientações técnicas do fabricante.
+2. Utiliza medidas de prevenção contra descargas eletrostáticas, de acordo com as
+orientações do fabricante.
+3. Testa componentes de computadores e periféricos, de acordo com as recomendações
+técnicas.
+4. Configura os componentes do computador conforme recomendações técnicas.
+5. Monta computadores conforme as recomendações e os procedimentos técnicos de
+fabricantes.
+6. Configura os parâmetros de inicialização da máquina conforme recomendações técnicas.
+7. Realiza inspeção final do equipamento conforme recomendações técnicas.
+CONHECIMENTOS
+• Sistema Operacional – Sistemas de arquitetura aberta e fechada: versões e distribuições.
+Estrutura do sistema de arquivos. Contas de usuários; privilégios. Ambiente e elementos
+da Área de trabalho. Compactação e descompactação de arquivos e pastas. Gravação em
+mídias.
+• Sistemas Numéricos – binário, decimal, octal e hexadecimal; unidades de medidas de
+armazenamento de dados: Bits (b) e Bytes (B), KB, MB, GB, TB e PB. Unidades de medidas
+de processamento: ciclos de processamento. Clock interno e externo. Hertz (Hz): MHz e
+GHz.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 9
+
+=== PAGE 10 ===
+• Fundamentos de arquitetura de computadores – Barramentos. Unidade lógica
+aritmética. Registradores. Unidade de controle. Memória principal e secundária.
+Controladores de entrada e de saída. Encapsulamentos: DIP, TQFP, SOJ, TSOP.
+• Fundamentos de eletricidade e eletrônica – Conceitos de eletricidade, Geração
+distribuição e consumo; Padrões: Monofásico, Bifásico, Trifásico, Grandezas elétricas
+fundamentais: Tensão, Corrente, Resistência, Potência, Frequência; Leis Fundamentais:
+Leis de OHM, Kirchoff; Tipos de tensões e correntes: contínua e alternada. Elementos de
+uma Onda Alternada Senoidal. Riscos da corrente elétrica; Componentes
+eletroeletrônicos discretos e SMD: capacitores, resistores, diodos, transistores;
+transformadores, indutores, fotoacopladores, termistores; Circuitos retificadores: meia
+onda, onda completa.
+• Multímetros – Tipos; procedimentos de utilização (potência, valores, escala). Teste de
+componentes eletroeletrônicos: resistores, fusíveis, potenciômetros, capacitores,
+diodos, transistores.
+• Aterramento aplicado à proteção eletrostática dos componentes de hardware –
+Conceitos. Tipos. Funcionalidades.
+• Componentes de hardware – Placa-mãe: Componentes e conectores. Chipsets: funções.
+fabricantes; tipos: ponte norte e ponte sul. Processadores: características e tecnologias
+proprietárias. Tipos e aplicações de processadores, tipo de soquete; refrigeração.
+• Memórias: memória RAM: função, unidade de medida. Modos de transferência das
+RAMs: SDR e DDR. Tipos de Memórias ROM: ROM, PROM, EPROM EEPROM, FLASHROM.
+• Tipos de memórias cache: L1, L2, L3. Hierarquia de memória dos computadores:
+principal, secundária e cache. Características técnicas das memórias. Memórias de alto
+desempenho. Slots de expansão de memória.
+• Tipos de barramentos; fonte de alimentação; Teste de fontes. Conectorização de fontes.
+Dispositivos de Entrada/Saída (E/S): Hard Disk, Placas Controladoras; slots de expansão,
+Fabricantes de componentes de hardware.
+• Unidades de armazenamento – Hard Disks (HDs): tipos de conexões, unidades de estado
+sólido (SSDs) e magnéticas. Discos Rígidos: sistema RAID. Estrutura física e lógica dos
+Discos. Unidades óticas. Pen-drives e cartões de memória.
+• Gabinetes – Tipos de gabinetes; especificação técnica. Seleção do gabinete. Regras de
+conectorização e configuração de unidades de disco. Conectorização de painéis do
+gabinete. Refrigeração. Ligações dos painéis; conexões frontais.
+• Sistemas de refrigeração do computador – Tipos de refrigeração: aircooling, imersão,
+chiller e water cooler. Aplicações: gabinete, processador, memórias, discos rígidos,
+placas de vídeos.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 10
+
+=== PAGE 11 ===
+• Periféricos – Mouse, teclado, HDs externos, impressora, scanner ou digitalizador de
+imagem, webcam, joystick, leitores de barras, microfone, fones, caixas de áudio, projetor
+multimídia, estabilizadores e nobreaks. Tecnologias: wifi, bluetooth, IrDA.
+• Equipamentos e ferramentas Medição: funções, configurações e tipos de medições,
+Interpretação de códigos de erros, Testador de Porta USB, Testadores de fonte de
+alimentação: funções e procedimentos de utilização. Ferramentas e materiais: funções e
+procedimentos de utilização: chave-teste, luvas, pulseira eletroestática e manta
+antiestática ESD para bancada, alicates, chaves: estrela, fenda, Philips e porca, pinças,
+lanterna, lubrificantes, pasta térmica, parafusos, porcas, arruelas.
+• Manuais de fabricantes para montagem de computador – Informações técnicas.
+Requisitos. Análise de compatibilidade entre placa-mãe, processador, Módulos de
+memória RAM, placas de vídeo. Cálculos de potência requerida para a fonte. Melhores
+práticas. Procedimentos técnicos.
+• Planejamento da montagem de computadores – Recursos ferramentais para a
+montagem de computadores. Planejamento dos descartes de materiais residuais. Lei de
+Política Nacional de Resíduos Sólidos.
+• Organização e cuidados no processo de montagem de computadores – Preparação do
+local de trabalho. Etapas de montagem. Qualidade do produto. Critérios do processo de
+montagem. Segurança do ambiente de trabalho. Riscos ergonômicos. Riscos elétricos.
+Relatórios.
+• Organização de recursos da montagem de computadores – Tipos de recursos: materiais
+e humanos. Alocação de recursos.
+• Técnicas de montagem – Seleção do hardware, equipamentos, ferramentas, manuais de
+fabricantes. Regras de conectorização. Etapas da montagem. Montagem dos
+componentes e periféricos de hardware. Configuração de chaves e microchaves.
+Medições com o multímetro.
+• Técnicas de inspeção final do equipamento montado – Processos. Componentes de
+hardware e periféricos. Conectorização. Requisitos. Registrosde inconformidades e/ou
+avarias.
+• Técnicas de inspeção final do equipamento montado – BIOS/Setup: data e hora. Ordem
+de Boot. Post mínimo. Overclock. Configurações do HD. Drive de disquetes. Drives de CD-
+ROM. Sequência de boot e configuração de caches. Memória RAM. Cache interno do
+processador. Cache externo. Tecla Num Lock. Endereços IRQ e DMA. Economia de
+energia. Senhas. Configuração padrão (default).
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 11
+
+=== PAGE 12 ===
+HABILIDADES
+• Comunicar-se de maneira assertiva.
+• Elaborar documentos técnicos.
+• Interpretar textos técnicos.
+• Selecionar informações necessárias ao desenvolvimento do seu trabalho.
+• Organizar materiais, ferramentas, instrumentos, documentos e local de trabalho.
+• Mediar conflitos nas situações de trabalho.
+• Administrar as etapas do processo de instalação e os recursos disponíveis.
+ATITUDES/VALORES
+• Zelo na apresentação pessoal e postura profissional.
+• Sigilo no tratamento de dados e informações.
+• Zelo pela segurança e pela integridade dos dados.
+• Proatividade na resolução de problemas no processo de manutenção de computadores.
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Cordialidade no trato com as pessoas.
+• Zelo na execução de procedimentos técnicos.
+• Zelo pela higiene, limpeza e conservação na utilização dos equipamentos, instrumentos
+e ferramentas.
+• Responsabilidade no uso dos recursos organizacionais e no descarte de lixo eletrônico.
+UC2: Planejar e executar a instalação de hardware e
+software para computadores.
+CARGA HORÁRIA: 96 HORAS
+1. Planeja e organiza os recursos de hardware conforme as necessidades da demanda e o
+ambiente de trabalho.
+2. Realiza a preparação física dos computadores e seus periféricos para a instalação dos
+sistemas operacionais e dos aplicativos, conforme as recomendações dos fabricantes.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 12
+
+=== PAGE 13 ===
+3. Verifica a compatibilidade das especificações técnicas do computador de acordo com os
+requisitos do sistema operacional e aplicativos a serem instalados.
+4. Instala sistemas operacionais conforme legislação vigente de proteção à propriedade
+intelectual de programa de computador.
+5. Instala, configura e atualiza aplicativos de segurança, conforme as recomendações do
+fabricante.
+6. Instala e atualiza BIOS, firmware e drivers dos computadores e periféricos conforme as
+recomendações do fabricante.
+7. Instala os pacotes de atualização do sistema operacional, de acordo com as
+recomendações técnicas do fabricante.
+8. Configura sistemas operacionais, aplicativos e periféricos conforme a necessidade do
+cliente e a compatibilidade das especificações técnicas do hardware.
+9. Configura adaptadores de rede, redes Small Office Home Office (Soho) e dispositivos
+móveis, conforme as especificações técnicas.
+10. Testa o funcionamento do computador, dos periféricos e a conectividade da rede,
+conforme as recomendações técnicas de cada fabricante.
+CONHECIMENTOS
+• Internet: navegação e pesquisa, funcionalidades e aplicabilidades.
+• Editor de textos: funcionalidades, atalhos e aplicabilidade.
+• Manuais de fabricantes para instalação de software – Informações técnicas. Requisitos.
+Compatibilidades. Procedimentos técnicos.
+• Sistemas Operacionais – Conceitos. Arquitetura: núcleo do sistema (Kernel).
+Gerenciamento de processos: memória, dispositivos. Configurações e atualizações. Tipos
+e características. Requisitos. Aplicações. Sistemas de arquivos: Conceito. Tipos. Estrutura
+de diretórios. Ferramentas de formatação e particionamento.
+• Legislação de proteção à propriedade intelectual de programa de computador – Direitos
+e deveres. Sanções.
+• Princípios básicos da segurança – Classificação. Atributos. Mecanismos. Políticas.
+Ferramentas. Legislação da Segurança da Informação.
+• Aplicativos de apoio do sistema operacional – Firmware: conceito, versão, atualização,
+compatibilidades. Drivers: conceito, versão, atualização, compatibilidades.
+• Instalação e desinstalação de programas – Tipos: aplicativos de escritório livres e
+proprietários. Utilitários: ferramentas de manutenção, compressão, codecs e players de
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 13
+
+=== PAGE 14 ===
+áudio e vídeo, antivírus, gravação de mídias, programas de comunicação (chats,
+mensagens instantâneas e videoconferências), editores e leitores de PDF, cliente de e-
+mail, navegadores, clientes de FTP, dentre outros. Características: requisitos,
+especificações técnicas, compatibilidade, aplicação, fabricantes, investimento e
+benefícios, licenciamentos proprietários e livres, versionamentos, ambiente de execução
+(multiplataforma). Procedimentos: instalação, configuração, atualização e
+personalização, backup e restore (cópias de segurança).
+• Homologação do funcionamento do computador, dos periféricos e a conectividade da
+rede – Plano de testes. Tipos de testes. Instrumentos e softwares. Registro,
+documentação.
+• Organização e cuidados no processo de instalação de softwares – Local de trabalho.
+Etapas de instalação. Qualidade do produto. Critérios. Segurança do ambiente de
+trabalho. Riscos ergonômicos. Relatórios de atividades.
+• Adaptadores de rede: especificações, configuração e conectividade – Adaptadores de
+rede, redes Small Office Home Office (Soho) e LAN, ponto a ponto e dispositivos móveis.
+HABILIDADES
+• Comunicar-se de maneira assertiva.
+• Elaborar documentos técnicos.
+• Interpretar textos técnicos.
+• Selecionar informações necessárias ao desenvolvimento do seu trabalho.
+• Organizar materiais, ferramentas, instrumentos, documentos e local de trabalho.
+• Administrar as etapas do processo de instalação e os recursos disponíveis.
+• Mediar conflitos nas situações de trabalho.
+• Analisar as etapas do processo de trabalho.
+ATITUDES/VALORES
+• Zelo na apresentação pessoal e postura profissional.
+• Sigilo no tratamento de dados e informações.
+• Proatividade na resolução de problemas no processo de manutenção de computadores.
+• Zelo na execução de procedimentos técnicos.
+• Atitude colaborativa com membros da equipe, parceiros e clientes.
+• Cordialidade no trato com as pessoas.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 14
+
+=== PAGE 15 ===
+• Zelo pela higiene, limpeza e conservação na utilização dos equipamentos, instrumentos
+e ferramentas.
+• Responsabilidade no uso dos recursos organizacionais e no descarte de lixo eletrônico.
+UC3: Planejar e executar a manutenção de
+computadores.
+CARGA HORÁRIA: 72 HORAS
+1. Planeja e organiza a utilização dos recursos conforme as necessidades da demanda do
+cliente e o ambiente de trabalho.
+2. Realiza as etapas do processo de segurança e restauração (backup e restore) dos dados
+do computador conforme normas, procedimentos técnicos e legislação vigente.
+3. Verifica o funcionamento do hardware, utilizando ferramentas e técnicas para
+diagnóstico de falhas, de acordo com as recomendações das normas técnicas dos
+fabricantes.
+4. Verifica o funcionamento do software, utilizando técnicas para diagnóstico de falhas, de
+acordo com as recomendações dos fabricantes.
+5. Verifica e corrige problemas físicos, lógicos e de conectividade, de acordo com as
+recomendações dos fabricantes.
+6. Instala os pacotes de atualização do sistema operacional corrigindo falhas, assegurando
+o desempenho do computador e a segurança, de acordo com as recomendações
+técnicas.
+7. Testa o funcionamento do computador, dos periféricos e a conectividade da rede por
+meio de instrumentos e softwares específicos, conforme as recomendações técnicas de
+cada fabricante.
+CONHECIMENTOS
+• Planilha eletrônica – funcionalidades, atalhos e aplicações.
+• Manuais de fabricantes de manutenção de hardware e software – Informações técnicas.
+Requisitos. Compatibilidades. Melhores práticas. Procedimentos técnicos. Sites.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 15
+
+=== PAGE 16 ===
+• Técnicas para análise e diagnóstico de problemas em hardware – Ferramentas de
+diagnósticos. Teste de componentes. Programas de detecção de erros. Dispositivos de
+detecção de erros.
+• Técnicas para análise e diagnóstico de problemas em software – Ferramentas de
+diagnósticos. Teste de compatibilidade. Teste de funcionalidade dos sistemas
+operacionais, aplicativos e drivers. Configurações dos sistemas operacionais e dos
+aplicativos.
+• Conectividade – Testes. Protocolos. Normas, padrões e especificações técnicas de
+fabricantes.
+• Atualizações – Hardware – computadores e periféricos. Sistemas Operacionais. Drivers.
+Firmware. Aplicativos utilitários.
+• Sustentabilidade – Legislação ambiental vigente. Descarte de resíduos tecnológicos.
+• Normas técnicas de segurança do trabalho – Ergonomia. Riscos visuais. Lesões de
+esforços repetitivos.
+• Normas técnicas de operação para reparo e manutenção – Proteção eletrostática.
+Manuseios. Cuidados e prevenção contra danos físicos.
+• Procedimentos de manutenção – Ferramentas de backup e restore. Ferramentas de
+recuperação a desastres e imagem de sistemas. Técnicas de desinstalação e instalação
+de sistemas operacionais, drives e aplicativos. Aterramentos. Equipamentos de medição.
+Desmontagem e montagem de elementos de hardware. Configuração das diretivas de
+segurança. Correção de falhas no sistema de arquivos. Documentação e registros.
+• Homologação do funcionamento do computador, dos periféricos e a conectividade da
+rede – Plano de testes. Tipos de testes: físicos e funcionais. Instrumentos e software de
+testes. Procedimentos de testes. Registro e documentação.
+HABILIDADES
+• Comunicar-se de maneira assertiva.
+• Elaborar documentos técnicos
+• Interpretar textos técnicos.
+• Selecionar informações necessárias ao desenvolvimento do seu trabalho.
+• Organizar materiais, ferramentas, instrumentos, documentos e local de trabalho.
+• Administrar as etapas do processo de instalação e os recursos disponíveis.
+• Mediar conflitos nas situações de trabalho.
+• Analisar as etapas do processo de trabalho.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 16
+
+=== PAGE 17 ===
+ATITUDES/VALORES
+• Zelo na apresentação pessoal e postura profissional.
+• Sigilo no tratamento de dados e informações.
+• Zelo pela segurança e pela integridade dos dados.
+• Proatividade na resolução de problemas.
+• Atitude colaborativa com membros da equipe, parceiros e clientes.
+• Cordialidade no trato com as pessoas.
+• Zelo pela higiene, limpeza e conservação na utilização dos equipamentos, instrumentos
+e ferramentas.
+• Responsabilidade no uso dos recursos organizacionais e no descarte de lixo eletrônico.
+UC5: Planejar e executar a instalação de redes locais de
+computadores.
+CARGA HORÁRIA: 96 HORAS
+1. Planeja redes locais conforme as condições do ambiente.
+2. Interpreta requisitos pré-estabelecidos de acordo com projetos de rede.
+3. Instala fisicamente redes locais de acordo com as normas e os padrões dos fabricantes.
+4. Configura equipamentos de redes locais de computadores, de acordo com projeto ou
+documentação pré-definida.
+5. Configura a segurança da rede local de acordo com a política de segurança da
+organização.
+6. Testa e realiza correções no funcionamento dos equipamentos de redes locais, utilizando
+ferramentas de diagnóstico de redes específicas, conforme recomendação técnica.
+7. Instala e configura as ferramentas de monitoramento de redes, conforme as
+especificações dos fabricantes.
+8. Realiza as etapas do processo de instalação de redes locais de computadores, de acordo
+com as normas e os procedimentos técnicos.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 17
+
+=== PAGE 18 ===
+CONHECIMENTOS
+• Eletricidade aplicados a redes: conceitos. Equipamentos de medição. Aterramento.
+Riscos elétricos.
+• Sistema operacional: instalação de sistema operacional para configuração de redes
+locais. Compartilhamento de pastas. Recursos periféricos.
+• Arquiteturas de redes: conceitos. Topologias de rede. Tipos. Protocolos de comunicação.
+Gestão de redes e serviços. Características e funções do modelo ISO/OSI e TCP/IP. Teoria
+Geral de Redes. Máscaras de endereços IP. Comportamento dos dados em cabeamento
+lógico: atenuação, colisão e ruídos.
+• Planejamento de redes: conceito. Tipos. Projeto da topologia da rede na tecnologia LAN.
+Análise de cenários. Necessidade do cliente. Etapas de projeto de rede local.
+Equipamentos e mobiliários de redes. Custos/benefícios. Gerenciamento de projetos.
+Especificações técnicas. Elaboração de soluções de rede e conectividade.
+• Cabeamento: conceitos. Tipos. Cabos para redes locais. Crimpagem de cabeamento.
+Normas técnicas. Manuais de fabricantes.
+• Configurações de redes locais: procedimentos de configuração: sistemas operacionais.
+Terminal de comandos de manipulação de: arquivos, diretórios, permissões, usuários,
+senhas, data/hora do sistema, informações, configurações e teste de conectividade na
+rede, compactação e descompactação de arquivos). Protocolos (TCP/IP). Redes e sub-
+redes lógicas, utilizando TCP/IP. Soluções de segurança. Diagnósticos: eventuais falhas
+de conectividade, infraestrutura e correção.
+• Segurança de redes: conceito, tipos e principais características. Ameaças digitais:
+softwares maliciosos e técnicas de ataques e proteção a redes locais. Planejamento
+eimplementação de segurança em uma rede local. Aplicação de políticas de segurança.
+Métodos de prevenção de ameaças digitais. Ferramentas de segurança: firewall,
+antivírus e outras ferramentas.
+HABILIDADES
+• Comunicar-se de maneira assertiva.
+• Elaborar documentos técnicos.
+• Interpretar textos técnicos.
+• Selecionar informações necessárias ao desenvolvimento do seu trabalho.
+• Organizar materiais, ferramentas, instrumentos, documentos e local de trabalho.
+• Administrar as etapas do processo de instalação e os recursos disponíveis.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 18
+
+=== PAGE 19 ===
+• Mediar conflitos nas situações de trabalho.
+• Analisar as etapas do processo de trabalho.
+ATITUDES/VALORES
+• Zelo na apresentação pessoal e postura profissional.
+• Sigilo no tratamento de dados e informações.
+• Zelo pela segurança e pela integridade dos dados.
+• Proatividade na resolução de problemas.
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Cordialidade no trato com as pessoas.
+• Zelo pela higiene, limpeza e conservação na utilização dos equipamentos, instrumentos
+e ferramentas.
+• Responsabilidade no uso dos recursos organizacionais e no descarte de lixo eletrônico.
+UC6: Planejar e executar a manutenção de redes locais
+de computadores.
+CARGA HORÁRIA: 96 HORAS
+1. Realiza diagnóstico de funcionalidade da rede local conforme recomendações técnicas
+de software de monitoramento.
+2. Substitui os componentes de rede local, conforme o diagnóstico realizado e as
+recomendações técnicas dos fabricantes.
+3. Repara cabeamento de redes locais conforme as recomendações técnicas dos
+fabricantes.
+4. Testa e realiza correções na rede local de computadores para assegurar seu
+funcionamento.
+CONHECIMENTOS
+• Manuais de fabricantes de equipamentos de redes: informações técnicas. Requisitos.
+Compatibilidades. Procedimentos técnicos.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 19
+
+=== PAGE 20 ===
+• Fundamentos de segurança da rede: tipos. Gestão de ativos da informação. Gestão de
+incidentes de segurança. Riscos de integridade, disponibilidade e autenticidade dos
+sistemas computacionais. Métricas e medidas para implementação.
+• Legislação da Segurança da Informação: direitos e deveres. Sanções.
+• Ferramentas de monitoramento de segurança de redes locais: antivírus de rede local,
+antimalware, firewall, snnifer, exploits, port scanner ehoneypot.
+• Monitoramento de tráfego de redes locais: desempenho, segurança, integridade,
+disponibilidade e autenticidade dos dados.
+• Infraestrutura de redes locais: anomalias. Normas e métodos de resolução de problemas.
+Substituição de componentes de rede local.
+• Manutenção de cabeamento: tipos e procedimentos. Normas técnicas. Manuais de
+fabricantes.
+• Homologação do funcionamento da rede local: plano de testes. Tipos de testes.
+Instrumentos e software de testes. Registro e documentação.
+• Sustentabilidade: legislação ambiental. Descarte de resíduos tecnológicos.
+• Normas técnicas de segurança do trabalho: ergonomia. Riscos visuais. Lesões de esforços
+repetitivos.
+• Legislação de Segurança da Informação: Legislação. Sanções. Normas ISO de segurança
+da informação.
+• Normas técnicas de operação para reparo e manutenção: Equipamentos de proteção
+eletrostática. Cuidados e prevenção contra danos físicos.
+HABILIDADES
+• Comunicar-se de maneira assertiva.
+• Elaborar documentos técnicos.
+• Interpretar textos técnicos.
+• Selecionar informações necessárias ao desenvolvimento do seu trabalho.
+• Organizar materiais, ferramentas, instrumentos, documentos e local de trabalho.
+• Administrar as etapas do processo de instalação e os recursos disponíveis.
+• Mediar conflitos nas situações de trabalho.
+• Analisar as etapas do processo de trabalho.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 20
+
+=== PAGE 21 ===
+ATITUDES/VALORES
+• Zelo na apresentação pessoal e postura profissional.
+• Sigilo no tratamento de dados e informações.
+• Zelo pela segurança e pela integridade dos dados.
+• Proatividade na resolução de problemas.
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Cordialidade no trato com as pessoas.
+• Zelo pela higiene, limpeza e conservação na utilização dos equipamentos, instrumentos
+e ferramentas.
+• Responsabilidade no uso dos recursos organizacionais e no descarte de lixo eletrônico.
+UC7: Planejar e executar a instalação, a configuração e
+o monitoramento de sistemas operacionais de redes
+locais – servidores.
+CARGA HORÁRIA: 96 HORAS
+1. Elabora plano de trabalho de instalação e configuração do equipamento de
+gerenciamento da rede local (servidor), conforme as necessidades do cliente e de acordo
+com as recomendações de fabricantes.
+2. Instala equipamento de gerenciamento da rede local (servidor) de acordo com as normas
+e procedimentos técnicos.
+3. Instala sistema operacional de rede local (servidor) de acordo com as normas e
+procedimentos técnicos.
+4. Configura os serviços de gerenciamento da rede local (servidor) de acordo com o
+planejamento e as recomendações de fabricantes.
+5. Realiza o monitoramento de redes com software de segurança e gera relatórios de
+atividades na rede, conforme recomendações técnicas.
+6. Configura máquinas virtuais por meio de ferramentas de virtualização, de acordo com as
+normas e procedimentos técnicos.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 21
+
+=== PAGE 22 ===
+CONHECIMENTOS
+• Planejamento e implementação de servidores para redes locais – instalação e
+configuração de sistemas livres e proprietários. Configuração de serviços de redes locais.
+Controle de recursos de rede. Protocolos. Serviços de redes locais - servidor. Controles
+de tráfego. Políticas de administração. Administração de sistemas de comunicação de
+dados. Políticas de segurança de rede. Padrões e normas de segurança. Portas de
+comunicação e protocolos de rede e internet. Políticas de backup, normas de
+segurança/recuperação de arquivos.
+• Gerenciamento de interoperabilidade de servidores com Software livre e software
+proprietário. Modelos de interoperabilidade. Tipos de arquitetura de rede.
+• Virtualização – máquinas virtuais. Sistemas operacionais. Interfaces de rede. Switches.
+Roteadores. Firewalls virtuais. Tipos de virtualização: hardware, apresentação e
+aplicativos. Computação na nuvem (cloud computing). Ferramentas de virtualização.
+Softwares, equipamentos, acessórios, periféricos e programas.
+• Tecnologias de redes emergentes – tipos e aplicações.
+HABILIDADES
+• Comunicar-se de maneira assertiva.
+• Elaborar documentos técnicos.
+• Interpretar textos técnicos.
+• Selecionar informações necessárias ao desenvolvimento do seu trabalho.
+• Organizar materiais, ferramentas, instrumentos, documentos e local de trabalho.
+• Analisar as etapas do processo de trabalho.
+• Administrar as etapas do processo de instalação e os recursos disponíveis.
+• Mediar conflitos nas situações de trabalho.
+ATITUDES/VALORES
+• Zelo na apresentação pessoal e postura profissional.
+• Sigilo no tratamento de dados e informações.
+• Zelo pela segurança e pela integridade dos dados.
+• Proatividade na resolução de problemas.
+• Atitude colaborativa com membros da equipe, parceiros e clientes.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 22
+
+=== PAGE 23 ===
+• Cordialidade no trato com as pessoas.
+• Zelo pela higiene, limpeza e conservação na utilização dos equipamentos, instrumentos
+e ferramentas.
+• Responsabilidade no uso dos recursos organizacionais e no descarte de lixo eletrônico.
+UC9: Implementar cabeamento estruturado e telefonia
+IP.
+CARGA HORÁRIA: 72 HORAS
+1. Planeja e instala fisicamente cabeamento estruturado para redes convergentes, de
+acordo com as normas de cabeamento estruturado.
+2. Configura serviços de telefonia IP em redes convergentes, de acordo com as regras de
+negócio da organização.
+3. Realiza diagnóstico e repara os serviços de telefonia IP, de acordo com a conectividade
+dos equipamentos instalados.
+CONHECIMENTOS
+• Telefonia IP: protocolos, codificadores (codec) e equipamentos.
+• Arquiteturas de redes: topologias de rede de telefonia IP; LAN, MAN e WAN; protocolos
+de comunicação de telefonia IP em ambiente de redes; gestão de redes e serviços.
+• Projeto de telefonia IP: cenários, topologia, etapas, equipamentos de implementação,
+soluções e conectividade.
+• Cabeamento estruturado: normas técnicas, tipos de cabos, terminação de cabeamento.
+• Tecnologia FTTx e suas aplicações.
+• Configuração lógica de telefonia IP: softphone, servidor ipbx, ATA e telefone IP.
+HABILIDADES
+• Testar funcionamento de telefonia.
+• Comunicar-se de maneira assertiva.
+• Interpretar textos técnicos.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 23
+
+=== PAGE 24 ===
+• Organizar materiais, ferramentas, instrumentos, documentos e local de trabalho.
+• Realizar terminação de cabos de rede.
+• Mediar conflitos nas situações de trabalho.
+ATITUDES/VALORES
+• Zelo na apresentação pessoal e postura profissional.
+• Sigilo no tratamento de dados e informações.
+• Zelo pela segurança e pela integridade dos dados.
+• Proatividade na resolução de problemas no processo de manutenção de computadores.
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Cordialidade no trato com as pessoas.
+• Zelo na execução de procedimentos técnicos.
+UC10: Planejar e executar a instalação de redes sem fio.
+CARGA HORÁRIA: 60 HORAS
+1. Realiza interligação de redes sem fio, de acordo com recomendações técnicas.
+2. Configura Access Point e estações de trabalho em redes sem fio, de acordo com as
+recomendações técnicas de qualidade de sinal.
+3. Realiza diagnóstico de funcionamento da rede sem fio, de acordo com as recomendações
+do fabricante do equipamento instalado.
+CONHECIMENTOS
+• Dispositivos de redes sem fio: conceito, configuração e tecnologias. Normatização de
+frequências indoor/outdoor.
+• Arquiteturas de redes sem fio: topologias de rede WPAN, WLAN, WMAN e WWAN;
+protocolos de comunicação em ambiente de redes sem fio; gestão de redes e serviços.
+Segurança e autenticação de redes sem fio.
+• Equipamentos e componentes de rede sem fio: antenas (tipos, polarização, montagem e
+conectorização), bridge, Access Point, unidades de medida, referência de valores,
+interferências e qualidade do sinal (SNR).
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 24
+
+=== PAGE 25 ===
+HABILIDADES
+• Comunicar-se de maneira assertiva.
+• Elaborar documentos técnicos.
+• Interpretar textos técnicos.
+• Executar procedimentos técnicos com exatidão e precisão.
+• Mediar conflitos nas situações de trabalho
+• Utilizar termos técnicos nas rotinas de trabalho.
+ATITUDES/VALORES
+• Zelo na apresentação pessoal e postura profissional.
+• Sigilo no tratamento de dados e informações.
+• Zelo pela segurança e pela integridade dos dados.
+• Proatividade na resolução de problemas no processo de manutenção de computadores.
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Cordialidade no trato com as pessoas.
+• Zelo na execução de procedimentos técnicos.
+UC11: Planejar e executar a manutenção de notebooks e
+manutenção preventiva de impressoras.
+CARGA HORÁRIA: 48 HORAS
+1. Planeja e organiza a utilização dos recursos conforme as demandas do cliente e o
+ambiente de trabalho.
+2. Realiza as etapas do processo de segurança e restauração (backup e restore) dos dados
+do computador conforme normas, procedimentos técnicos e legislação vigente.
+3. Verifica o funcionamento do hardware, de acordo com as recomendações das normas
+técnicas dos fabricantes.
+4. Verifica o funcionamento do software, de acordo com as recomendações dos
+fabricantes.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 25
+
+=== PAGE 26 ===
+5. Verifica e corrige problemas físicos, lógicos e de conectividade de acordo com as
+recomendações dos fabricantes.
+6. Testa o funcionamento do computador, dos periféricos e a conectividade da rede por
+meio de instrumentos e softwares específicos, conforme as recomendações técnicas de
+cada fabricante.
+7. Monta e instala impressoras seguindo padrões de arquitetura para obter uma impressão
+com qualidade.
+8. Configura sistema operacional com drivers de impressoras, de acordo com o
+funcionamento e impressão adequado ao usuário.
+CONHECIMENTOS
+• Arquitetura de notebooks, netbooks e chromebooks - Barramentos. Memória principal
+e secundária. Controladores de entrada e de saída.
+• Componentes de hardware – Placa-mãe: componentes e conectores. Chipsets: funções
+e fabricantes; processador: arquitetura (32 e 64 bits) e fabricantes. Tipo de soquete.
+Refrigeração do processador.
+• Memórias: Memória RAM: função, unidade de medida. Modos de transferência das
+RAMs: SDR e DDR. Tipos de Memórias ROM: ROM, PROM, EPROM EEPROM, FLASHROM.
+• Memórias cache: tipos L1, L2, L3. Hierarquia de memória dos computadores: principal,
+secundária e cache. Características técnicas das memórias. Memórias de alto
+desempenho. Slots de expansão de memória.
+• Tipos de barramentos: serial e paralelo. Dispositivos de Entrada/Saída (E/S): Placas
+Controladoras; Slots de expansão, Fabricantes de componentes de hardware.
+• Unidades de armazenamento – Hard Disks (HDs): tipos de conexões, unidades de estado
+sólido (SSDs) e magnéticas. Sistema RAID. Estrutura física e lógica de sistemas de
+armazenamento. Unidades óticas. Pen-drives e cartões de memória.
+• Sistema Operacional – Versões. Área de trabalho. Janelas. Estrutura de arquivos e
+diretórios/pastas. Conta de usuário.
+• Equipamentos e ferramentas – Placa de diagnóstico: funções e procedimentos de
+utilização.
+• Ferramentas e materiais: funções e procedimentos de utilização: chave-teste, luvas,
+pulseira eletroestática e manta antiestática ESD para bancada, alicates, chaves: estrela,
+fenda, Philips e porca, pinças, lanterna, lubrificantes, pasta térmica, parafusos, porcas,
+arruelas.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 26
+
+=== PAGE 27 ===
+• Manuais de fabricantes para montagem de computador – Informações técnicas.
+Requisitos. Compatibilidades. Melhores práticas. Procedimentos técnicos.
+• Técnicas de montagem – Seleção do hardware, dos equipamentos, das ferramentas e
+dos manuais de fabricantes para manuseio dos componentes de hardware. Regras,
+Análise de Defeitos de Série.
+HABILIDADES
+• Comunicar-se de maneira assertiva.
+• Elaborar documentos técnicos.
+• Interpretar textos técnicos.
+• Mediar conflitos nas situações de trabalho.
+• Utilizar termos técnicos nas rotinas de trabalho.
+• Executar procedimentos técnicos com exatidão e precisão.
+ATITUDES/VALORES
+• Zelo na apresentação pessoal e postura profissional.
+• Sigilo no tratamento de dados e informações.
+• Zelo pela segurança e pela integridade dos dados.
+• Proatividade na resolução de problemas no processo de manutenção de computadores.
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Cordialidade no trato com as pessoas.
+• Zelo na execução de procedimentos técnicos.
+UC12: Monitorar sistemas, aplicativos e equipamentos
+CARGA HORÁRIA: 36 HORAS
+1. Seleciona ferramentas de monitoramento de redes, de acordo com recomendações
+técnicas.
+2. Instala e configura ferramentas de monitoramento de recursos, de acordo com
+recomendações técnicas.
+3. Executa regras de monitoramento de sistemas e equipamentos de redes, de acordo com
+a política da organização.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 27
+
+=== PAGE 28 ===
+CONHECIMENTOS
+• Monitoramento de ativos de redes: definição de limiares, alertas, relatórios e dashboard.
+Protocolos SNMP, Telnet, SSH, JMX e WMI. Coleta de dados, detecção de erros e análise
+de problemas.
+• Ferramentas de monitoramento de redes: monitores (plugins), (Zabbix, Cacti, Nagios,
+entre outras).
+• Monitores em ambientes mistos. Coletores de dados, limites e detecção de erros, alertas,
+dashboards, relatórios.
+HABILIDADES
+• Comunicar-se de maneira assertiva.
+• Elaborar documentos técnicos.
+• Interpretar textos técnicos.
+• Mediar conflitos nas situações de trabalho.
+• Utilizar termos técnicos nas rotinas de trabalho.
+• Executar procedimentos técnicos com exatidão e precisão
+ATITUDES/VALORES
+• Zelo na apresentação pessoal e postura profissional.
+• Sigilo no tratamento de dados e informações.
+• Zelo pela segurança e pela integridade dos dados.
+• Proatividade na resolução de problemas no processo de manutenção de computadores.
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Cordialidade no trato com as pessoas.
+• Zelo na execução de procedimentos técnicos.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 28
+
+=== PAGE 29 ===
+UC13: Realizar a gestão dos projetos e governança de
+processos em operações de suporte.
+CARGA HORÁRIA:84 HORAS
+1. Planeja o gerenciamento de projetos em operações de suporte, de acordo com a política
+da organização.
+2. Planeja governança de processos em operações de suporte, de acordo com a política da
+organização.
+3. Identifica processos e procedimentos considerando as necessidades de suporte e
+manutenção de computadores.
+4. Elabora documentação para atendimento considerando as regras de negócio.
+5. Utiliza critérios de governança de processos de acordo com a política da organização.
+6. Utiliza práticas de gerenciamento de projetos de acordo com a política da organização.
+CONHECIMENTOS
+• ITIL: gerenciamento de serviços, ciclo de vida do serviço da ITIL, estratégia, transição e
+operação de serviço e melhoria contínua de serviço (MCS).
+• COBIT: evolução, modelo de governança e gestão, benefícios, inter-relacionamento com
+outros modelos.
+• GREEN IT: práticas verdes adotadas à TI, ações verdes para componentes de TI e ações
+organizacionais em green IT.
+• Estratégias de TI: gerenciamento de chamados, qualidade de serviço de atendimento ao
+cliente, regras de negócio do cliente.
+• Gerenciamento de projetos: conceitos, ciclo de vida de projetos, modelos de
+gerenciamento.
+• Metodologia PMI: áreas de gerenciamento, fases (iniciação, planejamento, execução e
+controle e encerramento de projetos).
+• Metodologia AGIL: áreas de gerenciamento, fases (iniciação, planejamento, execução e
+controle e encerramento de projetos).
+• Ferramentas para planejamento, gerenciamento e análise de projetos: características e
+tipos.
+• Processos de suporte: Mapeamento, fluxos, ferramentas e indicadores.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 29
+
+=== PAGE 30 ===
+HABILIDADES
+• Comunicar-se de maneira assertiva.
+• Elaborar documentos técnicos.
+• Interpretar textos técnicos.
+• Selecionar informações necessárias ao desenvolvimento do seu trabalho.
+• Organizar materiais, ferramentas, instrumentos, documentos e local de trabalho.
+• Mediar conflitos nas situações de trabalho.
+ATITUDES/VALORES
+• Zelo na apresentação pessoal e postura profissional.
+• Sigilo no tratamento de dados e informações.
+• Zelo pela segurança e pela integridade dos dados.
+• Proatividade na resolução de problemas no processo de manutenção de computadores.
+• Colaboração no desenvolvimento do trabalho em equipe.
+• Cordialidade no trato com as pessoas.
+• Zelo na execução de procedimentos técnicos.
+UC14: Atender clientes em serviços de manutenção e
+suporte de informática.
+CARGA HORÁRIA: 84 HORAS
+1. Categoriza a ordem de atendimento dos clientes interno e externo, de acordo com o
+chamado e o tempo de retorno.
+2. Desenvolve processos de atendimento, de acordo com as necessidades do cliente e os
+procedimentos da organização.
+3. Implementa práticas de governança de processos em TI, com base nos fundamentos de
+regras, processos e componentes de suporte aos serviços e de entrega de serviços.
+4. Utiliza métricas e registra os processos de administração do ambiente de TI, conforme
+normativas da organização.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 30
+
+=== PAGE 31 ===
+CONHECIMENTOS
+• Atendimento ao cliente: tipos de atendimento (remoto e presencial), perfil de clientes,
+situações de atendimento, expressão verbal, escrita, não verbal. Postura pessoal e
+profissional, relacionamento interpessoal, Gerenciamento de conflitos: conceito e
+aplicação. Satisfação do Cliente: conceitos e tratamentos.
+• Chamado Técnico: classificação, urgência, atendimento, suporte ao usuário via Help
+Desk, SLA (Service Level Agreement).
+• Acesso remoto: controle do computador, compartilhamentos, softwares, processos de
+atendimento remoto, orientações ao usuário.
+• Atendimento ao cliente interno e externo: qualidade no atendimento, tipos de clientes,
+processos de vendas, formação de preços e custos, modelos e regras de negócios.
+Tendências e demandas tecnológicas em estratégias de atendimento de suporte e
+manutenção.
+• Governança em manutenção e suporte: fundamentos, regras, processos e funções -
+Estratégia de Serviços (Service Strategy); Desenho de Serviços (Service Design);
+Transição de Serviços (Service Transition); Operação de Serviços (Service Operation); e
+Melhoria Contínua de Serviços (Continual Service Improvement).
+• Tecnologias emergentes: tipos e aplicações.
+HABILIDADES
+• Elaborar padrões de atendimento.
+• Elaborar controles de processos administrativos.
+• Comunicar-se de maneira assertiva.
+• Mediar conflitos nas situações de trabalho.
+• Analisar as etapas do processo de trabalho.
+ATITUDES/VALORES
+• Zelo na apresentação pessoal e postura profissional.
+• Sigilo no tratamento de dados e informações.
+• Proatividade na resolução de problemas no processo de manutenção de computadores.
+• Zelo na execução de procedimentos técnicos.
+• Atitude colaborativa com membros da equipe, parceiros e clientes.
+• Cordialidade no trato com as pessoas.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 31
+
+=== PAGE 32 ===
+• Zelo pela higiene, limpeza e conservação na utilização dos equipamentos, instrumentos
+e ferramentas.
+• Responsabilidade no uso dos recursos organizacionais e no descarte de lixo eletrônico.
+UC4: Projeto Integrador Assistente de Suporte e
+Manutenção de Computadores.
+CARGA HORÁRIA: 20 HORAS
+UC8: Projeto Integrador Assistente de Operação de
+Redes de Computadores.
+CARGA HORÁRIA: 20 HORAS
+UC15: Projeto Integrador Técnico em Manutenção e
+Suporte em Informática.
+CARGA HORÁRIA: 36 HORAS
+O Projeto Integrador é uma Unidade Curricular de Natureza Diferenciada, baseada na
+metodologia de ação-reflexão-ação, que se constitui na proposição de situações desafiadoras
+a serem cumpridas pelo aluno.
+O planejamento e execução do Projeto Integrador propiciam a articulação das competências
+previstas no perfil profissional de conclusão do curso, pois apresentam ao aluno situações
+que estimulam o seu desenvolvimento profissional ao ter que decidir, opinar e debater com
+o grupo a resolução de problemas a partir do tema gerador.
+Durante a realização do Projeto, portanto, o aluno pode demonstrar sua atuação profissional
+pautada pelas marcas formativas do Senac, uma vez que permite o trabalho em equipe e o
+exercício da ética, da responsabilidade social e da atitude empreendedora.
+As principais características do Projeto Integrador são:
+• Articulação das competências do curso, com foco no desenvolvimento do perfil
+profissional de conclusão.
+• Criação de estratégias para a solução de um problema ou de uma fonte geradora de
+problemas relacionada à prática profissional.
+• Desenvolvimento de atividades em grupos realizadas pelos alunos, de maneira
+autônoma e responsável.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 32
+
+=== PAGE 33 ===
+• Geração de novas aprendizagens ao longo do processo.
+• Planejamento integrado entre todos os docentes do curso.
+• Compromisso dos docentes com o desenvolvimento do Projeto no decorrer das
+Unidades Curriculares, sob a articulação do docente responsável pela unidade curricular
+Projeto Integrador, que tem papel de mediador e facilitador do processo.
+• Espaço privilegiado para imprimir as Marcas Formativas Senac:
+▪ Domínio técnico-científico.
+▪ Atitude empreendedora.
+▪ Visão crítica.
+▪ Atitude sustentável.
+▪ Atitude colaborativa.
+A partir do tema gerador, o Projeto Integrador prevê três etapas para sua execução:
+1ª Problematização: corresponde ao ponto de partida do projeto. Na definição do tema
+gerador, deve-se ter em vista uma situação plausível, identificada no campo de atuação
+profissional e que perpasse as competências do perfil de conclusão do curso. Neste
+momento, é feito o detalhamento do tema gerador e o levantamento das questões que vão
+nortear a pesquisa e o desenvolvimento do projeto. As questões devem mobilizar ações que
+articulem as competências do curso para a resolução do problema. Vale destacar que, caso
+o curso contemple mais de uma Unidade Curricular - Projeto Integrador, o tema gerador
+articula todas as competências relacionadas a essa UC-PI.
+2ª Desenvolvimento: para o desenvolvimento do Projeto Integrador, é necessário que os
+alunos organizem e estruturem um plano de trabalho. Esse é o momento em que são
+elaboradas as estratégias para atingir os objetivos e dar respostas às questões formuladas na
+etapa de problematização. O plano de trabalho deve ser realizado conjuntamente pelos
+alunos e prever situações que extrapolem o espaço da sala aula, estimulando a pesquisa em
+bibliotecas, a visita aos ambientes reais de trabalho, a contribuição de outros docentes e
+profissionais, além de outras ações para a busca da resolução do problema.
+3ª Síntese: momento de organização e avaliação das atividades desenvolvidas e dos
+resultados obtidos. Nesta etapa, os alunos podem rever suas convicções iniciais à luz das
+novas aprendizagens, expressar ideias com mais fundamentação teórica e prática, além de
+gerar produtos de maior complexidade. Ressalta-se que a proposta de solução deve trazer
+aspectos inovadores, tanto no próprio produto quanto na forma de apresentação.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 33
+
+=== PAGE 34 ===
+UC4: Projeto Integrador Assistente de Suporte e Manutenção de Computadores.
+Proposta 1: Montagem, instalação e manutenção de computadores cliente.
+A partir deste tema, os docentes devem propor aos grupos atividades de planejamento e
+desenvolvimento da montagem, instalação e configuração de computadores para atender à
+demanda de uma organização pública ou privada. Conforme a prática de mercado, após o
+cumprimento dos procedimentos de montagem e instalação. Os testes de hardware podem
+ser executados por outros grupos que também vão elaborar o relatório das ações realizadas.
+Esse relatório deve subsidiar a equipe inicial no aprimoramento e na manutenção dos
+computadores.
+O desafio proposto deve considerar ainda a dinâmica do segmento de informática e as
+especificidades locais e regionais, além de, prioritariamente, ser uma questão real do
+mercado de trabalho. Quando não for possível apresentar um problema de uma empresa
+real, é indicada a utilização de casos fictícios que retratem o desenvolvimento de soluções
+de suporte e manutenção de computadores.
+Proposta 2: Captação, inspeção, testes, montagem e instalação de computadores pessoais.
+Incentivar a turma a captar máquinas que estão sem uso, sem utilidade ou que precisem de
+reparos em escolas ou instituições. Os alunos também podem verificar na unidade se existem
+máquinas que vão ser descartadas por falta de uso e ou desgaste. Pode-se também fazer a
+captação e recolhimento de máquinas em empresas da região. Com a junção das máquinas,
+os alunos começam o trabalho de inspeção dos equipamentos e seus devidos testes,
+separando as peças que estão em boas condições de funcionamento das estragadas que
+devem seguir para o devido descarte. Após este processo, os alunos podem montar
+máquinas com as peças que estão devidamente funcionando, além de fazer a instalação do
+sistema operacional e dos softwares recomendados. Essas máquinas podem ser doadas a
+instituições e escolas de baixa renda, fortalecendo as práticas de sustentabilidade e
+preservação do meio ambiente.
+UC8: Projeto Integrador Assistente de Operação de Redes de Computadores.
+Proposta 1: Instalação e configuração de uma rede local cliente/servidor.
+A partir deste tema, os docentes devem propor aos grupos atividades de planejamento e
+desenvolvimento da montagem, instalação e configuração de redes locais cliente e servidor,
+conforme demanda de uma organização pública ou privada. Considerando a prática de
+mercado, após o cumprimento dos procedimentos de montagem, de instalação e de
+configuração de redes locais, os testes de hardware e software podem ser executados por
+outros grupos que também vão elaborar o relatório das ações realizadas. Este relatório vai
+subsidiar a equipe inicial no aprimoramento e na manutenção da rede local instalada.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 34
+
+=== PAGE 35 ===
+O desafio proposto deve considerar ainda a dinâmica do segmento de informática e as
+especificidades locais e regionais, além de, prioritariamente, ser uma questão real do
+mercado de trabalho. Quando não for possível apresentar um problema de uma empresa
+real, é indicada a utilização de casos fictícios que retratem o desenvolvimento de soluções
+de suporte e manutenção de redes locais de computadores.
+Proposta 2: Estudo, instalação, cabeamento e configuração de uma rede local.
+Em consonância com o tema, o docente deve indicar a realização de um projeto para escola,
+instituição de caridade e ou órgão público que apresenta déficit de estrutura de redes. Após
+a visita do docente na referida instituição, ele deve apresentar os desafios que devem ser
+estudados. Na sequência, os alunos fazem a elaboração do estudo em ferramentas de
+simulação de redes. Após a simulação no ambiente de testes, os alunos podem fazer o
+cabeamento e montagem da estrutura lógica de redes diretamente na instituição escolhida,
+caso esta forneça os componentes necessários para a estrutura e cabeamento. O objetivo da
+ação é a simulação em ambiente de testes e a execução do projeto no ambiente físico, onde
+os alunos têm a visão, a percepção e a vivência do trabalho in loco.
+UC15: Projeto Integrador Técnico em Manutenção e Suporte em Informática.
+Proposta 1: Assistente de Operação e Suporte Técnico Fi com telefonia IP e modelos de
+serviços de TI para suporte técnico em microempresa.
+A partir deste tema, os docentes devem propor aos grupos atividades de planejamento e
+desenvolvimento da montagem, instalação e configuração de uma rede Wi-Fi e telefonia IP,
+que pode ser uma extensão dos projetos anteriores, como se fosse uma ampliação da rede
+cabeada. Com essa implementação da rede Wi-Fi e telefonia IP os grupos podem elaborar
+modelos de serviços de TI, relacionados a ITIL, Green IT e COBIT, conforme demanda de uma
+microempresa e realizar o suporte técnico aos equipamentos e usuários da rede.
+Considerando a prática de mercado, após o cumprimento dos procedimentos de montagem,
+de instalação e de configuração da rede Wi-Fi e telefonia IP, os testes de conexão, acesso e
+sinal da rede, poderão ser executados por outros grupos que também irão elaborar o
+relatório desses testes realizados. Este relatório subsidiará a equipe inicial no
+aprimoramento e na manutenção da rede Wi-Fi instalada. Outro ponto importante que os
+grupos devem realizar é o modelo de serviço que pode ser implementado entre as três
+opções citadas: ITIL, Green IT e COBIT. Para o atendimento ao cliente, os docentes podem
+propor abertura de chamados e resolução de problemas.
+O desafio proposto deve considerar ainda a dinâmica do segmento de informática e as
+especificidades locais e regionais, além de, prioritariamente, ser uma questão real do
+mercado de trabalho.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 35
+
+=== PAGE 36 ===
+Quando não for possível apresentar um problema de uma empresa real, é indicada a
+utilização de casos fictícios que retratem o desenvolvimento de soluções de suporte e
+manutenção de redes locais de computadores.
+Com a realização de uma das propostas apresentadas, o aluno pode demonstrar sua atuação
+profissional pautada pelas marcas formativas do Senac, uma vez que permite o trabalho em
+equipe e o exercício da ética, da responsabilidade social e da atitude empreendedora.
+Proposta 2: Instalação e configuração de uma rede Wi-Fi com telefonia IP e modelos de
+serviços de TI para suporte técnico em empresa de grande porte.
+A partir deste tema, os docentes devem propor aos grupos atividades de planejamento e
+desenvolvimento da montagem, instalação e configuração de uma rede Wi-Fi e telefonia IP,
+que pode ser uma extensão dos projetos anteriores, como se fosse uma ampliação da rede
+cabeada. Com essa implementação da rede Wi-Fi e telefonia IP os grupos podem elaborar
+modelos de serviços de TI, relacionados a ITIL, Green IT e COBIT, conforme demanda de uma
+empresa de Grande Porte com pelo menos cinco filiais distribuídas no Brasil e realizar o
+suporte técnico aos equipamentos e usuários da rede.
+Considerando a prática de mercado, após o cumprimento dos procedimentos de montagem,
+de instalação e de configuração da rede Wi-Fi e telefonia IP, os testes de conexão, acesso e
+sinal da rede, podem ser executados por outros grupos que também devem elaborar o
+relatório desses testes realizados. Este relatório vão subsidiar a equipe inicial no
+aprimoramento e na manutenção da rede Wi-Fi instalada. Outro ponto importante que os
+grupos devem realizar é o modelo de serviço que pode ser implementado entre as três
+opções citadas: ITIL, Green IT e COBIT. Para o atendimento ao cliente, os docentes podem
+propor abertura de chamados e resolução de problemas.
+O desafio proposto deve considerar ainda a dinâmica do segmento de informática e as
+especificidades locais e regionais, além de, prioritariamente, ser uma questão real do
+mercado de trabalho.
+Quando não for possível apresentar um problema de uma empresa real, é indicada a
+utilização de casos fictícios que retratem o desenvolvimento de soluções de suporte e
+manutenção de redes locais de computadores.
+Com a realização de uma das propostas apresentadas, o aluno pode demonstrar sua atuação
+profissional pautada pelas marcas formativas do Senac, uma vez que permite o trabalho em
+equipe e o exercício da ética, da responsabilidade social e da atitude empreendedora.
+Outros Temas Geradores podem ser definidos em conjunto com os alunos, desde que
+constituam uma situação-problema e atendam aos indicadores para avaliação.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 36
+
+=== PAGE 37 ===
+Para avaliação da unidade curricular Projeto Integrador são propostos os seguintes
+indicadores, cuja função é evidenciar o alcance dos objetivos da unidade curricular:
+• Cumpre as atividades previstas no plano de ação, conforme desafio identificado no tema
+gerador.
+• Apresenta resultados ou soluções de acordo com as problemáticas do tema
+gerador e objetivos do PI.
+6. ORIENTAÇÕES METODOLÓGICAS
+As orientações metodológicas deste curso, em consonância com a Proposta Pedagógica do
+Senac, pautam-se pelo princípio da aprendizagem com autonomia e pela metodologia de
+desenvolvimento de competências, estas entendidas como ação/fazer profissional
+observável, potencialmente criativo(a), que articula conhecimentos, habilidades e
+atitudes/valores, bem como permite desenvolvimento contínuo.
+As competências que compõem a organização curricular do curso foram definidas com base
+no perfil profissional de conclusão, considerando a área de atuação e os processos de
+trabalho deste profissional. Para o desenvolvimento das competências, foi configurado um
+percurso metodológico que privilegia a prática pedagógica contextualizada, colocando o
+aluno diante de situações de aprendizagem que possibilitam o exercício contínuo da
+mobilização e articulação dos saberes necessários para a ação e solução de questões
+inerentes à natureza da ocupação.
+A mobilização e a articulação dos elementos da competência requerem a proposição de
+situações desafiadoras de aprendizagem, que apresentem níveis crescentes de
+complexidade e se relacionem tanto com a realidade do aluno quanto com o contexto da
+ocupação.
+As atividades relacionadas ao planejamento de carreira dos alunos devem ocorrer no
+contexto do desenvolvimento da marca formativa Atitude Empreendedora. Recomenda-se
+que o tema seja abordado no início das primeiras unidades curriculares do curso e revisitado
+no decorrer de toda a formação. A partir da reflexão sobre si mesmo e sobre a própria
+trajetória profissional, os alunos podem: reconhecer as diferentes possibilidades de atuação
+profissional, considerando também a perspectiva empreendedora; elaborar estratégias para
+identificar oportunidades; e aprimorar cada vez mais suas competências. O docente pode
+abordar com os alunos o planejamento de carreira a partir dos seguintes tópicos: i) ponto de
+partida: momento de vida do aluno, suas possibilidades de inserção no mercado, fontes de
+recrutamento e seleção, elaboração de currículo, remuneração oferecida pelo mercado,
+competências que possui e seu histórico profissional; ii) objetivos: o que o aluno pretende
+em relação à sua carreira no curto, no médio e no longo prazo, e; iii) estratégias: o que o
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 37
+
+=== PAGE 38 ===
+aluno deve fazer para alcançar seus objetivos. Esse plano de ação tem como foco a iniciativa,
+a criatividade, a inovação, a autonomia e o dinamismo, na perspectiva de que os alunos
+possam criar soluções e buscar formas diferentes de atuar em seu segmento.
+No que concerne às orientações metodológicas para a Unidade Curricular Projeto Integrador
+(UCPI), recomenda-se que o docente apresente aos alunos o tema gerador nas primeiras
+semanas do curso, possibilitando a eles modificar e/ou substituir a proposta inicial de acordo
+com a contribuição da turma. Para a execução da UCPI o docente deve atentar para as fases
+que a compõem: a) problematização (detalhamento do tema gerador); b) desenvolvimento
+(elaboração das estratégias para atingir os objetivos e dar respostas às questões formuladas
+na etapa de problematização) e; c) síntese (organização e avaliação das atividades
+desenvolvidas e dos resultados obtidos).
+Ressalta-se que o tema gerador deve se basear em problemas da realidade da ocupação,
+propiciando desafios significativos que estimulem a pesquisa a partir de diferentes temas e
+ações relacionadas ao setor produtivo ao qual o curso está vinculado. Nesse sentido, a
+proposta deve contribuir para o desenvolvimento de projetos consistentes, que ultrapassem
+a mera sistematização das informações trabalhadas durante as demais unidades curriculares.
+No tocante à avaliação dos resultados, o docente deve retomar a reflexão sobre a articulação
+das competências do perfil profissional e o desenvolvimento das Marcas Formativas,
+correlacionando-os ao fazer profissional.
+A apresentação dos resultados do Projeto Integrador pode assumir diferentes formatos e
+proporcionar momentos de socialização para seu compartilhamento. Esse momento de
+apresentação deve ser considerado como mais uma atividade que compõe o processo de
+aprendizagem. Como a avaliação é contínua e se dá ao longo do curso, caso a apresentação
+não atenda aos objetivos iniciais de seu planejamento, não há obrigatoriamente a
+necessidade de refazê-la, pois o foco da avaliação deve olhar para os objetivos alcançados
+pelo projeto e não pela apresentação em si. Essa necessidade deve ser analisada caso a caso
+e é fundamental que o docente proponha que os alunos reflitam sobre todo o processo de
+aprendizagem com intuito de identificar as possíveis razões que levaram ao resultado obtido
+e o que é possível aprender com este processo.
+O docente deve, ainda, incentivar o compartilhamento dos resultados do Projeto Integrador
+com toda a comunidade escolar, zelando para que, sempre que possível, essa ação de
+compartilhamento estabeleça uma aproximação ao contexto profissional.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 38
+
+=== PAGE 39 ===
+7. CRITÉRIOS DE APROVEITAMENTO DE
+CONHECIMENTOS E DE EXPERIÊNCIAS ANTERIORES
+De acordo com a legislação educacional em vigor, é possível aproveitar conhecimentos e
+experiências anteriores dos alunos, desde que diretamente relacionados com o Perfil
+Profissional de Conclusão do presente curso.
+O aproveitamento de competências anteriormente adquiridas pelo aluno por meio da
+educação formal, informal ou do trabalho, para fins de prosseguimento de estudos, será
+realizado em acordo com as diretrizes legais e orientações organizacionais vigentes.
+8. CRITÉRIOS E PROCEDIMENTOS DE AVALIAÇÃO DA
+APRENDIZAGEM
+De forma coerente com os princípios pedagógicos da Instituição, a avaliação tem como
+propósitos:
+• Avaliar o desenvolvimento das competências no processo formativo.
+• Ser diagnóstica e formativa.
+• Permear e orientar todo o processo educativo.
+• Verificar a aprendizagem do aluno, sinalizando o quão perto ou longe está do
+desenvolvimento das competências que compõem o perfil profissional de conclusão
+(foco na aprendizagem).
+• Permitir que o aluno assuma papel ativo em seu processo de aprendizagem, devendo,
+portanto, prever momentos para autoavaliação e de feedback em que docente e aluno
+possam juntos realizar correções de rumo ou adoção de novas estratégias que permitam
+melhorar o desempenho do aluno no curso.
+8.1 Formas de expressão dos resultados da avaliação
+Toda avaliação deve ser acompanhada e registrada ao longo do processo de ensino-
+aprendizagem. As menções adotadas no Modelo Pedagógico Senac reforçam o
+comprometimento com o desenvolvimento da competência e buscam minimizar o grau de
+subjetividade do processo avaliativo.
+De acordo com a etapa de avaliação, foram estabelecidas formas de registro específicas a
+serem adotadas no decorrer do processo de aprendizagem:
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 39
+
+=== PAGE 40 ===
+8.1.1 Menção por unidade curricular
+Ao final de cada unidade curricular, devem ser atribuídas menções que evidenciam o
+desenvolvimento ou não da competência. As menções possíveis para cada unidade curricular
+são:
+• Desenvolvida – D
+• Não desenvolvida – ND
+8.1.2 Registros parciais com foco nos indicadores de competência
+Para acompanhar o processo de desenvolvimento das competências também são realizados
+registros relativos aos indicadores, que evidenciam o desenvolvimento da competência. As
+formas de registro relativas aos resultados possíveis para cada indicador são:
+Durante o processo
+• Atendido - A
+• Parcialmente atendido - PA
+• Não atendido - NA
+Ao final da unidade curricular
+• Atendido - A
+• Não atendido - NA
+8.1.3 Menção para aprovação no curso
+Para aprovação no curso, o aluno precisa atingir D (desenvolvida) em todas as unidades
+curriculares (Competências e Unidades Curriculares de Natureza Diferenciada).
+Além da menção D (desenvolvida), o aluno deve ter frequência mínima de 75% em cada
+unidade curricular, conforme legislação vigente, com exceção do Projeto Integrador que terá
+como critério para aprovação apenas a Menção D (desenvolvida). Os resultados possíveis no
+curso são:
+• Aprovado - AP
+• Reprovado - RP
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 40
+
+=== PAGE 41 ===
+8. 2 Recuperação
+A recuperação será imediata à constatação das dificuldades do aluno, por meio de solução
+de situações-problema, realização de estudos dirigidos e outras estratégias de aprendizagem
+que contribuam para o desenvolvimento da competência. Na modalidade de oferta
+presencial, é possível a adoção de recursos de educação a distância.
+9. ESTÁGIO PROFISSIONAL SUPERVISIONADO
+O Estágio tem por finalidade propiciar condições para a integração dos alunos no mercado
+de trabalho. É um “ato educativo escolar supervisionado, desenvolvido no ambiente de
+trabalho, que visa à preparação para o trabalho produtivo de educandos” (Lei n° 11.788/08).
+Conforme previsto em legislação vigente, o Estágio pode integrar ou não a estrutura
+curricular dos cursos. É obrigatório quando a legislação que regulamenta a atividade
+profissional assim o determinar.
+Nos cursos em que não for obrigatório, pode ser facultada aos alunos a sua realização, de
+acordo com a demanda do mercado de trabalho. Desenvolvido como atividade opcional, a
+carga horária do estágio é apostilada ao histórico escolar do aluno.
+No presente curso, o Estágio não é obrigatório.
+10. INSTALAÇÕES, EQUIPAMENTOS E RECURSOS
+DIDÁTICOS
+A rede de Unidades Escolares do Senac São Paulo tem a infraestrutura necessária para a
+realização dos cursos propostos, contando com dependências para acolhimento dos alunos,
+salas de aula devidamente mobiliadas com cadeiras móveis e armário para organização dos
+materiais, sala de atendimento, salas para Direção, Secretaria, Equipe Técnica e Docentes,
+laboratórios de informática, bibliotecas com o acervo contendo os títulos da bibliografia
+básica indicada no correspondente Plano de Curso, computadores conectados à Internet,
+data show e outros equipamentos.
+10.1 Instalações e equipamentos específicos:
+• Laboratório de informática com acesso à internet e computadores com suporte à
+virtualização.
+• Laboratório de hardware com a seguinte configuração:
+▪ Kit morto: computador completo com gabinete e todas as peças internas. Não precisa
+estar funcionando.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 41
+
+=== PAGE 42 ===
+▪ Kit troubleshooting: computador completo com gabinete e todas as peças internas.
+Tudo deve estar funcionando para práticas de troubleshooting.
+▪ Kit instalação: computador completo com gabinete e todas as peças internas. Tudo
+deve estar funcionando para práticas de instalação e configuração de softwares.
+▪ Kit virtualização: computador completo core i5 ou i7 com suporte a virtualização. Tudo
+deve estar funcionando para práticas de servidores e programação.
+▪ Mobiliário: armários para armazenamento de materiais e bancadas para trabalhar com
+a montagem, a instalação e a manutenção de computadores.
+▪ Componentes de hardware: gabinetes com fontes compatíveis, memórias RAM, placa
+de vídeo off-board, discos rígidos, adaptador de som off-board, adaptador de rede
+com fio, adaptador de rede sem fio, adaptador de i/o, placa-mãe com processador
+compatível (Pentium, AMD, Cyrix, Intel, entre outros e com alguns modelos de 32 e de
+64 bits), cooler, adaptador acelerador gráfico 3D, teclado USB, mouse USB, drive de
+CD-ROM/DVD-ROM, gravadora de DVD, adaptador diagnóstico, adaptador USB
+wireless, caixas de som, monitores de vídeo LED; dispositivos de áudio.
+▪ Ferramentas: luminárias, multímetros com sinalizador sonoro, pulseiras de
+aterramento antiestáticas, mantas antiestáticas ESD para bancada, pinças para
+manutenção de computadores, kits de ferramentas (chaves teste tipo fenda, chaves
+teste digital, chaves Philips 3/16x5’, alicates de corte rente, alicates de bico fino,
+alicates de bico serrilhado, alicates decapador, alicates de crimpar cabo UTP),
+ferramentas de inserção (punchdown), testadores de cabo, aspirador de pó manual.
+▪ Insumos: abraçadeiras, pincel para limpeza, álcool isopropílico, pasta térmica,
+conectores RJ45, conectores Jack Fêmea RJ 45, caixa de cabo categoria 5 ou 6.
+Opcional: ferros de solda, estanho para solda, sugadores de solda, cuba ultrassônica,
+rotuladores eletrônico, fitas para rotulador eletrônico, velcros dupla face.
+▪ Equipamentos de rede: roteador, switch, Access Point, roteador wireless, patch panel,
+rack para equipamentos de rede, organizador de cabo de 1U, bloco IDC110, régua
+elétrica, conectores/terminadores IDC110, alicate de crimpagem.
+▪ Impressora: jato de tinta para manutenção de impressoras. Impressora para
+impressão local com conexão à rede, pode ser: jato de tinta ou laser.
+• Softwares: windows desktop mais atual, Pacote Office, utilitários de antivírus,
+diagnóstico, sistemas operacionais de código aberto, software de gerenciamento de
+projetos, navegadores web, virtualização, emulador de servidor, emulador de roteadores
+e switches, sistema operacional de redes, storage para backup, análise de protocolos,
+antimalware, firewall, snnifer, port scanner e honeypot, conexões wireless (software de
+monitoramento e administração de redes, versão livre e proprietária).
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 42
+
+=== PAGE 43 ===
+11. PERFIL DO PESSOAL DOCENTE
+O desenvolvimento da oferta ora proposta requer docentes com experiência profissional em
+manutenção de computadores e suporte em informática e/ou operação de redes de
+computadores e/ou administração de redes de computadores e formação superior ou
+técnica na área de tecnologia da informação ou afins.
+12. BIBLIOGRAFIA
+UC1: Planejar e executar a montagem de computadores.
+Bibliografia Básica
+• SCHORSCH, M.; LACERDA, I. M. Manutenção de microcomputadores na prática. São
+Paulo: Senac São Paulo, 2016.
+Bibliografia Complementar
+• PAIXÃO, R. R. Montagem e manutenção de computadores, PCs. São Paulo: Érica, 2014.
+• VASCONCELOS, L. Hardware na Prática. Rio de Janeiro: Ciência Moderna, 2017.
+UC2: Planejar e executar a instalação de hardware e software para
+computadores.
+Bibliografia Básica
+• SCHORSCH, M.; LACERDA, I. M. Manutenção de microcomputadores na prática. São
+Paulo: Senac, 2016.
+Bibliografia Complementar
+• PAIXÃO, R. R. Montagem e manutenção de computadores, PCs. São José dos Campos:
+Érica, 2014.
+• VASCONCELOS, L. Hardware na Prática. Rio de Janeiro: Ciência Moderna, 2017.
+UC3: Planejar e executar a manutenção de computadores.
+Bibliografia Básica
+• SCHORSCH, M.; LACERDA, I. M. Manutenção de Microcomputadores na Prática. São
+Paulo: Senac, 2016.
+Bibliografia Complementar
+• LACERDA, I. M. F.; OLIVEIRA, J. de B. Rede de computadores: um guia para instalação e
+reparação. Rio de Janeiro: Senac Nacional, 2013.
+• VASCONCELOS, L. Hardware na Prática. Rio de Janeiro: Ciência Moderna, 2017.
+UC5: Planejar e executar a instalação de redes locais de computadores.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 43
+
+=== PAGE 44 ===
+Bibliografia Básica
+• SOUSA, L. B. Redes de computadores: guia total. São José dos Campos: Érica, 2014.
+Bibliografia Complementar
+• COMER, D. E. Redes de computadores e internet. Porto Alegre: Bookman, 2016.
+• MARIN, P. S. Cabeamento estruturado: desvendando cada passo: do projeto à instalação.
+São José dos Campos: Érica, 2013.
+UC6: Planejar e executar a manutenção de redes locais de
+computadores.
+Bibliografia Básica
+• COMER, D. E. Redes de computadores e internet. Porto Alegre: Bookman, 2016.
+Bibliografia Complementar
+• HAYAMA, M. M. Montagem de redes locais: prático e didático. São José dos Campos:
+Érica, 2011.
+• RUFINO, N. M. de O. Segurança em redes sem fio. São Paulo: Novatec, 2015.
+UC7: Planejar e executar a instalação, a configuração e o
+monitoramento de sistemas operacionais de redes locais (servidores).
+Bibliografia Básica
+• THOMPSON, M. A. Microsoft Windows Server 2016: fundamentos. São José dos Campos:
+Érika, 2017.
+Bibliografia Complementar
+• FEY, A. F.; GAUER, R. R. Solucionando Problemas de Comunicação em Redes Lan e Wan.
+São Paulo: Clube dos Autores, 2016.
+• MARTINI, L. A.; MAIEVES, G. T. Linux para servidores: instalação à virtualização. Bauru:
+Viena, 2013.
+UC9: Implementar cabeamento estruturado e telefonia IP.
+Bibliografia Básica
+• MARIN, P. S. Cabeamento estruturado. São José dos Campos: Érica, 2014.
+Bibliografia Complementar
+• MARIN, P. S. Cabeamento estruturado: desvendando cada passo: do projeto à instalação.
+São José dos Campos: Érica, 2013.
+• NETO, V. S. Sistemas de telefonia: fundamentos, tecnologias e funcionamento de redes.
+São José dos Campos: Érica, 2014.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 44
+
+=== PAGE 45 ===
+UC10: Planejar e executar a instalação de redes sem fio.
+Bibliografia Básica
+• SOUSA, L. B. Redes de computadores: guia total. São José dos Campos: Érica, 2014.
+Bibliografia Complementar
+• ROCHOL, J. Sistemas de comunicação sem fio: conceitos e aplicações. Porto Alegre:
+Bookman, 2018.
+• WRIGHTSON, T. Segurança de redes sem fio. Porto Alegre: Bookman, 2014.
+UC11: Planejar e executar a manutenção de notebooks e manutenção
+preventiva de impressoras.
+Bibliografia Básica
+• SCHORSCH, M. Guia prático de manutenção de impressora a jato de tinta. São Paulo:
+Senac, 2015.
+Bibliografia Complementar
+• ROSSINI, E. D. J. Manutenção em Notebooks. Bauru: Viena, 2014.
+• SCHORSCH, M.; LACERDA, I. M. Manutenção de Microcomputadores na Prática. São
+Paulo: Senac, 2016.
+UC12: Monitorar sistemas, aplicativos e equipamentos.
+Bibliografia Básica
+• PONTUAL, R. A.; WANDERLEY, A. R. M. C. Gerenciamento de servidores. São José dos
+Campos: Érica, 2019. (Série Eixos).
+Bibliografia Complementar
+• FILHO, J. E. M. Análise de tráfego em redes TCP/IP. São Paulo: Novatec, 2013.
+• MELO, S. Exploração de vulnerabilidades em redes TCP/IP. Rio de Janeiro: Alta Books,
+2017.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 45
+
+=== PAGE 46 ===
+UC13: Realizar a gestão dos projetos e governança de processos em
+operações de suporte.
+Bibliografia Básica
+• FERNANDES, A. A.; ABREU, V. F. de. Implantando a governança de TI: da estratégia à
+gestão de processos e serviços. Rio de Janeiro: Brasport, 2014.
+Bibliografia Complementar
+• COHEN, R. Gamification em help desk e service desk. [S. l.]. São Paulo: Novatec, 2017.
+• FERNANDES, A. A. Implantando a governança de TI: da estratégia à gestão de processos
+e serviços. Rio de Janeiro: Brasport, 2014.
+UC14: Atender clientes em serviços de manutenção e suporte de
+informática.
+Bibliografia Básica
+• STATDLOBER, J. Gestão do conhecimento em serviços de TI: guia prático. Rio de Janeiro:
+Brasport, 2016.
+Bibliografia Complementar
+• LAUDON, K.; LAUDON, J. Sistemas de informações gerenciais. São Paulo: Pearson, 2014.
+• OLIVEIRA, B. S. de. Métodos ágeis e gestão de serviços de TI. Rio de Janeiro: Brasport,
+2018.
+13. CERTIFICAÇÃO
+Àquele que concluir com aprovação a Qualificação Profissional Técnica de Assistente de
+Suporte e Manutenção de Computadores composta pelas unidades curriculares 1, 2, 3 e 4, é
+conferido o certificado de Assistente de Suporte e Manutenção de Computadores, com
+validade nacional.
+Àquele que concluir com aprovação a Qualificação Profissional de Assistente de Operação de
+Redes de Computadores composta pelas unidades curriculares 5, 6, 7 e 8, é conferido o
+certificado de Assistente de Operação de Redes de Computadores, com validade nacional.
+Àquele que concluir com aprovação todas as unidades curriculares que compõem a
+organização curricular desta Habilitação Profissional Técnica e comprovar a conclusão do
+Ensino Médio, é conferido o diploma de Técnico em Manutenção e Suporte em Informática
+com validade nacional.
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 46
+
+=== PAGE 47 ===
+SENAC • PC – Habilitação Profissional Técnica em Manutenção e Suporte em Informática. 47
+
