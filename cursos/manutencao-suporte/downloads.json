@@ -1,0 +1,77 @@
+[
+  {
+    "nome": "VirtualBox",
+    "desc": "Criação e gerenciamento de máquinas virtuais para prática de servidores e virtualização.",
+    "link": "https://www.virtualbox.org/wiki/Downloads"
+  },
+  {
+    "nome": "Cisco Packet Tracer",
+    "desc": "Simulador de redes para projeto, configuração e testes de topologias de rede.",
+    "link": "https://www.netacad.com/courses/packet-tracer"
+  },
+  {
+    "nome": "GNS3",
+    "desc": "Emulador de redes para simulação de roteadores e switches em ambiente virtual.",
+    "link": "https://www.gns3.com/software/download"
+  },
+  {
+    "nome": "Wireshark",
+    "desc": "Analisador de protocolos para monitoramento e análise de tráfego de rede.",
+    "link": "https://www.wireshark.org/download.html"
+  },
+  {
+    "nome": "Zabbix",
+    "desc": "Plataforma open source para monitoramento de redes, servidores e aplicações.",
+    "link": "https://www.zabbix.com/download"
+  },
+  {
+    "nome": "Ubuntu Server / Debian",
+    "desc": "Sistemas operacionais Linux para servidores de rede (instalação e configuração).",
+    "link": "https://ubuntu.com/download/server"
+  },
+  {
+    "nome": "Windows Server (trial)",
+    "desc": "Sistema operacional de servidor da Microsoft para prática de gestão de redes locais.",
+    "link": "https://www.microsoft.com/pt-br/evalcenter/evaluate-windows-server-2022"
+  },
+  {
+    "nome": "TeamViewer",
+    "desc": "Ferramenta de acesso remoto para atendimento e suporte ao cliente.",
+    "link": "https://www.teamviewer.com/pt-br/download/"
+  },
+  {
+    "nome": "AnyDesk",
+    "desc": "Solução de acesso remoto leve e rápida para suporte técnico.",
+    "link": "https://anydesk.com/pt/downloads"
+  },
+  {
+    "nome": "HWiNFO",
+    "desc": "Software de diagnóstico e monitoramento detalhado de hardware de computadores.",
+    "link": "https://www.hwinfo.com/download/"
+  },
+  {
+    "nome": "CPU-Z",
+    "desc": "Utilitário de informações sobre processador, memória e placa-mãe.",
+    "link": "https://www.cpuid.com/softwares/cpu-z.html"
+  },
+  {
+    "nome": "Pacote Office / LibreOffice",
+    "desc": "Aplicativos de escritório para edição de documentos, planilhas e apresentações.",
+    "link": "https://www.libreoffice.org/download/download-libreoffice/"
+  },
+  {
+    "nome": "GLPI",
+    "desc": "Sistema de gestão de chamados, inventário e suporte técnico (Help Desk).",
+    "link": "https://glpi-project.org/downloads/"
+  },
+  {
+    "nome": "Nmap",
+    "desc": "Ferramenta de port scanner para descoberta de hosts e serviços em redes.",
+    "link": "https://nmap.org/download"
+  },
+  {
+    "nome": "Bitvise SSH Client",
+    "desc": "Cliente SSH para acesso seguro a servidores Linux e administração remota.",
+    "link": "https://www.bitvise.com/ssh-client-download"
+  }
+]

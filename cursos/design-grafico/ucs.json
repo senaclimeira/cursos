@@ -1,0 +1,365 @@
+[
+  {
+    "id": "uc1",
+    "modulo": 0,
+    "titulo": "UC1 - Planejar projetos gráficos impressos",
+    "atividades": [
+      "Desenvolvimento de painel semântico a partir de briefing de design",
+      "Composição de layouts aplicando fundamentos do design gráfico (equilíbrio, hierarquia, tipografia, cor)",
+      "Criação de apresentação com as etapas e justificativas do projeto gráfico"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Adobe Photoshop / Illustrator",
+        "desc": "Criação de painéis semânticos, composição e layout de projetos gráficos."
+      },
+      {
+        "nome": "Coolors / Adobe Color",
+        "desc": "Ferramentas para criação e seleção de paletas de cores harmônicas."
+      },
+      {
+        "nome": "Google Fonts / Adobe Fonts",
+        "desc": "Bibliotecas de tipografias para uso em projetos gráficos."
+      }
+    ]
+  },
+  {
+    "id": "uc2",
+    "modulo": 0,
+    "titulo": "UC2 - Compor e tratar imagens digitais",
+    "atividades": [
+      "Edição de imagens digitais com técnicas de seleção, camadas, máscaras e filtros (Adobe Photoshop)",
+      "Composição e tratamento de imagens conforme especificações técnicas (resolução, modelo de cor, formato)",
+      "Restauração de imagens com ajustes de luz, tom, cor e saturação"
+    ],
+    "linguagens": [
+      {
+        "nome": "Adobe Photoshop",
+        "desc": "Software de edição e composição de imagens digitais em bitmap (raster)."
+      }
+    ],
+    "ferramentas": [
+      {
+        "nome": "Adobe Photoshop",
+        "desc": "Edição, composição e tratamento profissional de imagens digitais."
+      }
+    ]
+  },
+  {
+    "id": "uc3",
+    "modulo": 0,
+    "titulo": "UC3 - Desenvolver ilustrações vetoriais",
+    "atividades": [
+      "Criação de arquivos vetoriais com formas, caminhos compostos e edição de texto (Adobe Illustrator)",
+      "Desenvolvimento de peças gráficas vetoriais (cartão-postal, cartaz, folder)",
+      "Preparação de arquivos digitais para impressão (AI, EPS, PDF)"
+    ],
+    "linguagens": [
+      {
+        "nome": "Adobe Illustrator",
+        "desc": "Software de criação e edição de imagens vetoriais e peças gráficas."
+      }
+    ],
+    "ferramentas": [
+      {
+        "nome": "Adobe Illustrator",
+        "desc": "Criação de ilustrações vetoriais e peças gráficas para impressão e digital."
+      }
+    ]
+  },
+  {
+    "id": "uc4",
+    "modulo": 0,
+    "titulo": "UC4 - Planejar produção gráfica",
+    "atividades": [
+      "Seleção de sistema de impressão e determinação de acabamentos gráficos conforme o projeto",
+      "Realização de orçamento gráfico e pesquisa de fornecedores",
+      "Preparação e fechamento de arquivos PDF para impressão (pré-impressão, sangria, marcas)"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Adobe Acrobat",
+        "desc": "Criação, revisão e fechamento de arquivos PDF para impressão."
+      },
+      {
+        "nome": "Preflight (InDesign / Acrobat)",
+        "desc": "Verificação de conformidade de arquivos antes do envio para impressão."
+      }
+    ]
+  },
+  {
+    "id": "uc5",
+    "modulo": 4,
+    "titulo": "UC5 - Projeto Integrador: Assistente de Arte",
+    "atividades": [
+      "Projeto integrador: criação de projeto gráfico completo integrando arte, design e técnicas de produção gráfica"
+    ]
+  },
+  {
+    "id": "uc6",
+    "modulo": 2,
+    "titulo": "UC6 - Diagramar livros impressos e e-books",
+    "atividades": [
+      "Desenvolvimento de projeto editorial de livro (formato, capa, mancha gráfica, tipografia)",
+      "Diagramação de páginas com editoração eletrônica (Adobe InDesign)",
+      "Desenvolvimento de e-book (EPUB fixo e refluível, PDF interativo)",
+      "Encadernação manual de protótipo e fechamento de arquivo para impressão"
+    ],
+    "linguagens": [
+      {
+        "nome": "Adobe InDesign",
+        "desc": "Software de editoração eletrônica para diagramação de livros, revistas e publicações."
+      },
+      {
+        "nome": "EPUB / PDF Interativo",
+        "desc": "Formatos para publicação de e-books e documentos digitais interativos."
+      }
+    ],
+    "ferramentas": [
+      {
+        "nome": "Adobe InDesign",
+        "desc": "Editoração eletrônica para diagramação de livros, revistas e publicações digitais."
+      }
+    ]
+  },
+  {
+    "id": "uc7",
+    "modulo": 2,
+    "titulo": "UC7 - Diagramar revistas impressa e digital",
+    "atividades": [
+      "Desenvolvimento de projeto editorial de revista (capa, miolo, grid, diagramação modular)",
+      "Diagramação de páginas e criação de linha editorial (Adobe InDesign)",
+      "Desenvolvimento de revista digital interativa (ePub fixo, PDF interativo)"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Adobe InDesign",
+        "desc": "Diagramação de revistas impressas e desenvolvimento de publicações digitais interativas."
+      }
+    ]
+  },
+  {
+    "id": "uc8",
+    "modulo": 2,
+    "titulo": "UC8 - Produzir infográfico",
+    "atividades": [
+      "Elaboração de roteiro e coleta de dados para infográfico",
+      "Criação de infográfico combinando ilustração, tipografia e hierarquia visual",
+      "Finalização de arquivo para publicação impressa ou digital"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Adobe Illustrator / InDesign",
+        "desc": "Ferramentas para criação visual e diagramação de infográficos."
+      }
+    ]
+  },
+  {
+    "id": "uc9",
+    "modulo": 4,
+    "titulo": "UC9 - Projeto Integrador: Programação Visual de Design Editorial",
+    "atividades": [
+      "Projeto integrador: desenvolvimento de publicação editorial impressa e/ou digital (livro ou revista)"
+    ]
+  },
+  {
+    "id": "uc10",
+    "modulo": 1,
+    "titulo": "UC10 - Criar identidade visual",
+    "atividades": [
+      "Criação de logotipo com malha construtiva, cor, proporção e tipografia (Adobe Illustrator)",
+      "Desenvolvimento de tipografia e lettering de acordo com o conceito da marca",
+      "Desenvolvimento de imagens vetoriais para composição da identidade visual"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Adobe Illustrator",
+        "desc": "Criação de logotipos, ilustrações vetoriais e composição da identidade visual."
+      }
+    ]
+  },
+  {
+    "id": "uc11",
+    "modulo": 1,
+    "titulo": "UC11 - Desenvolver Manual de Identidade Visual",
+    "atividades": [
+      "Criação de regras de aplicação do logotipo (assinaturas, área de segurança, modulações)",
+      "Desenvolvimento de materiais gráficos e digitais aplicando o manual de identidade visual",
+      "Criação de sinalização gráfica para ambientes e comunicação visual para produtos"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Adobe Illustrator / InDesign",
+        "desc": "Diagramação do manual de identidade visual e materiais de aplicação."
+      }
+    ]
+  },
+  {
+    "id": "uc12",
+    "modulo": 1,
+    "titulo": "UC12 - Desenvolver projeto gráfico para expografia",
+    "atividades": [
+      "Desenvolvimento da identidade visual do evento conforme conceito expográfico",
+      "Planejamento de materiais impressos (plotagem, gigantografia, adesivagem) e apresentação do projeto"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Adobe Illustrator / Photoshop",
+        "desc": "Desenvolvimento da identidade visual de eventos e materiais de expografia."
+      }
+    ]
+  },
+  {
+    "id": "uc13",
+    "modulo": 4,
+    "titulo": "UC13 - Projeto Integrador: Assistente de Design de Marcas e Identidade Visual",
+    "atividades": [
+      "Projeto integrador: desenvolvimento completo de identidade visual e manual para organização real ou fictícia"
+    ]
+  },
+  {
+    "id": "uc14",
+    "modulo": 2,
+    "titulo": "UC14 - Criar embalagens cartotécnicas",
+    "atividades": [
+      "Planificação de embalagens cartotécnicas conforme normas técnicas (faca de corte)",
+      "Criação de layout e imagens digitais conforme especificações da embalagem",
+      "Fechamento de arquivo digital para impressão gráfica"
+    ],
+    "linguagens": [
+      {
+        "nome": "PDF/X",
+        "desc": "Padrão de fechamento de arquivos PDF para impressão gráfica de alta qualidade."
+      }
+    ],
+    "ferramentas": [
+      {
+        "nome": "Adobe Illustrator",
+        "desc": "Planificação de embalagens cartotécnicas e fechamento de arquivos para impressão."
+      }
+    ]
+  },
+  {
+    "id": "uc15",
+    "modulo": 2,
+    "titulo": "UC15 - Desenvolver materiais de ponto de venda",
+    "atividades": [
+      "Planificação e criação de layout de materiais de ponto de venda (PDV) conforme briefing",
+      "Fechamento de arquivo digital para impressão de materiais de PDV"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Adobe Illustrator / Photoshop",
+        "desc": "Criação de layouts e materiais de ponto de venda (PDV)."
+      }
+    ]
+  },
+  {
+    "id": "uc16",
+    "modulo": 2,
+    "titulo": "UC16 - Criar mockups impressos e digitais",
+    "atividades": [
+      "Desenvolvimento de protótipo impresso (mockup físico) da embalagem",
+      "Execução de mockup digital 3D da embalagem com software de modelagem"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Adobe Illustrator / Dimension",
+        "desc": "Criação de mockups digitais 3D de embalagens e materiais gráficos."
+      },
+      {
+        "nome": "Blender",
+        "desc": "Software gratuito de modelagem e renderização 3D para mockups."
+      }
+    ]
+  },
+  {
+    "id": "uc17",
+    "modulo": 4,
+    "titulo": "UC17 - Projeto Integrador: Assistente de Design de Embalagens",
+    "atividades": [
+      "Projeto integrador: redesign de embalagem cartotécnica sustentável com materiais de PDV"
+    ]
+  },
+  {
+    "id": "uc18",
+    "modulo": 3,
+    "titulo": "UC18 - Planejar projetos gráficos digitais",
+    "atividades": [
+      "Elaboração de briefing e definição de estrutura do projeto de interface digital",
+      "Criação de wireframes e arquitetura da informação para produto digital",
+      "Apresentação das etapas do projeto com metodologia Design Thinking"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Figma",
+        "desc": "Design de interfaces, wireframes, prototipagem e apresentação de projetos digitais."
+      }
+    ]
+  },
+  {
+    "id": "uc19",
+    "modulo": 3,
+    "titulo": "UC19 - Desenvolver interface e guia de estilos gráficos para mídias digitais",
+    "atividades": [
+      "Desenvolvimento de interface gráfica para site responsivo e produtos para mídias digitais (Figma)",
+      "Criação de guia de estilos gráficos (paleta de cores, tipografia, iconografia, estados de botão)"
+    ],
+    "linguagens": [
+      {
+        "nome": "Figma",
+        "desc": "Ferramenta de design de interfaces, wireframes e prototipagem colaborativa baseada em nuvem."
+      }
+    ],
+    "ferramentas": [
+      {
+        "nome": "Figma / Adobe XD",
+        "desc": "Desenvolvimento de interfaces responsivas, guia de estilos e componentes de UI."
+      }
+    ]
+  },
+  {
+    "id": "uc20",
+    "modulo": 3,
+    "titulo": "UC20 - Desenvolver projeto de design em movimento",
+    "atividades": [
+      "Planejamento de animação e desenvolvimento de elementos gráficos para motion graphics (Adobe After Effects)",
+      "Finalização e renderização da animação nos formatos requeridos (AVI, MPEG, MOV)"
+    ],
+    "linguagens": [
+      {
+        "nome": "Adobe After Effects",
+        "desc": "Software de composição de vídeo e criação de animações e motion graphics."
+      }
+    ],
+    "ferramentas": [
+      {
+        "nome": "Adobe After Effects",
+        "desc": "Criação de motion graphics, animações e composição de vídeo."
+      }
+    ]
+  },
+  {
+    "id": "uc21",
+    "modulo": 3,
+    "titulo": "UC21 - Criar portfólio digital",
+    "atividades": [
+      "Desenvolvimento de narrativa/storytelling para apresentação do portfólio profissional",
+      "Publicação do portfólio em plataformas digitais profissionais (Behance, Wix, etc.)"
+    ],
+    "ferramentas": [
+      {
+        "nome": "Behance / Wix / WordPress",
+        "desc": "Plataformas para publicação e divulgação de portfólio profissional online."
+      }
+    ]
+  },
+  {
+    "id": "uc22",
+    "modulo": 4,
+    "titulo": "UC22 - Projeto Integrador: Assistente de Design Gráfico para Interfaces Digitais",
+    "atividades": [
+      "Projeto integrador: criação de projeto gráfico digital completo para interfaces (planejamento, interface, estilos e animação)"
+    ]
+  }
+]

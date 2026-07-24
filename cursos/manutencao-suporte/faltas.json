@@ -1,0 +1,122 @@
+[
+  {
+    "uc": 1,
+    "nome": "Planejar e executar a montagem de computadores",
+    "aulas": 28,
+    "ch": "84h",
+    "falta25": "21h",
+    "qtdeDias": "6 dias"
+  },
+  {
+    "uc": 2,
+    "nome": "Planejar e executar a instalação de hardware e software para computadores",
+    "aulas": 32,
+    "ch": "96h",
+    "falta25": "24h",
+    "qtdeDias": "6 dias"
+  },
+  {
+    "uc": 3,
+    "nome": "Planejar e executar a manutenção de computadores",
+    "aulas": 24,
+    "ch": "72h",
+    "falta25": "18h",
+    "qtdeDias": "5 dias"
+  },
+  {
+    "uc": 4,
+    "nome": "Projeto Integrador: Assistente de Suporte e Manutenção de Computadores",
+    "aulas": 7,
+    "ch": "20h",
+    "falta25": "5h",
+    "qtdeDias": "1 dia"
+  },
+  {
+    "uc": 5,
+    "nome": "Planejar e executar a instalação de redes locais de computadores",
+    "aulas": 32,
+    "ch": "96h",
+    "falta25": "24h",
+    "qtdeDias": "6 dias"
+  },
+  {
+    "uc": 6,
+    "nome": "Planejar e executar a manutenção de redes locais de computadores",
+    "aulas": 32,
+    "ch": "96h",
+    "falta25": "24h",
+    "qtdeDias": "6 dias"
+  },
+  {
+    "uc": 7,
+    "nome": "Planejar e executar a instalação, configuração e monitoramento de sistemas operacionais de redes locais (servidores)",
+    "aulas": 32,
+    "ch": "96h",
+    "falta25": "24h",
+    "qtdeDias": "6 dias"
+  },
+  {
+    "uc": 8,
+    "nome": "Projeto Integrador: Assistente de Operação de Redes de Computadores",
+    "aulas": 7,
+    "ch": "20h",
+    "falta25": "5h",
+    "qtdeDias": "1 dia"
+  },
+  {
+    "uc": 9,
+    "nome": "Implementar cabeamento estruturado e telefonia IP",
+    "aulas": 24,
+    "ch": "72h",
+    "falta25": "18h",
+    "qtdeDias": "5 dias"
+  },
+  {
+    "uc": 10,
+    "nome": "Planejar e executar a instalação de redes sem fio",
+    "aulas": 20,
+    "ch": "60h",
+    "falta25": "15h",
+    "qtdeDias": "4 dias"
+  },
+  {
+    "uc": 11,
+    "nome": "Planejar e executar a manutenção de notebooks e manutenção preventiva de impressoras",
+    "aulas": 16,
+    "ch": "48h",
+    "falta25": "12h",
+    "qtdeDias": "3 dias"
+  },
+  {
+    "uc": 12,
+    "nome": "Monitorar sistemas, aplicativos e equipamentos",
+    "aulas": 12,
+    "ch": "36h",
+    "falta25": "9h",
+    "qtdeDias": "2 dias"
+  },
+  {
+    "uc": 13,
+    "nome": "Realizar a gestão dos projetos e governança de processos em operações de suporte",
+    "aulas": 28,
+    "ch": "84h",
+    "falta25": "21h",
+    "qtdeDias": "6 dias"
+  },
+  {
+    "uc": 14,
+    "nome": "Atender clientes em serviços de manutenção e suporte de informática",
+    "aulas": 28,
+    "ch": "84h",
+    "falta25": "21h",
+    "qtdeDias": "6 dias"
+  },
+  {
+    "uc": 15,
+    "nome": "Projeto Integrador: Técnico em Manutenção e Suporte em Informática",
+    "aulas": 12,
+    "ch": "36h",
+    "falta25": "9h",
+    "qtdeDias": "2 dias"
+  }
+]

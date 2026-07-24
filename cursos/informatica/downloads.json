@@ -1,0 +1,77 @@
+[
+  {
+    "nome": "VS Code",
+    "desc": "Editor de código moderno para desenvolvimento desktop e web.",
+    "link": "https://code.visualstudio.com/"
+  },
+  {
+    "nome": "Visual Studio",
+    "desc": "IDE profissional da Microsoft para desenvolvimento em C# e .NET.",
+    "link": "https://visualstudio.microsoft.com/pt-br/downloads/"
+  },
+  {
+    "nome": "Git / GitHub",
+    "desc": "Controle de versões de código e hospedagem de projetos na nuvem.",
+    "link": "https://github.com/"
+  },
+  {
+    "nome": "MySQL / XAMPP",
+    "desc": "Banco de dados MySQL com servidor local Apache e PHP.",
+    "link": "https://www.apachefriends.org/pt_br/index.html"
+  },
+  {
+    "nome": "MySQL Workbench",
+    "desc": "Ferramenta gráfica para modelagem e administração de bancos MySQL.",
+    "link": "https://dev.mysql.com/downloads/workbench/"
+  },
+  {
+    "nome": "PostgreSQL / pgAdmin",
+    "desc": "Banco de dados avançado e sua interface de administração.",
+    "link": "https://www.postgresql.org/download/"
+  },
+  {
+    "nome": "VirtualBox",
+    "desc": "Criação e gerenciamento de máquinas virtuais.",
+    "link": "https://www.virtualbox.org/wiki/Downloads"
+  },
+  {
+    "nome": "Cisco Packet Tracer",
+    "desc": "Simulador de redes para projeto e configuração de topologias de rede.",
+    "link": "https://www.netacad.com/courses/packet-tracer"
+  },
+  {
+    "nome": "Wireshark",
+    "desc": "Analisador de protocolos para monitoramento de tráfego de rede.",
+    "link": "https://www.wireshark.org/download.html"
+  },
+  {
+    "nome": "VisualG",
+    "desc": "Interpretador de algoritmos em português para aprendizagem de lógica de programação.",
+    "link": "https://visualg3.com.br/"
+  },
+  {
+    "nome": "Figma",
+    "desc": "Design de interfaces, wireframes e prototipagem colaborativa.",
+    "link": "https://www.figma.com/"
+  },
+  {
+    "nome": "GIMP",
+    "desc": "Editor de imagens bitmap gratuito (alternativa ao Photoshop).",
+    "link": "https://www.gimp.org/downloads/"
+  },
+  {
+    "nome": "Inkscape",
+    "desc": "Editor de gráficos vetoriais gratuito (alternativa ao CorelDRAW).",
+    "link": "https://inkscape.org/pt-br/releases/"
+  },
+  {
+    "nome": "WordPress",
+    "desc": "Sistema de gerenciamento de conteúdo (CMS) para criação de sites.",
+    "link": "https://br.wordpress.org/download/"
+  },
+  {
+    "nome": "Pacote Office / LibreOffice",
+    "desc": "Aplicativos de escritório para edição de textos, planilhas e apresentações.",
+    "link": "https://www.libreoffice.org/download/download-libreoffice/"
+  }
+]
