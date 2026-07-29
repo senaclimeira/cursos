@@ -1,14 +1,14 @@
-# CLAUDE.md — cursos-senac-limeira
+# CLAUDE.md — senaclim-cursos
 
 ## Visão Geral
 
-Portal de cursos técnicos do Senac Limeira. Atualmente exibe informações de um único curso (Técnico em Desenvolvimento de Sistemas), mas será refatorado para suportar múltiplos cursos.
+Portal de cursos técnicos do Senac Limeira. Suporta múltiplos cursos (atualmente 6), cadastrados em `src/data/cursos.js` com conteúdo em `public/cursos/<slug>/`.
 
 - **Framework:** React 19 + Vite 7
 - **Roteamento:** React Router DOM 7 (HashRouter)
 - **CSS:** Bootstrap 5.3 + CSS customizado (`index.css`)
 - **Ícones:** Lucide React
-- **Deploy:** GitHub Pages via `gh-pages` (`base: '/cursos-senac-limeira/'`)
+- **Deploy:** GitHub Pages via `gh-pages` (`base: '/cursos/'`) — repositório `senaclimeira/cursos`, publicado em https://senaclimeira.github.io/cursos/
 
 ---
 
@@ -236,6 +236,6 @@ npm run importar -- <planilha.xlsx>  # Importa curso da planilha
 
 ## Observações
 
-- O `base` no `vite.config.js` está como `/cursos-senac-limeira/` — manter para não quebrar o deploy atual.
+- O `base` no `vite.config.js` está como `/cursos/` (nome do repositório no GitHub) — manter para não quebrar o deploy atual.
 - `_faltas.jsx` é um arquivo duplicado/backup — pode ser removido.
 - Bootstrap JS está incluído via `bootstrap.bundle.min.js` no `main.jsx` (necessário para o acordeão e o menu mobile).
