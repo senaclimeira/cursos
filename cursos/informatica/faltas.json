@@ -2,15 +2,15 @@
   {
     "uc": 1,
     "nome": "Planejar e executar a montagem de computadores",
-    "aulas": 28,
+    "aulas": 21,
     "ch": "84h",
     "falta25": "21h",
-    "qtdeDias": "6 dias"
+    "qtdeDias": "5 dias"
   },
   {
     "uc": 2,
     "nome": "Planejar e executar a instalação de hardware e software para computadores",
-    "aulas": 32,
+    "aulas": 24,
     "ch": "96h",
     "falta25": "24h",
     "qtdeDias": "6 dias"
@@ -18,15 +18,15 @@
   {
     "uc": 3,
     "nome": "Planejar e executar a manutenção de computadores",
-    "aulas": 24,
+    "aulas": 18,
     "ch": "72h",
     "falta25": "18h",
-    "qtdeDias": "5 dias"
+    "qtdeDias": "4 dias"
   },
   {
     "uc": 4,
     "nome": "Projeto Integrador: Assistente de Suporte e Manutenção de Computadores",
-    "aulas": 7,
+    "aulas": 5,
     "ch": "20h",
     "falta25": "5h",
     "qtdeDias": "1 dia"
@@ -34,7 +34,7 @@
   {
     "uc": 5,
     "nome": "Planejar e executar a instalação de redes locais de computadores",
-    "aulas": 32,
+    "aulas": 24,
     "ch": "96h",
     "falta25": "24h",
     "qtdeDias": "6 dias"
@@ -42,7 +42,7 @@
   {
     "uc": 6,
     "nome": "Planejar e executar a manutenção de redes locais de computadores",
-    "aulas": 32,
+    "aulas": 24,
     "ch": "96h",
     "falta25": "24h",
     "qtdeDias": "6 dias"
@@ -50,7 +50,7 @@
   {
     "uc": 7,
     "nome": "Planejar e executar a instalação, configuração e monitoramento de sistemas operacionais de redes locais (servidores)",
-    "aulas": 32,
+    "aulas": 24,
     "ch": "96h",
     "falta25": "24h",
     "qtdeDias": "6 dias"
@@ -58,7 +58,7 @@
   {
     "uc": 8,
     "nome": "Projeto Integrador: Assistente de Operação de Redes de Computadores",
-    "aulas": 7,
+    "aulas": 5,
     "ch": "20h",
     "falta25": "5h",
     "qtdeDias": "1 dia"
@@ -66,31 +66,31 @@
   {
     "uc": 9,
     "nome": "Desenvolver Algoritmos",
-    "aulas": 36,
+    "aulas": 27,
     "ch": "108h",
     "falta25": "27h",
-    "qtdeDias": "7 dias"
+    "qtdeDias": "6 dias"
   },
   {
     "uc": 10,
     "nome": "Desenvolver banco de dados",
-    "aulas": 24,
+    "aulas": 18,
     "ch": "72h",
     "falta25": "18h",
-    "qtdeDias": "5 dias"
+    "qtdeDias": "4 dias"
   },
   {
     "uc": 11,
     "nome": "Executar teste e implantação de aplicativos computacionais",
-    "aulas": 20,
+    "aulas": 15,
     "ch": "60h",
     "falta25": "15h",
-    "qtdeDias": "4 dias"
+    "qtdeDias": "3 dias"
   },
   {
     "uc": 12,
     "nome": "Executar os processos de codificação, manutenção e documentação de aplicativos computacionais para desktop",
-    "aulas": 32,
+    "aulas": 24,
     "ch": "96h",
     "falta25": "24h",
     "qtdeDias": "6 dias"
@@ -98,7 +98,7 @@
   {
     "uc": 13,
     "nome": "Executar os processos de codificação, manutenção e documentação de aplicativos computacionais para internet",
-    "aulas": 32,
+    "aulas": 24,
     "ch": "96h",
     "falta25": "24h",
     "qtdeDias": "6 dias"
@@ -106,7 +106,7 @@
   {
     "uc": 14,
     "nome": "Manipular e otimizar imagens vetoriais, bitmaps gráficos e elementos visuais de navegação para web",
-    "aulas": 16,
+    "aulas": 12,
     "ch": "48h",
     "falta25": "12h",
     "qtdeDias": "3 dias"
@@ -114,15 +114,15 @@
   {
     "uc": 15,
     "nome": "Desenvolver e organizar elementos estruturais de sites",
-    "aulas": 36,
+    "aulas": 27,
     "ch": "108h",
     "falta25": "27h",
-    "qtdeDias": "7 dias"
+    "qtdeDias": "6 dias"
   },
   {
     "uc": 16,
     "nome": "Projeto Integrador: Assistente de Desenvolvimento de Aplicativos Computacionais",
-    "aulas": 11,
+    "aulas": 8,
     "ch": "32h",
     "falta25": "8h",
     "qtdeDias": "2 dias"
